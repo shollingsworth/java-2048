@@ -1,0 +1,5692 @@
+head	1.283;
+access;
+symbols;
+locks
+	stevenh:1.283; strict;
+comment	@# @;
+
+
+1.283
+date	2014.07.10.03.52.34;	author stevenh;	state Exp;
+branches;
+next	1.282;
+
+1.282
+date	2014.07.10.03.51.34;	author stevenh;	state Exp;
+branches;
+next	1.281;
+
+1.281
+date	2014.07.10.03.50.31;	author stevenh;	state Exp;
+branches;
+next	1.280;
+
+1.280
+date	2014.07.10.03.50.17;	author stevenh;	state Exp;
+branches;
+next	1.279;
+
+1.279
+date	2014.07.10.03.48.53;	author stevenh;	state Exp;
+branches;
+next	1.278;
+
+1.278
+date	2014.07.10.03.48.12;	author stevenh;	state Exp;
+branches;
+next	1.277;
+
+1.277
+date	2014.07.10.03.47.37;	author stevenh;	state Exp;
+branches;
+next	1.276;
+
+1.276
+date	2014.07.10.03.47.23;	author stevenh;	state Exp;
+branches;
+next	1.275;
+
+1.275
+date	2014.07.10.03.47.05;	author stevenh;	state Exp;
+branches;
+next	1.274;
+
+1.274
+date	2014.07.10.03.45.56;	author stevenh;	state Exp;
+branches;
+next	1.273;
+
+1.273
+date	2014.07.10.03.42.57;	author stevenh;	state Exp;
+branches;
+next	1.272;
+
+1.272
+date	2014.07.10.03.41.36;	author stevenh;	state Exp;
+branches;
+next	1.271;
+
+1.271
+date	2014.07.10.03.40.48;	author stevenh;	state Exp;
+branches;
+next	1.270;
+
+1.270
+date	2014.07.10.03.40.34;	author stevenh;	state Exp;
+branches;
+next	1.269;
+
+1.269
+date	2014.07.10.03.36.24;	author stevenh;	state Exp;
+branches;
+next	1.268;
+
+1.268
+date	2014.07.10.03.34.16;	author stevenh;	state Exp;
+branches;
+next	1.267;
+
+1.267
+date	2014.07.10.03.33.36;	author stevenh;	state Exp;
+branches;
+next	1.266;
+
+1.266
+date	2014.07.10.03.31.46;	author stevenh;	state Exp;
+branches;
+next	1.265;
+
+1.265
+date	2014.07.10.03.31.00;	author stevenh;	state Exp;
+branches;
+next	1.264;
+
+1.264
+date	2014.07.10.03.30.50;	author stevenh;	state Exp;
+branches;
+next	1.263;
+
+1.263
+date	2014.07.10.03.30.35;	author stevenh;	state Exp;
+branches;
+next	1.262;
+
+1.262
+date	2014.07.10.03.30.26;	author stevenh;	state Exp;
+branches;
+next	1.261;
+
+1.261
+date	2014.07.10.03.30.18;	author stevenh;	state Exp;
+branches;
+next	1.260;
+
+1.260
+date	2014.07.10.03.29.59;	author stevenh;	state Exp;
+branches;
+next	1.259;
+
+1.259
+date	2014.07.10.03.17.08;	author stevenh;	state Exp;
+branches;
+next	1.258;
+
+1.258
+date	2014.07.10.03.16.23;	author stevenh;	state Exp;
+branches;
+next	1.257;
+
+1.257
+date	2014.07.10.02.52.47;	author stevenh;	state Exp;
+branches;
+next	1.256;
+
+1.256
+date	2014.07.10.02.49.52;	author stevenh;	state Exp;
+branches;
+next	1.255;
+
+1.255
+date	2014.07.10.02.39.53;	author stevenh;	state Exp;
+branches;
+next	1.254;
+
+1.254
+date	2014.07.10.02.33.14;	author stevenh;	state Exp;
+branches;
+next	1.253;
+
+1.253
+date	2014.07.10.02.31.26;	author stevenh;	state Exp;
+branches;
+next	1.252;
+
+1.252
+date	2014.07.10.02.27.56;	author stevenh;	state Exp;
+branches;
+next	1.251;
+
+1.251
+date	2014.07.10.02.26.13;	author stevenh;	state Exp;
+branches;
+next	1.250;
+
+1.250
+date	2014.07.10.02.25.59;	author stevenh;	state Exp;
+branches;
+next	1.249;
+
+1.249
+date	2014.07.10.02.24.56;	author stevenh;	state Exp;
+branches;
+next	1.248;
+
+1.248
+date	2014.07.10.02.24.37;	author stevenh;	state Exp;
+branches;
+next	1.247;
+
+1.247
+date	2014.07.09.21.18.39;	author stevenh;	state Exp;
+branches;
+next	1.246;
+
+1.246
+date	2014.07.09.21.17.05;	author stevenh;	state Exp;
+branches;
+next	1.245;
+
+1.245
+date	2014.07.09.21.01.25;	author stevenh;	state Exp;
+branches;
+next	1.244;
+
+1.244
+date	2014.07.09.21.00.44;	author stevenh;	state Exp;
+branches;
+next	1.243;
+
+1.243
+date	2014.07.09.21.00.20;	author stevenh;	state Exp;
+branches;
+next	1.242;
+
+1.242
+date	2014.07.09.20.04.46;	author stevenh;	state Exp;
+branches;
+next	1.241;
+
+1.241
+date	2014.07.09.20.04.27;	author stevenh;	state Exp;
+branches;
+next	1.240;
+
+1.240
+date	2014.07.09.20.03.48;	author stevenh;	state Exp;
+branches;
+next	1.239;
+
+1.239
+date	2014.07.09.20.03.12;	author stevenh;	state Exp;
+branches;
+next	1.238;
+
+1.238
+date	2014.07.09.20.01.27;	author stevenh;	state Exp;
+branches;
+next	1.237;
+
+1.237
+date	2014.07.09.20.00.28;	author stevenh;	state Exp;
+branches;
+next	1.236;
+
+1.236
+date	2014.07.09.19.58.36;	author stevenh;	state Exp;
+branches;
+next	1.235;
+
+1.235
+date	2014.07.09.19.57.44;	author stevenh;	state Exp;
+branches;
+next	1.234;
+
+1.234
+date	2014.07.09.19.57.31;	author stevenh;	state Exp;
+branches;
+next	1.233;
+
+1.233
+date	2014.07.09.19.52.20;	author stevenh;	state Exp;
+branches;
+next	1.232;
+
+1.232
+date	2014.07.09.19.52.08;	author stevenh;	state Exp;
+branches;
+next	1.231;
+
+1.231
+date	2014.07.09.19.47.45;	author stevenh;	state Exp;
+branches;
+next	1.230;
+
+1.230
+date	2014.07.09.19.47.34;	author stevenh;	state Exp;
+branches;
+next	1.229;
+
+1.229
+date	2014.07.09.19.46.39;	author stevenh;	state Exp;
+branches;
+next	1.228;
+
+1.228
+date	2014.07.09.19.46.31;	author stevenh;	state Exp;
+branches;
+next	1.227;
+
+1.227
+date	2014.07.09.19.45.22;	author stevenh;	state Exp;
+branches;
+next	1.226;
+
+1.226
+date	2014.07.09.19.44.37;	author stevenh;	state Exp;
+branches;
+next	1.225;
+
+1.225
+date	2014.07.09.19.43.56;	author stevenh;	state Exp;
+branches;
+next	1.224;
+
+1.224
+date	2014.07.09.19.42.37;	author stevenh;	state Exp;
+branches;
+next	1.223;
+
+1.223
+date	2014.07.09.19.41.35;	author stevenh;	state Exp;
+branches;
+next	1.222;
+
+1.222
+date	2014.07.09.19.40.55;	author stevenh;	state Exp;
+branches;
+next	1.221;
+
+1.221
+date	2014.07.09.19.35.22;	author stevenh;	state Exp;
+branches;
+next	1.220;
+
+1.220
+date	2014.07.09.19.35.04;	author stevenh;	state Exp;
+branches;
+next	1.219;
+
+1.219
+date	2014.07.09.19.23.01;	author stevenh;	state Exp;
+branches;
+next	1.218;
+
+1.218
+date	2014.07.09.19.20.18;	author stevenh;	state Exp;
+branches;
+next	1.217;
+
+1.217
+date	2014.07.09.19.20.06;	author stevenh;	state Exp;
+branches;
+next	1.216;
+
+1.216
+date	2014.07.09.19.19.42;	author stevenh;	state Exp;
+branches;
+next	1.215;
+
+1.215
+date	2014.07.09.19.11.31;	author stevenh;	state Exp;
+branches;
+next	1.214;
+
+1.214
+date	2014.07.09.18.58.15;	author stevenh;	state Exp;
+branches;
+next	1.213;
+
+1.213
+date	2014.07.09.18.57.02;	author stevenh;	state Exp;
+branches;
+next	1.212;
+
+1.212
+date	2014.07.09.18.50.29;	author stevenh;	state Exp;
+branches;
+next	1.211;
+
+1.211
+date	2014.07.09.18.48.46;	author stevenh;	state Exp;
+branches;
+next	1.210;
+
+1.210
+date	2014.07.09.18.40.23;	author stevenh;	state Exp;
+branches;
+next	1.209;
+
+1.209
+date	2014.07.09.18.32.05;	author stevenh;	state Exp;
+branches;
+next	1.208;
+
+1.208
+date	2014.07.09.18.30.49;	author stevenh;	state Exp;
+branches;
+next	1.207;
+
+1.207
+date	2014.07.09.18.24.27;	author stevenh;	state Exp;
+branches;
+next	1.206;
+
+1.206
+date	2014.07.09.18.24.07;	author stevenh;	state Exp;
+branches;
+next	1.205;
+
+1.205
+date	2014.07.09.18.22.28;	author stevenh;	state Exp;
+branches;
+next	1.204;
+
+1.204
+date	2014.07.09.18.22.08;	author stevenh;	state Exp;
+branches;
+next	1.203;
+
+1.203
+date	2014.07.09.18.20.41;	author stevenh;	state Exp;
+branches;
+next	1.202;
+
+1.202
+date	2014.07.09.18.20.24;	author stevenh;	state Exp;
+branches;
+next	1.201;
+
+1.201
+date	2014.07.09.18.19.41;	author stevenh;	state Exp;
+branches;
+next	1.200;
+
+1.200
+date	2014.07.09.18.19.09;	author stevenh;	state Exp;
+branches;
+next	1.199;
+
+1.199
+date	2014.07.09.18.18.38;	author stevenh;	state Exp;
+branches;
+next	1.198;
+
+1.198
+date	2014.07.09.18.18.23;	author stevenh;	state Exp;
+branches;
+next	1.197;
+
+1.197
+date	2014.07.09.18.17.43;	author stevenh;	state Exp;
+branches;
+next	1.196;
+
+1.196
+date	2014.07.09.18.17.37;	author stevenh;	state Exp;
+branches;
+next	1.195;
+
+1.195
+date	2014.07.09.18.17.26;	author stevenh;	state Exp;
+branches;
+next	1.194;
+
+1.194
+date	2014.07.09.18.17.13;	author stevenh;	state Exp;
+branches;
+next	1.193;
+
+1.193
+date	2014.07.09.18.16.53;	author stevenh;	state Exp;
+branches;
+next	1.192;
+
+1.192
+date	2014.07.09.18.16.41;	author stevenh;	state Exp;
+branches;
+next	1.191;
+
+1.191
+date	2014.07.09.18.16.23;	author stevenh;	state Exp;
+branches;
+next	1.190;
+
+1.190
+date	2014.07.09.18.16.08;	author stevenh;	state Exp;
+branches;
+next	1.189;
+
+1.189
+date	2014.07.09.18.15.24;	author stevenh;	state Exp;
+branches;
+next	1.188;
+
+1.188
+date	2014.07.09.18.15.02;	author stevenh;	state Exp;
+branches;
+next	1.187;
+
+1.187
+date	2014.07.09.18.14.53;	author stevenh;	state Exp;
+branches;
+next	1.186;
+
+1.186
+date	2014.07.09.18.14.34;	author stevenh;	state Exp;
+branches;
+next	1.185;
+
+1.185
+date	2014.07.09.18.14.27;	author stevenh;	state Exp;
+branches;
+next	1.184;
+
+1.184
+date	2014.07.09.18.13.53;	author stevenh;	state Exp;
+branches;
+next	1.183;
+
+1.183
+date	2014.07.09.18.13.36;	author stevenh;	state Exp;
+branches;
+next	1.182;
+
+1.182
+date	2014.07.09.18.13.14;	author stevenh;	state Exp;
+branches;
+next	1.181;
+
+1.181
+date	2014.07.09.18.12.47;	author stevenh;	state Exp;
+branches;
+next	1.180;
+
+1.180
+date	2014.07.09.18.10.41;	author stevenh;	state Exp;
+branches;
+next	1.179;
+
+1.179
+date	2014.07.09.17.38.00;	author stevenh;	state Exp;
+branches;
+next	1.178;
+
+1.178
+date	2014.07.09.17.36.21;	author stevenh;	state Exp;
+branches;
+next	1.177;
+
+1.177
+date	2014.07.09.17.31.32;	author stevenh;	state Exp;
+branches;
+next	1.176;
+
+1.176
+date	2014.07.09.17.26.14;	author stevenh;	state Exp;
+branches;
+next	1.175;
+
+1.175
+date	2014.07.09.17.09.18;	author stevenh;	state Exp;
+branches;
+next	1.174;
+
+1.174
+date	2014.07.09.17.09.04;	author stevenh;	state Exp;
+branches;
+next	1.173;
+
+1.173
+date	2014.07.09.17.07.38;	author stevenh;	state Exp;
+branches;
+next	1.172;
+
+1.172
+date	2014.07.09.17.06.27;	author stevenh;	state Exp;
+branches;
+next	1.171;
+
+1.171
+date	2014.07.09.17.05.05;	author stevenh;	state Exp;
+branches;
+next	1.170;
+
+1.170
+date	2014.07.09.17.04.17;	author stevenh;	state Exp;
+branches;
+next	1.169;
+
+1.169
+date	2014.07.09.17.03.49;	author stevenh;	state Exp;
+branches;
+next	1.168;
+
+1.168
+date	2014.07.09.17.03.31;	author stevenh;	state Exp;
+branches;
+next	1.167;
+
+1.167
+date	2014.07.09.17.02.48;	author stevenh;	state Exp;
+branches;
+next	1.166;
+
+1.166
+date	2014.07.09.17.02.24;	author stevenh;	state Exp;
+branches;
+next	1.165;
+
+1.165
+date	2014.07.09.17.02.07;	author stevenh;	state Exp;
+branches;
+next	1.164;
+
+1.164
+date	2014.07.09.17.00.53;	author stevenh;	state Exp;
+branches;
+next	1.163;
+
+1.163
+date	2014.07.09.16.17.45;	author stevenh;	state Exp;
+branches;
+next	1.162;
+
+1.162
+date	2014.07.09.16.17.32;	author stevenh;	state Exp;
+branches;
+next	1.161;
+
+1.161
+date	2014.07.09.16.17.06;	author stevenh;	state Exp;
+branches;
+next	1.160;
+
+1.160
+date	2014.07.09.16.16.42;	author stevenh;	state Exp;
+branches;
+next	1.159;
+
+1.159
+date	2014.07.09.16.15.33;	author stevenh;	state Exp;
+branches;
+next	1.158;
+
+1.158
+date	2014.07.09.16.14.51;	author stevenh;	state Exp;
+branches;
+next	1.157;
+
+1.157
+date	2014.07.09.16.11.13;	author stevenh;	state Exp;
+branches;
+next	1.156;
+
+1.156
+date	2014.07.09.16.10.53;	author stevenh;	state Exp;
+branches;
+next	1.155;
+
+1.155
+date	2014.07.09.16.09.43;	author stevenh;	state Exp;
+branches;
+next	1.154;
+
+1.154
+date	2014.07.09.16.08.42;	author stevenh;	state Exp;
+branches;
+next	1.153;
+
+1.153
+date	2014.07.09.15.59.47;	author stevenh;	state Exp;
+branches;
+next	1.152;
+
+1.152
+date	2014.07.09.15.55.12;	author stevenh;	state Exp;
+branches;
+next	1.151;
+
+1.151
+date	2014.07.09.15.54.00;	author stevenh;	state Exp;
+branches;
+next	1.150;
+
+1.150
+date	2014.07.09.15.50.43;	author stevenh;	state Exp;
+branches;
+next	1.149;
+
+1.149
+date	2014.07.09.15.49.41;	author stevenh;	state Exp;
+branches;
+next	1.148;
+
+1.148
+date	2014.07.09.15.49.28;	author stevenh;	state Exp;
+branches;
+next	1.147;
+
+1.147
+date	2014.07.09.15.43.20;	author stevenh;	state Exp;
+branches;
+next	1.146;
+
+1.146
+date	2014.07.09.15.42.49;	author stevenh;	state Exp;
+branches;
+next	1.145;
+
+1.145
+date	2014.07.09.15.38.40;	author stevenh;	state Exp;
+branches;
+next	1.144;
+
+1.144
+date	2014.07.09.15.38.21;	author stevenh;	state Exp;
+branches;
+next	1.143;
+
+1.143
+date	2014.07.09.15.37.55;	author stevenh;	state Exp;
+branches;
+next	1.142;
+
+1.142
+date	2014.07.09.15.14.04;	author stevenh;	state Exp;
+branches;
+next	1.141;
+
+1.141
+date	2014.07.09.05.18.37;	author stevenh;	state Exp;
+branches;
+next	1.140;
+
+1.140
+date	2014.07.09.05.18.17;	author stevenh;	state Exp;
+branches;
+next	1.139;
+
+1.139
+date	2014.07.09.05.15.14;	author stevenh;	state Exp;
+branches;
+next	1.138;
+
+1.138
+date	2014.07.09.03.51.11;	author stevenh;	state Exp;
+branches;
+next	1.137;
+
+1.137
+date	2014.07.09.03.49.16;	author stevenh;	state Exp;
+branches;
+next	1.136;
+
+1.136
+date	2014.07.09.03.47.49;	author stevenh;	state Exp;
+branches;
+next	1.135;
+
+1.135
+date	2014.07.09.03.15.29;	author stevenh;	state Exp;
+branches;
+next	1.134;
+
+1.134
+date	2014.07.09.03.08.45;	author stevenh;	state Exp;
+branches;
+next	1.133;
+
+1.133
+date	2014.07.09.03.04.43;	author stevenh;	state Exp;
+branches;
+next	1.132;
+
+1.132
+date	2014.07.09.02.46.31;	author stevenh;	state Exp;
+branches;
+next	1.131;
+
+1.131
+date	2014.07.08.23.55.58;	author stevenh;	state Exp;
+branches;
+next	1.130;
+
+1.130
+date	2014.07.08.20.48.05;	author stevenh;	state Exp;
+branches;
+next	1.129;
+
+1.129
+date	2014.07.08.20.39.42;	author stevenh;	state Exp;
+branches;
+next	1.128;
+
+1.128
+date	2014.07.08.20.37.03;	author stevenh;	state Exp;
+branches;
+next	1.127;
+
+1.127
+date	2014.07.08.20.28.35;	author stevenh;	state Exp;
+branches;
+next	1.126;
+
+1.126
+date	2014.07.08.20.26.01;	author stevenh;	state Exp;
+branches;
+next	1.125;
+
+1.125
+date	2014.07.08.19.19.08;	author stevenh;	state Exp;
+branches;
+next	1.124;
+
+1.124
+date	2014.07.08.19.18.27;	author stevenh;	state Exp;
+branches;
+next	1.123;
+
+1.123
+date	2014.07.08.13.39.06;	author stevenh;	state Exp;
+branches;
+next	1.122;
+
+1.122
+date	2014.07.08.13.37.24;	author stevenh;	state Exp;
+branches;
+next	1.121;
+
+1.121
+date	2014.07.08.13.36.21;	author stevenh;	state Exp;
+branches;
+next	1.120;
+
+1.120
+date	2014.07.08.13.35.00;	author stevenh;	state Exp;
+branches;
+next	1.119;
+
+1.119
+date	2014.07.08.13.31.36;	author stevenh;	state Exp;
+branches;
+next	1.118;
+
+1.118
+date	2014.07.08.13.30.03;	author stevenh;	state Exp;
+branches;
+next	1.117;
+
+1.117
+date	2014.07.08.13.28.07;	author stevenh;	state Exp;
+branches;
+next	1.116;
+
+1.116
+date	2014.07.08.13.27.50;	author stevenh;	state Exp;
+branches;
+next	1.115;
+
+1.115
+date	2014.07.08.13.24.51;	author stevenh;	state Exp;
+branches;
+next	1.114;
+
+1.114
+date	2014.07.08.13.24.10;	author stevenh;	state Exp;
+branches;
+next	1.113;
+
+1.113
+date	2014.07.08.13.22.51;	author stevenh;	state Exp;
+branches;
+next	1.112;
+
+1.112
+date	2014.07.08.13.21.39;	author stevenh;	state Exp;
+branches;
+next	1.111;
+
+1.111
+date	2014.07.08.13.20.55;	author stevenh;	state Exp;
+branches;
+next	1.110;
+
+1.110
+date	2014.07.08.13.20.28;	author stevenh;	state Exp;
+branches;
+next	1.109;
+
+1.109
+date	2014.07.08.13.13.53;	author stevenh;	state Exp;
+branches;
+next	1.108;
+
+1.108
+date	2014.07.08.13.12.47;	author stevenh;	state Exp;
+branches;
+next	1.107;
+
+1.107
+date	2014.07.08.13.06.53;	author stevenh;	state Exp;
+branches;
+next	1.106;
+
+1.106
+date	2014.07.08.13.05.53;	author stevenh;	state Exp;
+branches;
+next	1.105;
+
+1.105
+date	2014.07.08.12.43.20;	author stevenh;	state Exp;
+branches;
+next	1.104;
+
+1.104
+date	2014.07.08.12.40.30;	author stevenh;	state Exp;
+branches;
+next	1.103;
+
+1.103
+date	2014.07.08.12.38.23;	author stevenh;	state Exp;
+branches;
+next	1.102;
+
+1.102
+date	2014.07.08.12.37.35;	author stevenh;	state Exp;
+branches;
+next	1.101;
+
+1.101
+date	2014.07.08.12.36.50;	author stevenh;	state Exp;
+branches;
+next	1.100;
+
+1.100
+date	2014.07.08.12.33.39;	author stevenh;	state Exp;
+branches;
+next	1.99;
+
+1.99
+date	2014.07.08.12.33.09;	author stevenh;	state Exp;
+branches;
+next	1.98;
+
+1.98
+date	2014.07.08.12.32.35;	author stevenh;	state Exp;
+branches;
+next	1.97;
+
+1.97
+date	2014.07.08.12.22.07;	author stevenh;	state Exp;
+branches;
+next	1.96;
+
+1.96
+date	2014.07.08.12.21.51;	author stevenh;	state Exp;
+branches;
+next	1.95;
+
+1.95
+date	2014.07.08.12.19.54;	author stevenh;	state Exp;
+branches;
+next	1.94;
+
+1.94
+date	2014.07.08.12.04.35;	author stevenh;	state Exp;
+branches;
+next	1.93;
+
+1.93
+date	2014.07.08.12.03.39;	author stevenh;	state Exp;
+branches;
+next	1.92;
+
+1.92
+date	2014.07.08.11.54.37;	author stevenh;	state Exp;
+branches;
+next	1.91;
+
+1.91
+date	2014.07.08.11.54.12;	author stevenh;	state Exp;
+branches;
+next	1.90;
+
+1.90
+date	2014.07.08.11.53.21;	author stevenh;	state Exp;
+branches;
+next	1.89;
+
+1.89
+date	2014.07.08.11.40.21;	author stevenh;	state Exp;
+branches;
+next	1.88;
+
+1.88
+date	2014.07.08.11.37.00;	author stevenh;	state Exp;
+branches;
+next	1.87;
+
+1.87
+date	2014.07.08.11.35.56;	author stevenh;	state Exp;
+branches;
+next	1.86;
+
+1.86
+date	2014.07.08.11.30.50;	author stevenh;	state Exp;
+branches;
+next	1.85;
+
+1.85
+date	2014.07.08.11.29.33;	author stevenh;	state Exp;
+branches;
+next	1.84;
+
+1.84
+date	2014.07.08.01.52.23;	author stevenh;	state Exp;
+branches;
+next	1.83;
+
+1.83
+date	2014.07.08.01.51.57;	author stevenh;	state Exp;
+branches;
+next	1.82;
+
+1.82
+date	2014.07.08.01.51.44;	author stevenh;	state Exp;
+branches;
+next	1.81;
+
+1.81
+date	2014.07.08.01.51.04;	author stevenh;	state Exp;
+branches;
+next	1.80;
+
+1.80
+date	2014.07.08.01.49.11;	author stevenh;	state Exp;
+branches;
+next	1.79;
+
+1.79
+date	2014.07.08.01.46.00;	author stevenh;	state Exp;
+branches;
+next	1.78;
+
+1.78
+date	2014.07.08.01.41.32;	author stevenh;	state Exp;
+branches;
+next	1.77;
+
+1.77
+date	2014.07.08.01.32.48;	author stevenh;	state Exp;
+branches;
+next	1.76;
+
+1.76
+date	2014.07.08.01.08.25;	author stevenh;	state Exp;
+branches;
+next	1.75;
+
+1.75
+date	2014.07.08.01.08.15;	author stevenh;	state Exp;
+branches;
+next	1.74;
+
+1.74
+date	2014.07.08.00.56.25;	author stevenh;	state Exp;
+branches;
+next	1.73;
+
+1.73
+date	2014.07.08.00.55.59;	author stevenh;	state Exp;
+branches;
+next	1.72;
+
+1.72
+date	2014.07.08.00.54.31;	author stevenh;	state Exp;
+branches;
+next	1.71;
+
+1.71
+date	2014.07.08.00.51.18;	author stevenh;	state Exp;
+branches;
+next	1.70;
+
+1.70
+date	2014.07.08.00.46.38;	author stevenh;	state Exp;
+branches;
+next	1.69;
+
+1.69
+date	2014.07.08.00.39.29;	author stevenh;	state Exp;
+branches;
+next	1.68;
+
+1.68
+date	2014.07.04.03.15.27;	author stevenh;	state Exp;
+branches;
+next	1.67;
+
+1.67
+date	2014.07.04.03.13.51;	author stevenh;	state Exp;
+branches;
+next	1.66;
+
+1.66
+date	2014.07.04.03.12.31;	author stevenh;	state Exp;
+branches;
+next	1.65;
+
+1.65
+date	2014.07.04.02.48.43;	author stevenh;	state Exp;
+branches;
+next	1.64;
+
+1.64
+date	2014.07.03.05.01.15;	author stevenh;	state Exp;
+branches;
+next	1.63;
+
+1.63
+date	2014.07.03.04.23.55;	author stevenh;	state Exp;
+branches;
+next	1.62;
+
+1.62
+date	2014.07.03.04.23.34;	author stevenh;	state Exp;
+branches;
+next	1.61;
+
+1.61
+date	2014.07.03.04.23.18;	author stevenh;	state Exp;
+branches;
+next	1.60;
+
+1.60
+date	2014.07.03.04.22.30;	author stevenh;	state Exp;
+branches;
+next	1.59;
+
+1.59
+date	2014.07.03.04.20.14;	author stevenh;	state Exp;
+branches;
+next	1.58;
+
+1.58
+date	2014.07.03.04.12.49;	author stevenh;	state Exp;
+branches;
+next	1.57;
+
+1.57
+date	2014.07.03.04.12.38;	author stevenh;	state Exp;
+branches;
+next	1.56;
+
+1.56
+date	2014.07.03.04.11.14;	author stevenh;	state Exp;
+branches;
+next	1.55;
+
+1.55
+date	2014.07.03.04.03.22;	author stevenh;	state Exp;
+branches;
+next	1.54;
+
+1.54
+date	2014.07.03.04.03.08;	author stevenh;	state Exp;
+branches;
+next	1.53;
+
+1.53
+date	2014.07.03.04.01.58;	author stevenh;	state Exp;
+branches;
+next	1.52;
+
+1.52
+date	2014.07.03.04.00.44;	author stevenh;	state Exp;
+branches;
+next	1.51;
+
+1.51
+date	2014.07.03.03.55.49;	author stevenh;	state Exp;
+branches;
+next	1.50;
+
+1.50
+date	2014.07.03.03.54.01;	author stevenh;	state Exp;
+branches;
+next	1.49;
+
+1.49
+date	2014.07.03.03.49.31;	author stevenh;	state Exp;
+branches;
+next	1.48;
+
+1.48
+date	2014.07.03.03.48.31;	author stevenh;	state Exp;
+branches;
+next	1.47;
+
+1.47
+date	2014.07.03.03.48.25;	author stevenh;	state Exp;
+branches;
+next	1.46;
+
+1.46
+date	2014.07.03.03.36.59;	author stevenh;	state Exp;
+branches;
+next	1.45;
+
+1.45
+date	2014.07.03.03.36.50;	author stevenh;	state Exp;
+branches;
+next	1.44;
+
+1.44
+date	2014.07.03.03.35.45;	author stevenh;	state Exp;
+branches;
+next	1.43;
+
+1.43
+date	2014.07.03.03.35.05;	author stevenh;	state Exp;
+branches;
+next	1.42;
+
+1.42
+date	2014.07.03.03.34.23;	author stevenh;	state Exp;
+branches;
+next	1.41;
+
+1.41
+date	2014.07.03.03.33.28;	author stevenh;	state Exp;
+branches;
+next	1.40;
+
+1.40
+date	2014.07.03.03.31.35;	author stevenh;	state Exp;
+branches;
+next	1.39;
+
+1.39
+date	2014.07.03.03.31.13;	author stevenh;	state Exp;
+branches;
+next	1.38;
+
+1.38
+date	2014.07.03.03.30.54;	author stevenh;	state Exp;
+branches;
+next	1.37;
+
+1.37
+date	2014.07.03.03.27.52;	author stevenh;	state Exp;
+branches;
+next	1.36;
+
+1.36
+date	2014.07.03.03.26.02;	author stevenh;	state Exp;
+branches;
+next	1.35;
+
+1.35
+date	2014.07.03.03.25.37;	author stevenh;	state Exp;
+branches;
+next	1.34;
+
+1.34
+date	2014.07.03.03.25.13;	author stevenh;	state Exp;
+branches;
+next	1.33;
+
+1.33
+date	2014.07.03.03.11.20;	author stevenh;	state Exp;
+branches;
+next	1.32;
+
+1.32
+date	2014.07.03.03.10.25;	author stevenh;	state Exp;
+branches;
+next	1.31;
+
+1.31
+date	2014.07.03.03.09.39;	author stevenh;	state Exp;
+branches;
+next	1.30;
+
+1.30
+date	2014.07.03.03.09.25;	author stevenh;	state Exp;
+branches;
+next	1.29;
+
+1.29
+date	2014.07.03.03.09.00;	author stevenh;	state Exp;
+branches;
+next	1.28;
+
+1.28
+date	2014.07.03.02.54.51;	author stevenh;	state Exp;
+branches;
+next	1.27;
+
+1.27
+date	2014.07.03.02.45.56;	author stevenh;	state Exp;
+branches;
+next	1.26;
+
+1.26
+date	2014.07.03.02.38.24;	author stevenh;	state Exp;
+branches;
+next	1.25;
+
+1.25
+date	2014.07.03.02.38.11;	author stevenh;	state Exp;
+branches;
+next	1.24;
+
+1.24
+date	2014.07.03.02.37.52;	author stevenh;	state Exp;
+branches;
+next	1.23;
+
+1.23
+date	2014.07.03.02.37.35;	author stevenh;	state Exp;
+branches;
+next	1.22;
+
+1.22
+date	2014.07.03.02.35.16;	author stevenh;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	2014.07.03.02.34.29;	author stevenh;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2014.07.03.02.31.00;	author stevenh;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2014.07.03.02.26.59;	author stevenh;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2014.07.03.02.26.17;	author stevenh;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2014.07.03.02.24.38;	author stevenh;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2014.07.03.02.24.21;	author stevenh;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2014.07.03.02.12.13;	author stevenh;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2014.07.03.02.10.05;	author stevenh;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2014.07.03.02.09.10;	author stevenh;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2014.07.03.02.08.32;	author stevenh;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2014.07.03.02.00.13;	author stevenh;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2014.07.03.01.59.37;	author stevenh;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2014.07.03.01.58.58;	author stevenh;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2014.07.03.01.57.22;	author stevenh;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2014.07.03.01.56.29;	author stevenh;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2014.07.03.01.55.52;	author stevenh;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2014.07.03.01.23.56;	author stevenh;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2014.07.03.00.47.15;	author stevenh;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2014.07.02.23.54.26;	author stevenh;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2014.07.02.23.53.23;	author stevenh;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.07.02.22.15.23;	author stevenh;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.283
+log
+@*** empty log message ***
+@
+text
+@import java.awt.BorderLayout;
+import java.awt.Color;
+import java.awt.Dimension;
+import java.awt.Font;
+import java.awt.GridLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.ComponentEvent;
+import java.awt.event.ComponentListener;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
+import java.util.Arrays;
+
+import javax.swing.BorderFactory;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+import javax.swing.JTextField;
+import javax.swing.border.Border;
+import javax.swing.border.EtchedBorder;
+
+////////////////////////////////////////////////////////////////////////////////////
+// Name: Steven Hollingsworth
+// Date: 2014-07-02 22:00
+// Description:
+//		UI Game Demo Relying mostly on Board2048 class
+////////////////////////////////////////////////////////////////////////////////////
+
+public class GameDemo  implements KeyListener, ActionListener, ComponentListener {
+   private final boolean DEBUG = true;
+   private final boolean DEBUG_LEVEL2 = false;
+
+	/* Counter for Testing */
+   private int cnt = 0;
+
+   /* square size */
+   private int BoardSize;
+
+   /* our gameBoard */
+   private Board2048 gameBoard;
+
+   /* Contructor */
+   public GameDemo() {
+      BoardSize = 4;
+      gameBoard = new Board2048(BoardSize);
+      init_bgcolors();
+      prepareGUI();
+   }
+
+   /* Main Frame / Status Bars */
+   JFrame mainFrame = new JFrame("2048!");
+   /* Middle Frame */
+   JPanel controlPanel = new JPanel();
+   /* Game Panel */
+   JPanel BoardLayout = new JPanel();
+   /* Status Panel */
+   JPanel statusPanel = new JPanel();
+
+   /* Array holding all the tiles */
+   JLabel[] all_tiles ;
+
+   JLabel statusLabel = new JLabel("moves:" + cnt++,JLabel.CENTER);
+   JLabel scoreLabel = new JLabel("score:",JLabel.CENTER);
+   JTextField typingArea = new JTextField(20);
+   JButton okButton = new JButton("Clear");
+
+   Color[] bgcolor = new Color[20]; //array with X colors
+   //base background color
+   int sR = 0;
+   int sG = 0;
+   int sB = 255;
+
+
+   /* Main Loop if executed standalone */
+   public static void main(String[] args) {
+      GameDemo game = new GameDemo();
+      System.out.println(game.all_tiles);
+   }
+
+   public void init_bgcolors() {
+      float hsbVals[] = Color.RGBtoHSB(sR,sG,sB,null);
+      if(DEBUG) System.out.println("hsbvals:" + Arrays.toString(hsbVals));
+
+      int sat_start = 15;
+      float adder = (100 - sat_start - 1) / bgcolor.length + 1;
+
+      if(DEBUG) System.out.print("adder:" + adder);
+      if(DEBUG) System.out.println("");
+      float sat = sat_start;
+      for (int i = 0; i < bgcolor.length; i++) {
+         if((sat % 100) != sat) {
+            sat = 100;
+         }
+         bgcolor[i] = Color.getHSBColor(hsbVals[0], sat / 100, hsbVals[1]);
+         /* Color.getHSBColor(float (0-1) h, float (0-1) s, float (0-1) b)
+            h = the hue component
+            s = the saturation of the color
+            b = the brightness of the color
+         */
+         float tmphsb[] = Color.RGBtoHSB(bgcolor[i].getRed(),bgcolor[i].getGreen(),bgcolor[i].getBlue(),null);
+         if(DEBUG) System.out.println("hsbvals:" + Arrays.toString(tmphsb));
+         if(DEBUG) System.out.print("sat:" + sat);
+         if(DEBUG) System.out.print("diff:" + sat % 100);
+         if(DEBUG) System.out.println("");
+         sat += adder;
+         if(i == 0) bgcolor[i] = Color.WHITE; 
+      }
+   }
+
+   public String getSymbol (int val, String type) {
+      String newval = "";
+      switch (type) {
+         case "alpha_lc": if(val != 0) newval = String.valueOf(Character.toChars(val + 96)); break;
+         case "alpha_uc": if(val != 0) newval = String.valueOf(Character.toChars(val + 64)); break;
+         case "unicode_1": if(val != 0) newval = String.valueOf(Character.toChars(val + (0x2600 -1))); break;
+         case "unicode_2": if(val != 0) newval = String.valueOf(Character.toChars(val + (0x2620 -1))); break;
+         case "unicode_3": if(val != 0) newval = String.valueOf(Character.toChars(val + (0x2702 -1))); break;
+         case "unicode_4": if(val != 0) newval = String.valueOf(Character.toChars(val + (0x2665 -1))); break;
+         case "chess": if(val != 0) newval = String.valueOf(Character.toChars(val + (0x2654 -1))); break;
+         case "brail": if(val != 0) newval = String.valueOf(Character.toChars(val + (0x2801 -1))); break;
+         case "smiley": if(val != 0) newval = String.valueOf(Character.toChars(val + (0x263A -1))); break;
+         case "num_circle": if(val != 0) newval = String.valueOf(Character.toChars(val + (0x2776 -1))); break;
+         default : if(val != 0) newval = (int)Math.pow(2,val) + "";
+      }
+      return  newval;
+   }
+
+   private void displayTiles(Board2048 board) {
+      int[] vals = board.getBoard();
+      for (int i = 0; i < all_tiles.length ; i++) {
+         all_tiles[i].setText(getSymbol(vals[i],"unicode_1"));
+         all_tiles[i].setForeground(Color.WHITE);
+         all_tiles[i].setBackground(bgcolor[vals[i]]);
+      }
+
+      //Dynamically Size Buttons and Labels
+      scoreLabel.setText("score:" + board.getScore());
+
+      setTileFont(scoreLabel);
+      setTileFont(statusLabel);
+
+
+      //Dynamically Size tiles
+      for (int i = 0; i < all_tiles.length; i++) {
+         setTileFont(all_tiles[i]);
+      }
+
+
+   }
+
+   private void setTileFont (JLabel label) {
+      if(DEBUG_LEVEL2) System.out.println("-------------------------------------------");
+      Font labelFont = label.getFont();
+      String labelText = label.getText();
+
+      if(DEBUG_LEVEL2) System.out.println("labelFont" + labelFont);
+      if(DEBUG_LEVEL2) System.out.println("labelText" + labelText);
+      
+      int stringWidth = label.getFontMetrics(labelFont).stringWidth(labelText);
+      if(DEBUG_LEVEL2) System.out.println("stringWidth" + stringWidth);
+
+      int componentWidth = label.getWidth();
+      if(DEBUG_LEVEL2) System.out.println("componentWidth" + componentWidth);
+      
+      // Find out how much the font can grow in width.
+      double widthRatio = (double)componentWidth / (double)stringWidth;
+      if(DEBUG_LEVEL2) System.out.println("widthRatio" + widthRatio);
+      
+      int newFontSize = (int)(labelFont.getSize() * widthRatio);
+      if(DEBUG_LEVEL2) System.out.println("newFontSize" + newFontSize);
+      int componentHeight = label.getHeight();
+      if(DEBUG_LEVEL2) System.out.println("componentHeight" + componentHeight);
+      
+      // Pick a new font size so it will not be larger than the height of label.
+      int fontSizeToUse = Math.min(newFontSize, componentHeight) - 2;
+      if(DEBUG_LEVEL2) System.out.println("fontSizeToUse" + fontSizeToUse);
+      
+      // Set the label's font size to the newly determined size.
+      label.setFont(new Font(labelFont.getName(), Font.PLAIN, fontSizeToUse));
+   }
+
+
+   /* Prepares GUI Elements and Layout */
+   private void prepareGUI() {
+      ///////////////////////////////////////////////////////////
+      // Frame INIT
+      ///////////////////////////////////////////////////////////
+      mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+      mainFrame.setSize(400,400);
+      mainFrame.setLayout(new BorderLayout());
+      /* center display */
+      controlPanel.setLayout(new BorderLayout());
+
+      /* Game Board */
+      BoardLayout.setLayout(new GridLayout(BoardSize,BoardSize));
+
+      /* Status Panel Layout */
+      statusPanel.setLayout(new GridLayout());
+      //AbstractBorder brdrLeft = new TextBubbleBorder(Color.BLACK,2,16,16);
+      //AbstractBorder brdrRight = new TextBubbleBorder(Color.BLACK,2,16,16,false);
+
+      all_tiles = new JLabel[BoardSize * BoardSize];
+      Border blackline = BorderFactory.createEtchedBorder(EtchedBorder.RAISED ,Color.WHITE ,Color.BLACK);
+
+      for (int i = 0; i < all_tiles.length; i++) {
+         JLabel tile = new JLabel("",JLabel.CENTER);
+         all_tiles[i] = tile;
+         tile.setBorder(blackline);
+         tile.setOpaque(true);
+         BoardLayout.add(tile);
+      }
+
+      /* Commence Putting things together */
+      mainFrame.add(typingArea, BorderLayout.PAGE_START); //very top, typing layout
+
+
+      /* Middle Board Layout */
+      mainFrame.add(controlPanel, BorderLayout.CENTER); //container for control panel
+      controlPanel.add(BoardLayout,BorderLayout.CENTER);
+      controlPanel.add(okButton,BorderLayout.PAGE_END);
+
+      /* End Status bar */
+      mainFrame.add(statusPanel, BorderLayout.PAGE_END);
+      statusPanel.add(statusLabel);
+      statusPanel.add(scoreLabel);
+
+
+      /* Add Listeners to Buttons and Text Area */
+      mainFrame.addComponentListener(this);
+      okButton.addActionListener(this);        
+      typingArea.addKeyListener(this);
+
+      //displayTiles(gameBoard);
+
+      /* Finally make it all visible */
+      mainFrame.setVisible(true);  
+   }
+
+   public void actionPerformed(ActionEvent e) {
+      statusLabel.setText("Areas all clear");
+      //Return the focus to the typing area.
+      typingArea.requestFocusInWindow();
+   }
+
+   /* Don't care about the next two, but they are required because I implement them */
+   public void keyPressed(KeyEvent e) { } public void keyReleased(KeyEvent e) { } 
+   /* Don't care about these component events */
+   public void componentMoved (ComponentEvent e) { }
+   public void componentShown (ComponentEvent e) { }
+   public void componentHidden (ComponentEvent e) { }
+
+   /**
+   This is where most of the navigation stuff happens
+   */
+
+   /* If On then update with values, otherwise clear values  */
+   private void updateDisplays(boolean on ) {
+      /* Always set the typing area to clear */
+      if (on == true ) {
+         statusLabel.setText("moves:" + cnt++);
+      } 
+      displayTiles(gameBoard);
+      typingArea.requestFocusInWindow();
+   }
+
+   public void componentResized (ComponentEvent e) {
+      System.out.println("========RESIZED");
+
+      int statusPanelHeight = controlPanel.getHeight() / 15;
+      int statusPanelWidth = controlPanel.getWidth();
+      statusPanel.setPreferredSize(new Dimension(statusPanelWidth,statusPanelHeight));
+
+      if(DEBUG) System.out.println("controlPanel.getHeight:" + statusPanelHeight);
+      if(DEBUG) System.out.println("controlPanel.getWidth:" + statusPanelWidth);
+
+      updateDisplays(true);
+
+   }
+
+   public void keyTyped(KeyEvent e) { 
+      String c = e.getKeyChar() + ""; 
+      typingArea.setText(""); 
+      switch(c.toLowerCase()) {
+         case "k":
+            if(gameBoard.moveTiles("UP")) updateDisplays(true);
+            return;
+         case "j":
+            if(gameBoard.moveTiles("DOWN")) updateDisplays(true);
+            return;
+         case "l":
+            if(gameBoard.moveTiles("RIGHT")) updateDisplays(true);
+            return;
+         case "h":
+            if(gameBoard.moveTiles("LEFT")) updateDisplays(true);
+            return;
+         case "q":
+            System.exit(0);
+      }
+      /* Don't show anything if we didn't press a proper key */
+      updateDisplays(false);
+   }
+}
+@
+
+
+1.282
+log
+@*** empty log message ***
+@
+text
+@d234 1
+a234 1
+      displayTiles(gameBoard);
+a252 1
+
+a272 1
+
+@
+
+
+1.281
+log
+@*** empty log message ***
+@
+text
+@d279 1
+a279 1
+      displayTiles(gameBoard);
+@
+
+
+1.280
+log
+@*** empty log message ***
+@
+text
+@d279 1
+a279 1
+      //displayTiles(gameBoard);
+@
+
+
+1.279
+log
+@*** empty log message ***
+@
+text
+@a268 1
+      displayTiles(gameBoard);
+d278 2
+@
+
+
+1.278
+log
+@*** empty log message ***
+@
+text
+@d269 1
+a279 1
+      displayTiles(gameBoard);
+@
+
+
+1.277
+log
+@*** empty log message ***
+@
+text
+@a129 2
+      //mainFrame.setVisible(true); //set visible so we can get the proper font size
+
+d140 4
+a274 2
+      setTileFont(scoreLabel);
+      setTileFont(statusLabel);
+@
+
+
+1.276
+log
+@*** empty log message ***
+@
+text
+@d130 1
+a146 1
+      mainFrame.setVisible(true); //set visible so we can get the proper font size
+@
+
+
+1.275
+log
+@*** empty log message ***
+@
+text
+@a129 1
+      mainFrame.setVisible(true); //set visible so we can get the proper font size
+d145 2
+@
+
+
+1.274
+log
+@*** empty log message ***
+@
+text
+@d130 2
+a146 1
+      mainFrame.setVisible(true); //set visible so we can get the proper font size
+@
+
+
+1.273
+log
+@*** empty log message ***
+@
+text
+@a136 10
+
+      int statusPanelHeight = controlPanel.getHeight() / 15;
+      int statusPanelWidth = controlPanel.getWidth();
+      statusPanel.setPreferredSize(new Dimension(statusPanelWidth,statusPanelHeight));
+
+      //scoreLabel.setSize(
+      if(DEBUG_LEVEL2) System.out.println("controlPanel.getHeight:" + statusPanelHeight);
+      if(DEBUG_LEVEL2) System.out.println("controlPanel.getWidth:" + statusPanelWidth);
+
+
+a138 3
+      setTileFont(scoreLabel);
+      setTileFont(statusLabel);
+
+d266 11
+@
+
+
+1.272
+log
+@*** empty log message ***
+@
+text
+@a279 1
+      typingArea.requestFocusInWindow();
+@
+
+
+1.271
+log
+@*** empty log message ***
+@
+text
+@d280 1
+@
+
+
+1.270
+log
+@*** empty log message ***
+@
+text
+@a152 1
+
+@
+
+
+1.269
+log
+@*** empty log message ***
+@
+text
+@a136 1
+      mainFrame.setVisible(true); //set visible so we can get the proper font size
+d158 2
+@
+
+
+1.268
+log
+@*** empty log message ***
+@
+text
+@d136 1
+d139 9
+a152 10
+      int statusPanelHeight = controlPanel.getHeight() / 15;
+      int statusPanelWidth = controlPanel.getWidth();
+
+      //statusPanel.setSize(statusPanelHeight,statusPanelWidth);
+      statusPanel.setPreferredSize(new Dimension(statusPanelWidth,statusPanelHeight));
+
+
+      //scoreLabel.setSize(
+      System.out.println("controlPanel.getHeight:" + statusPanelHeight);
+      System.out.println("controlPanel.getWidth:" + statusPanelWidth);
+a278 3
+      //Dynamically Size Buttons and Labels
+      setTileFont(scoreLabel);
+      setTileFont(statusLabel);
+a279 1
+
+@
+
+
+1.267
+log
+@*** empty log message ***
+@
+text
+@a278 2
+      displayTiles(gameBoard);
+
+d282 2
+@
+
+
+1.266
+log
+@*** empty log message ***
+@
+text
+@d280 4
+@
+
+
+1.265
+log
+@*** empty log message ***
+@
+text
+@d140 2
+@
+
+
+1.264
+log
+@*** empty log message ***
+@
+text
+@d141 1
+a141 1
+      int statusPanelHeight = controlPanel.getHeight() / 12;
+@
+
+
+1.263
+log
+@*** empty log message ***
+@
+text
+@d141 1
+a141 1
+      int statusPanelHeight = controlPanel.getHeight() / 10;
+@
+
+
+1.262
+log
+@*** empty log message ***
+@
+text
+@d141 1
+a141 1
+      int statusPanelHeight = controlPanel.getHeight() / 6;
+@
+
+
+1.261
+log
+@*** empty log message ***
+@
+text
+@d141 1
+a141 1
+      int statusPanelHeight = controlPanel.getHeight() / 5;
+@
+
+
+1.260
+log
+@*** empty log message ***
+@
+text
+@d141 1
+a141 1
+      int statusPanelHeight = controlPanel.getHeight() / 3;
+@
+
+
+1.259
+log
+@*** empty log message ***
+@
+text
+@d3 1
+d144 2
+a145 1
+      statusPanel.setSize(statusPanelHeight,statusPanelWidth);
+@
+
+
+1.258
+log
+@*** empty log message ***
+@
+text
+@d147 2
+a148 1
+      System.out.println("controlPanel.getHeight:" + controlPanel.getHeight());
+@
+
+
+1.257
+log
+@*** empty log message ***
+@
+text
+@d139 8
+@
+
+
+1.256
+log
+@*** empty log message ***
+@
+text
+@d139 2
+a140 2
+      setTileFont(scoreLabel);
+      setTileFont(statusLabel);
+@
+
+
+1.255
+log
+@*** empty log message ***
+@
+text
+@a41 1
+
+d136 7
+a145 1
+      scoreLabel.setText("score:" + board.getScore());
+a147 1
+
+d149 1
+a149 1
+      if(DEBUG) System.out.println("-------------------------------------------");
+@
+
+
+1.254
+log
+@*** empty log message ***
+@
+text
+@d31 1
+d83 1
+a83 1
+      System.out.println("hsbvals:" + Arrays.toString(hsbVals));
+d88 2
+a89 2
+      System.out.print("adder:" + adder);
+      System.out.println("");
+d102 4
+a105 4
+         System.out.println("hsbvals:" + Arrays.toString(tmphsb));
+         System.out.print("sat:" + sat);
+         System.out.print("diff:" + sat % 100);
+         System.out.println("");
+d149 2
+a150 2
+      if(DEBUG) System.out.println("labelFont" + labelFont);
+      if(DEBUG) System.out.println("labelText" + labelText);
+d153 1
+a153 1
+      if(DEBUG) System.out.println("stringWidth" + stringWidth);
+d156 1
+a156 1
+      if(DEBUG) System.out.println("componentWidth" + componentWidth);
+d160 1
+a160 1
+      if(DEBUG) System.out.println("widthRatio" + widthRatio);
+d163 1
+a163 1
+      if(DEBUG) System.out.println("newFontSize" + newFontSize);
+d165 1
+a165 1
+      if(DEBUG) System.out.println("componentHeight" + componentHeight);
+d169 1
+a169 1
+      if(DEBUG) System.out.println("fontSizeToUse" + fontSizeToUse);
+@
+
+
+1.253
+log
+@*** empty log message ***
+@
+text
+@a18 1
+import javax.swing.border.AbstractBorder;
+a20 1
+import javax.swing.border.LineBorder;
+d95 1
+a95 2
+         /*
+         Color.getHSBColor(float (0-1) h, float (0-1) s, float (0-1) b)
+a124 1
+
+d131 1
+a131 1
+         all_tiles[i].setText(getSymbol(vals[i],"unicode_2"));
+@
+
+
+1.252
+log
+@*** empty log message ***
+@
+text
+@d199 1
+a199 4
+      Border blackline;
+      //Border roundedBorder = new LineBorder(Color.black, 12, true);
+
+      blackline = BorderFactory.createEtchedBorder( EtchedBorder.RAISED ,Color.WHITE ,Color.BLACK);
+@
+
+
+1.251
+log
+@*** empty log message ***
+@
+text
+@d202 1
+a202 1
+      blackline = BorderFactory.createEtchedBorder(EtchedBorder.LOWERED);
+@
+
+
+1.250
+log
+@*** empty log message ***
+@
+text
+@d202 1
+a202 1
+      blackline = BorderFactory.createEtchedBorder(EtchedBorder.RAISED);
+@
+
+
+1.249
+log
+@*** empty log message ***
+@
+text
+@d21 1
+d202 2
+a203 1
+      blackline = BorderFactory.createEtchedBorder(12);
+@
+
+
+1.248
+log
+@*** empty log message ***
+@
+text
+@d201 1
+a201 1
+      blackline = BorderFactory.createEtchedBorder(1);
+@
+
+
+1.247
+log
+@*** empty log message ***
+@
+text
+@d1 10
+a10 2
+import java.awt.*;
+import java.awt.event.*;
+d12 10
+a21 2
+import javax.swing.*;
+//import javax.swing.border.*;
+d194 2
+d198 4
+a201 2
+      //Border blackline;
+      //blackline = BorderFactory.createLineBorder(Color.BLACK);
+d205 1
+a205 1
+         //tile.setBorder(blackline);
+@
+
+
+1.246
+log
+@*** empty log message ***
+@
+text
+@d118 1
+a118 1
+         all_tiles[i].setText(getSymbol(vals[i],"num_circle"));
+@
+
+
+1.245
+log
+@*** empty log message ***
+@
+text
+@a65 1
+      //Color base_color = new Color(sR,sG,sB);
+a66 1
+      //Color fromHSB = Color.getHSBColor(hue, saturation, value);
+d80 6
+a85 1
+         //bgcolor[i] = Color.getHSBColor(hsbVals[0], sat / 100, hsbVals[1]);
+d108 1
+d118 1
+a118 1
+         all_tiles[i].setText(getSymbol(vals[i],"chess"));
+@
+
+
+1.244
+log
+@*** empty log message ***
+@
+text
+@d81 1
+a81 1
+         bgcolor[i] = Color.getHSBColor(hsbVals[0], sat / 100, sat );
+@
+
+
+1.243
+log
+@*** empty log message ***
+@
+text
+@d81 1
+a81 1
+         bgcolor[i] = Color.getHSBColor(hsbVals[0], sat / 100, sat / 100);
+@
+
+
+1.242
+log
+@*** empty log message ***
+@
+text
+@d81 2
+a82 1
+         bgcolor[i] = Color.getHSBColor(hsbVals[0], sat / 100, hsbVals[1]);
+@
+
+
+1.241
+log
+@*** empty log message ***
+@
+text
+@d113 1
+a113 1
+         all_tiles[i].setText(getSymbol(vals[i],""));
+@
+
+
+1.240
+log
+@*** empty log message ***
+@
+text
+@d54 3
+a56 3
+   int sR = 255;
+   int sG = 86;
+   int sB = 0;
+@
+
+
+1.239
+log
+@*** empty log message ***
+@
+text
+@d113 1
+a113 1
+         all_tiles[i].setText(getSymbol(vals[i],"unicode_4"));
+@
+
+
+1.238
+log
+@*** empty log message ***
+@
+text
+@d100 1
+d113 1
+a113 1
+         all_tiles[i].setText(getSymbol(vals[i],"unicode_3"));
+@
+
+
+1.237
+log
+@*** empty log message ***
+@
+text
+@d99 1
+d112 1
+a112 1
+         all_tiles[i].setText(getSymbol(vals[i],"chess"));
+@
+
+
+1.236
+log
+@*** empty log message ***
+@
+text
+@d111 1
+a111 1
+         all_tiles[i].setText(getSymbol(vals[i],"smiley"));
+@
+
+
+1.235
+log
+@*** empty log message ***
+@
+text
+@d101 1
+a101 1
+         case "smiley": if(val != 0) newval = String.valueOf(Character.toChars(val + (0x1F600 -1))); break;
+@
+
+
+1.234
+log
+@*** empty log message ***
+@
+text
+@d101 1
+a101 1
+         case "smiley": if(val != 0) newval = String.valueOf(Character.toChars(val + (0x1F60 -1))); break;
+@
+
+
+1.233
+log
+@*** empty log message ***
+@
+text
+@d101 1
+d111 1
+a111 1
+         all_tiles[i].setText(getSymbol(vals[i],"brail"));
+@
+
+
+1.232
+log
+@*** empty log message ***
+@
+text
+@d100 1
+a100 1
+         case "brail": if(val != 0) newval = String.valueOf(Character.toChars(val + (0x2800 -1))); break;
+@
+
+
+1.231
+log
+@*** empty log message ***
+@
+text
+@d99 2
+a100 1
+         case "unicode_3": if(val != 0) newval = String.valueOf(Character.toChars(val + (0x2654 -1))); break;
+d110 1
+a110 1
+         all_tiles[i].setText(getSymbol(vals[i],"unicode_3"));
+@
+
+
+1.230
+log
+@*** empty log message ***
+@
+text
+@d99 1
+a99 1
+         case "unicode_2": if(val != 0) newval = String.valueOf(Character.toChars(val + (0x2654 -1))); break;
+@
+
+
+1.229
+log
+@*** empty log message ***
+@
+text
+@d99 1
+d109 1
+a109 1
+         all_tiles[i].setText(getSymbol(vals[i],"unicode_2"));
+@
+
+
+1.228
+log
+@*** empty log message ***
+@
+text
+@d108 1
+a108 1
+         all_tiles[i].setText(getSymbol(vals[i],"unicode_1"));
+@
+
+
+1.227
+log
+@*** empty log message ***
+@
+text
+@d98 1
+@
+
+
+1.226
+log
+@*** empty log message ***
+@
+text
+@d97 1
+a97 1
+         case "unicode_1": if(val != 0) newval = String.valueOf(Character.toChars(val + (0x25AB -1))); break;
+@
+
+
+1.225
+log
+@*** empty log message ***
+@
+text
+@d97 1
+a97 1
+         case "unicode_1": if(val != 0) newval = String.valueOf(Character.toChars(val + (0x25A0 -1))); break;
+@
+
+
+1.224
+log
+@*** empty log message ***
+@
+text
+@d97 1
+a97 1
+         case "unicode_1": if(val != 0) newval = String.valueOf(Character.toChars(val + 0x25A0)); break;
+@
+
+
+1.223
+log
+@*** empty log message ***
+@
+text
+@d97 1
+a97 1
+         case "unicode_1": if(val != 0) newval = String.valueOf(Character.toChars(val + 0x225A0)); break;
+@
+
+
+1.222
+log
+@*** empty log message ***
+@
+text
+@d107 1
+a107 1
+         all_tiles[i].setText(getSymbol(vals[i],"alpha_lc"));
+@
+
+
+1.221
+log
+@*** empty log message ***
+@
+text
+@d97 1
+@
+
+
+1.220
+log
+@*** empty log message ***
+@
+text
+@d95 3
+a97 3
+         case "alpha_lc": if(val != 0) newval = String.valueOf(Character.toChars(val + 96));
+         case "alpha_uc": if(val != 0) newval = String.valueOf(Character.toChars(val + 64));
+         //default : if(val != 0) newval = (int)Math.pow(2,val) + "";
+@
+
+
+1.219
+log
+@*** empty log message ***
+@
+text
+@a3 1
+
+d97 1
+a97 1
+         default : if(val != 0) newval = (int)Math.pow(2,val) + "";
+@
+
+
+1.218
+log
+@*** empty log message ***
+@
+text
+@d95 4
+a98 4
+      if(type == "alpha") {
+         if(val != 0) newval = String.valueOf(Character.toChars(val + 64));
+      } else {
+         if(val != 0) newval = (int)Math.pow(2,val) + "";
+d100 1
+d107 1
+a107 1
+         all_tiles[i].setText(getSymbol(vals[i],"alpha"));
+@
+
+
+1.217
+log
+@*** empty log message ***
+@
+text
+@d72 1
+a72 1
+      int sat_start = 40;
+@
+
+
+1.216
+log
+@*** empty log message ***
+@
+text
+@d72 1
+a72 1
+      int sat_start = 25;
+@
+
+
+1.215
+log
+@*** empty log message ***
+@
+text
+@d54 4
+a57 3
+   int sR = 0;
+   int sG = 0;
+   int sB = 255;
+@
+
+
+1.214
+log
+@*** empty log message ***
+@
+text
+@d105 1
+a105 1
+         all_tiles[i].setText(getSymbol(vals[i],""));
+@
+
+
+1.213
+log
+@*** empty log message ***
+@
+text
+@d105 1
+a105 1
+         all_tiles[i].setText(getSymbol(vals[i],"alpha"));
+@
+
+
+1.212
+log
+@*** empty log message ***
+@
+text
+@d54 1
+a54 1
+   int sR = 255;
+d56 1
+a56 1
+   int sB = 0;
+@
+
+
+1.211
+log
+@*** empty log message ***
+@
+text
+@d81 1
+a81 1
+         bgcolor[i] = Color.getHSBColor(hsbVals[0], sat, hsbVals[1]);
+@
+
+
+1.210
+log
+@*** empty log message ***
+@
+text
+@d82 2
+@
+
+
+1.209
+log
+@*** empty log message ***
+@
+text
+@d86 1
+@
+
+
+1.208
+log
+@*** empty log message ***
+@
+text
+@d3 2
+d69 1
+@
+
+
+1.207
+log
+@*** empty log message ***
+@
+text
+@d64 1
+a64 1
+      Color base_color = new Color(sR,sG,sB);
+d66 1
+a66 2
+      //Color highlight = Color.getHSBColor(hsbVals[0], hsbVals[1], 0.5f * (1f + hsbVals[2]));
+      //Color shadow = Color.getHSBColor(hsbVals[0],hsbVals[1],0.5f * hsbVals[2] );
+d78 1
+a82 8
+
+         /*
+         switch (i) {
+            case 0: bgcolor[i] = Color.WHITE;  break;
+            case 1: bgcolor[i] = base_color; break;
+            default: bgcolor[i] = bgcolor[i-1].darker();
+         }
+         */
+@
+
+
+1.206
+log
+@*** empty log message ***
+@
+text
+@d83 1
+@
+
+
+1.205
+log
+@*** empty log message ***
+@
+text
+@d76 1
+a76 3
+         if((sat % 100) == sat) {
+            sat += adder;
+         } else {
+d82 1
+@
+
+
+1.204
+log
+@*** empty log message ***
+@
+text
+@a75 2
+         System.out.print("sat:" + sat);
+         System.out.print("diff:" + sat % 100);
+d81 2
+@
+
+
+1.203
+log
+@*** empty log message ***
+@
+text
+@d78 5
+a82 1
+         sat += adder;
+@
+
+
+1.202
+log
+@*** empty log message ***
+@
+text
+@d77 1
+a78 1
+         System.out.print("diff:" + sat % 100);
+@
+
+
+1.201
+log
+@*** empty log message ***
+@
+text
+@d78 1
+a78 1
+         System.out.print("diff:" + sat / 100);
+@
+
+
+1.200
+log
+@*** empty log message ***
+@
+text
+@d78 1
+a78 1
+         System.out.print("diff:" + sat % 100);
+@
+
+
+1.199
+log
+@*** empty log message ***
+@
+text
+@d77 2
+a79 2
+         sat += adder;
+         sat = sat - (100 % sat);
+@
+
+
+1.198
+log
+@*** empty log message ***
+@
+text
+@d79 1
+a79 1
+         sat = sat - (sat % 100);
+@
+
+
+1.197
+log
+@*** empty log message ***
+@
+text
+@d78 2
+a79 1
+         sat += adder ;
+@
+
+
+1.196
+log
+@*** empty log message ***
+@
+text
+@d70 1
+a70 1
+      float adder = (100 - sat_start - 1) / bgcolor.length - 1;
+@
+
+
+1.195
+log
+@*** empty log message ***
+@
+text
+@d70 1
+a70 1
+      float adder = (100 - sat_start - 1) / bgcolor.length  - 1;
+@
+
+
+1.194
+log
+@*** empty log message ***
+@
+text
+@d70 1
+a70 1
+      float adder = (100 - sat_start - 1) / bgcolor.length  + 1;
+@
+
+
+1.193
+log
+@*** empty log message ***
+@
+text
+@d74 1
+a74 1
+      int sat = sat_start;
+@
+
+
+1.192
+log
+@*** empty log message ***
+@
+text
+@d70 1
+a70 1
+      int adder = (100 - sat_start - 1) / bgcolor.length  + 1;
+@
+
+
+1.191
+log
+@*** empty log message ***
+@
+text
+@d70 1
+a70 1
+      int adder = (100 - sat_start) / (bgcolor.length -1) + 1;
+@
+
+
+1.190
+log
+@*** empty log message ***
+@
+text
+@d70 1
+a70 1
+      int adder = (100 - sat_start)/ bgcolor.length + 1;
+@
+
+
+1.189
+log
+@*** empty log message ***
+@
+text
+@d70 1
+a70 1
+      int adder = (100 - sat_start)/ bgcolor.length ;
+@
+
+
+1.188
+log
+@*** empty log message ***
+@
+text
+@a75 1
+         sat += adder ;
+d78 1
+a78 1
+
+@
+
+
+1.187
+log
+@*** empty log message ***
+@
+text
+@d69 2
+a70 2
+      int sat_start = 22;
+      int adder = (100 - sat_start)/ bgcolor.length + 1;
+@
+
+
+1.186
+log
+@*** empty log message ***
+@
+text
+@d69 1
+a69 1
+      int sat_start = 25;
+@
+
+
+1.185
+log
+@*** empty log message ***
+@
+text
+@d70 1
+a70 1
+      int adder = (100 - sat_start)/ bgcolor.length ;
+@
+
+
+1.184
+log
+@*** empty log message ***
+@
+text
+@d70 1
+a70 1
+      int adder = (100 - sat_start)/ bgcolor.length - 1;
+@
+
+
+1.183
+log
+@*** empty log message ***
+@
+text
+@d70 1
+a70 1
+      int adder = (100 - sat_start)/ bgcolor.length;
+@
+
+
+1.182
+log
+@*** empty log message ***
+@
+text
+@d74 1
+a74 1
+      int sat = 0;
+d76 1
+a76 1
+         sat = sat + adder + sat_start;
+@
+
+
+1.181
+log
+@*** empty log message ***
+@
+text
+@d76 1
+a76 1
+         sat = sat + adder;
+@
+
+
+1.180
+log
+@*** empty log message ***
+@
+text
+@d70 1
+a70 1
+      float adder = (100 - sat_start)/ bgcolor.length;
+d74 1
+d76 3
+@
+
+
+1.179
+log
+@*** empty log message ***
+@
+text
+@d52 3
+a54 3
+   int sR = 240;
+   int sG = 230;
+   int sB = 140;
+d65 9
+d75 2
+d82 1
+@
+
+
+1.178
+log
+@*** empty log message ***
+@
+text
+@d87 1
+a87 1
+         all_tiles[i].setText(getSymbol(vals[i],""));
+a88 2
+         all_tiles[i].setBackground(Color.WHITE);
+
+@
+
+
+1.177
+log
+@*** empty log message ***
+@
+text
+@d67 2
+a68 2
+            case 0: bgcolor[i] = Color.WHITE;
+            case 1: bgcolor[i] = base_color;
+@
+
+
+1.176
+log
+@*** empty log message ***
+@
+text
+@d66 4
+a69 4
+         if(i == 0) {
+            bgcolor[i] = base_color;
+         } else {
+            bgcolor[i] = bgcolor[i-1].darker();
+@
+
+
+1.175
+log
+@*** empty log message ***
+@
+text
+@d52 3
+a54 3
+   int sR = 255;
+   int sG = 0;
+   int sB = 0;
+d64 1
+a64 2
+      float adder = 255 / bgcolor.length;
+      float val = 0;
+d66 5
+a70 6
+         bgcolor[i] = new Color(sR,sG,sB,(int)val);
+         val = val + adder;
+         System.out.print("i:" + i);
+         System.out.print("alpha_val:" + val);
+         System.out.print("adder:" + adder);
+         System.out.println("");
+d90 2
+a91 1
+         //all_tiles[i].setBackground(bgcolor[vals[i]]);
+@
+
+
+1.174
+log
+@*** empty log message ***
+@
+text
+@a89 1
+         all_tiles[i].setOpaque(false);
+d92 1
+a92 3
+         all_tiles[i].setOpaque(true);
+
+         all_tiles[i].setBackground(bgcolor[vals[i]]);
+@
+
+
+1.173
+log
+@*** empty log message ***
+@
+text
+@d90 1
+d93 2
+@
+
+
+1.172
+log
+@*** empty log message ***
+@
+text
+@d91 1
+d158 1
+a158 1
+         //tile.setOpaque(true);
+@
+
+
+1.171
+log
+@*** empty log message ***
+@
+text
+@d157 1
+a157 1
+         tile.setOpaque(true);
+@
+
+
+1.170
+log
+@*** empty log message ***
+@
+text
+@d64 1
+a64 1
+      float adder = 254 / bgcolor.length;
+@
+
+
+1.169
+log
+@*** empty log message ***
+@
+text
+@d68 1
+a68 1
+         val += val + adder;
+@
+
+
+1.168
+log
+@*** empty log message ***
+@
+text
+@d69 1
+@
+
+
+1.167
+log
+@*** empty log message ***
+@
+text
+@d69 3
+a71 1
+         System.out.println("alpha_val:" + val);
+@
+
+
+1.166
+log
+@*** empty log message ***
+@
+text
+@d69 1
+@
+
+
+1.165
+log
+@*** empty log message ***
+@
+text
+@d64 1
+a64 1
+      float adder = 255 / bgcolor.length;
+@
+
+
+1.164
+log
+@*** empty log message ***
+@
+text
+@d67 1
+a67 1
+         bgcolor[i] = new Color(sR,sG,sB,val);
+@
+
+
+1.163
+log
+@*** empty log message ***
+@
+text
+@d30 1
+d51 5
+d63 8
+d87 1
+a87 1
+         all_tiles[i].setBackground(Color.BLUE);
+@
+
+
+1.162
+log
+@*** empty log message ***
+@
+text
+@d45 1
+a45 1
+   JLabel statusLabel = new JLabel("moves:" + cnt,JLabel.CENTER);
+@
+
+
+1.161
+log
+@*** empty log message ***
+@
+text
+@d45 1
+a45 1
+   JLabel statusLabel = new JLabel("",JLabel.CENTER);
+@
+
+
+1.160
+log
+@*** empty log message ***
+@
+text
+@d191 1
+a191 1
+         statusLabel.setText("counter:" + cnt++);
+@
+
+
+1.159
+log
+@*** empty log message ***
+@
+text
+@a79 1
+      typingArea.setText("");
+a169 1
+      typingArea.setText("");
+a170 1
+      
+a189 1
+      typingArea.setText(""); 
+d192 1
+a192 3
+      } else {
+         statusLabel.setText("");
+      }
+@
+
+
+1.158
+log
+@*** empty log message ***
+@
+text
+@d210 1
+@
+
+
+1.157
+log
+@*** empty log message ***
+@
+text
+@d80 1
+@
+
+
+1.156
+log
+@*** empty log message ***
+@
+text
+@d79 1
+a79 1
+      scoreLabel.setText(board.getScore() + "");
+@
+
+
+1.155
+log
+@*** empty log message ***
+@
+text
+@d79 1
+@
+
+
+1.154
+log
+@*** empty log message ***
+@
+text
+@d46 1
+a46 1
+   JLabel scoreLabel = new JLabel("",JLabel.CENTER);
+d154 1
+@
+
+
+1.153
+log
+@*** empty log message ***
+@
+text
+@d39 2
+d46 1
+d128 3
+d143 6
+d150 5
+a154 4
+      controlPanel.add(BoardLayout,BorderLayout.CENTER);
+      mainFrame.add(typingArea, BorderLayout.PAGE_START);
+      mainFrame.add(controlPanel, BorderLayout.CENTER);
+      mainFrame.add(statusLabel, BorderLayout.PAGE_END);
+@
+
+
+1.152
+log
+@*** empty log message ***
+@
+text
+@d103 1
+a103 1
+      int fontSizeToUse = Math.min(newFontSize, componentHeight) - 1;
+@
+
+
+1.151
+log
+@*** empty log message ***
+@
+text
+@d54 1
+@
+
+
+1.150
+log
+@*** empty log message ***
+@
+text
+@d51 1
+a65 1
+
+a70 1
+
+a71 1
+
+@
+
+
+1.149
+log
+@*** empty log message ***
+@
+text
+@d67 1
+a67 1
+         all_tiles[i].setText(getSymbol(vals[i],"alpha"));
+@
+
+
+1.148
+log
+@*** empty log message ***
+@
+text
+@d56 1
+a56 1
+         if(val != 0) newval = String.valueOf(Character.toChars(val + 65));
+@
+
+
+1.147
+log
+@*** empty log message ***
+@
+text
+@d56 1
+a56 1
+         if(val != 0) newval = String.valueOf(val + 65);
+@
+
+
+1.146
+log
+@*** empty log message ***
+@
+text
+@d56 1
+a56 1
+         newval = String.valueOf(val + 65);
+d58 1
+a58 3
+         if(val != 0) {
+            newval = (int)Math.pow(2,val) + "";
+         }
+@
+
+
+1.145
+log
+@*** empty log message ***
+@
+text
+@d56 1
+a56 1
+         newval = Character.toChars(val + 65).toString();
+@
+
+
+1.144
+log
+@*** empty log message ***
+@
+text
+@d69 1
+a69 1
+         all_tiles[i].setText(getSymbol(vals[i],"2048"));
+@
+
+
+1.143
+log
+@*** empty log message ***
+@
+text
+@d59 1
+a59 1
+            newval = Math.pow(2,val) + "";
+@
+
+
+1.142
+log
+@*** empty log message ***
+@
+text
+@d53 12
+d66 1
+a66 1
+      int[] tmparr = board.getBoard();
+d69 1
+a69 2
+         int tval = tmparr[i];
+         all_tiles[i].setText(tval + "");
+@
+
+
+1.141
+log
+@*** empty log message ***
+@
+text
+@a57 98
+         Color bg;
+         switch (tmparr[i]) {
+            case 0: 
+               bg = Color.WHITE;
+               break;
+            case 2:
+               bg = new Color(225,215,0);
+               break;
+            case 4:
+               bg = new Color(225,205,0);
+               break;
+            case 8:
+               bg = new Color(225,195,0);
+               break;
+            case 16:
+               bg = new Color(225,185,0);
+               break;
+            case 32:
+               bg = new Color(225,175,0);
+               break;
+            case 64:
+               bg = new Color(225,165,0);
+               break;
+            case 128:
+               bg = new Color(225,155,0);
+               break;
+            case 256:
+               bg = new Color(225,145,0);
+               break;
+            case 512:
+               bg = new Color(225,135,0);
+               break;
+            case 1024:
+               bg = new Color(225,125,0);
+               break;
+            case 2048:
+               bg = new Color(225,115,0);
+               break;
+            case 4096:
+               bg = new Color(225,105,0);
+               break;
+            case 8192:
+               bg = new Color(225,95,0);
+               break;
+            case 16384:
+               bg = new Color(225,85,0);
+               break;
+            case 32768:
+               bg = new Color(225,75,0);
+               break;
+            case 65536:
+               bg = new Color(225,65,0);
+               break;
+            case 131072:
+               bg = new Color(225,55,0);
+               break;
+            case 262144:
+               bg = new Color(225,45,0);
+               break;
+            case 524288:
+               bg = new Color(225,35,0);
+               break;
+            case 1048576:
+               bg = new Color(225,25,0);
+               break;
+            case 2097152:
+               bg = new Color(225,15,0);
+               break;
+            case 4194304:
+               bg = new Color(225,10,0);
+               break;
+            case 8388608:
+               bg = new Color(225,5,0);
+               break;
+            case 16777216:
+               bg = new Color(178,205,0);
+               break;
+            case 33554432:
+               bg = new Color(178,195,0);
+               break;
+            case 67108864:
+               bg = new Color(178,185,0);
+               break;
+            case 134217728:
+               bg = new Color(178,175,0);
+               break;
+            case 268435456:
+               bg = new Color(178,205,0);
+               break;
+            case 536870912:
+               bg = new Color(225,205,0);
+               break;
+            case 1073741824:
+               bg = new Color(225,205,0);
+               break;
+            default:
+               bg = Color.BLACK;
+         }
+d60 1
+a60 1
+         all_tiles[i].setBackground(bg);
+@
+
+
+1.140
+log
+@*** empty log message ***
+@
+text
+@d29 1
+a30 1
+      gameBoard = new Board2048(BoardSize);
+@
+
+
+1.139
+log
+@*** empty log message ***
+@
+text
+@d238 2
+@
+
+
+1.138
+log
+@*** empty log message ***
+@
+text
+@d4 1
+a4 1
+import javax.swing.border.*;
+@
+
+
+1.137
+log
+@*** empty log message ***
+@
+text
+@a155 1
+
+d193 1
+a193 1
+      int fontSizeToUse = Math.min(newFontSize, componentHeight);
+@
+
+
+1.136
+log
+@*** empty log message ***
+@
+text
+@d277 1
+a277 1
+      if(DEBUG) System.out.println("========RESIZED");
+d285 2
+a286 2
+            if(gameBoard.moveTiles("UP"))
+            break;
+d288 2
+a289 2
+            if(gameBoard.moveTiles("DOWN"))
+            break;
+d291 2
+a292 2
+            if(gameBoard.moveTiles("RIGHT"))
+            break;
+d294 2
+a295 2
+            if(gameBoard.moveTiles("LEFT"))
+            break;
+d300 1
+a300 1
+      updateDisplays(true);
+@
+
+
+1.135
+log
+@*** empty log message ***
+@
+text
+@d277 1
+a277 1
+      System.out.println("========RESIZED");
+d285 2
+a286 2
+            if(gameBoard.moveTiles("UP")) updateDisplays(true);
+            return;
+d288 2
+a289 2
+            if(gameBoard.moveTiles("DOWN")) updateDisplays(true);
+            return;
+d291 2
+a292 2
+            if(gameBoard.moveTiles("RIGHT")) updateDisplays(true);
+            return;
+d294 2
+a295 2
+            if(gameBoard.moveTiles("LEFT")) updateDisplays(true);
+            return;
+d300 1
+a300 1
+      updateDisplays(false);
+@
+
+
+1.134
+log
+@*** empty log message ***
+@
+text
+@d28 1
+a28 1
+      BoardSize = 5;
+@
+
+
+1.133
+log
+@*** empty log message ***
+@
+text
+@d217 2
+a218 2
+      Border blackline;
+      blackline = BorderFactory.createLineBorder(Color.BLACK);
+d222 1
+a222 1
+         tile.setBorder(blackline);
+@
+
+
+1.132
+log
+@*** empty log message ***
+@
+text
+@d58 99
+d158 2
+a159 2
+         all_tiles[i].setForeground(Color.RED);
+         all_tiles[i].setBackground(Color.ORANGE);
+@
+
+
+1.131
+log
+@*** empty log message ***
+@
+text
+@a32 1
+
+a54 2
+      all_tiles = new JLabel[tmparr.length];
+      BoardLayout.removeAll(); //remove the tiles from the board or funk will happen
+d56 5
+a60 13
+      Border blackline;
+      blackline = BorderFactory.createLineBorder(Color.BLACK);
+
+      for (int i = 0; i < tmparr.length; i++) {
+         String tval;
+         if(tmparr[i] == 0) { tval = ""; } else { tval = tmparr[i] + ""; }
+         JLabel tile = new JLabel(tval,JLabel.CENTER);
+         all_tiles[i] = tile;
+         tile.setBorder(blackline);
+         tile.setForeground(Color.RED);
+         tile.setBackground(Color.ORANGE);
+         tile.setOpaque(true);
+         BoardLayout.add(tile);
+d116 11
+@
+
+
+1.130
+log
+@*** empty log message ***
+@
+text
+@d28 1
+a28 1
+      BoardSize = 4;
+@
+
+
+1.129
+log
+@*** empty log message ***
+@
+text
+@d63 3
+a65 1
+         JLabel tile = new JLabel(tmparr[i] + "",JLabel.CENTER);
+@
+
+
+1.128
+log
+@*** empty log message ***
+@
+text
+@d4 1
+d60 1
+a60 1
+      //blackline = new BorderFactory.createLineBorder(Color.BLACK);
+d65 1
+a65 1
+         //tile.setBorder(blackline);
+@
+
+
+1.127
+log
+@*** empty log message ***
+@
+text
+@d58 3
+d64 1
+@
+
+
+1.126
+log
+@*** empty log message ***
+@
+text
+@d166 1
+@
+
+
+1.125
+log
+@*** empty log message ***
+@
+text
+@d21 1
+a21 1
+   /* our gameboard */
+a174 1
+      String movement;
+d178 1
+a178 2
+            movement = "up";
+            updateDisplays(true);
+d181 1
+a181 2
+            movement = "down";
+            updateDisplays(true);
+d184 1
+a184 2
+            movement = "right";
+            updateDisplays(true);
+d187 1
+a187 2
+            movement = "left";
+            updateDisplays(true);
+a189 1
+            movement = "none";
+a192 1
+      movement = "none";
+@
+
+
+1.124
+log
+@*** empty log message ***
+@
+text
+@a177 1
+
+d180 1
+d184 1
+d188 1
+d192 1
+@
+
+
+1.123
+log
+@*** empty log message ***
+@
+text
+@d175 1
+d178 3
+a180 2
+         case "y":
+            updateDisplays(true);
+d182 8
+a189 2
+         case "n":
+            updateDisplays(true);
+d192 1
+a193 1
+            break;
+d196 1
+@
+
+
+1.122
+log
+@*** empty log message ***
+@
+text
+@d56 1
+a56 2
+
+      BoardLayout.removeAll();
+@
+
+
+1.121
+log
+@*** empty log message ***
+@
+text
+@d57 1
+a57 3
+      BoardLayout = null;
+
+      BoardLayout.setLayout(new GridLayout(BoardSize,BoardSize));
+@
+
+
+1.120
+log
+@*** empty log message ***
+@
+text
+@d57 2
+@
+
+
+1.119
+log
+@*** empty log message ***
+@
+text
+@d54 4
+a57 2
+      int[] tmparr = null;
+      all_tiles = null;
+a58 2
+      tmparr = board.getBoard();
+      all_tiles = new JLabel[tmparr.length];
+@
+
+
+1.118
+log
+@*** empty log message ***
+@
+text
+@d54 1
+a54 1
+      int[] tmparr = board.getBoard();
+d56 2
+@
+
+
+1.117
+log
+@*** empty log message ***
+@
+text
+@a50 1
+      game.displayTiles(game.gameBoard);
+d169 1
+a170 1
+      System.out.println("========RESIZED");
+@
+
+
+1.116
+log
+@*** empty log message ***
+@
+text
+@d170 1
+a170 1
+      //displayTiles(gameBoard);
+@
+
+
+1.115
+log
+@*** empty log message ***
+@
+text
+@d56 1
+@
+
+
+1.114
+log
+@*** empty log message ***
+@
+text
+@d170 1
+@
+
+
+1.113
+log
+@*** empty log message ***
+@
+text
+@d65 3
+a67 1
+      mainFrame.setVisible(true);
+@
+
+
+1.112
+log
+@*** empty log message ***
+@
+text
+@d167 1
+a167 1
+      displayTiles(gameBoard);
+a186 1
+
+@
+
+
+1.111
+log
+@*** empty log message ***
+@
+text
+@d166 3
+a168 1
+   public void componentResized (ComponentEvent e) { }
+@
+
+
+1.110
+log
+@*** empty log message ***
+@
+text
+@d19 1
+a19 1
+   int BoardSize;
+d22 1
+a22 1
+   Board2048 gameBoard;
+@
+
+
+1.109
+log
+@*** empty log message ***
+@
+text
+@a12 1
+
+d19 12
+a30 1
+   int BoardSize = 4;
+d51 1
+a51 2
+      Board2048 gameBoard = new Board2048(game.BoardSize);
+      game.displayTiles(gameBoard);
+a102 4
+   /* Contructor */
+   public GameDemo() {
+      prepareGUI();
+   }
+@
+
+
+1.108
+log
+@*** empty log message ***
+@
+text
+@a36 1
+   private void initTiles(Board2048 board) {
+d38 8
+a55 1
+
+a56 1
+
+a59 8
+
+   }
+
+   /* Main Loop if executed standalone */
+   public static void main(String[] args) {
+      GameDemo game = new GameDemo();
+      Board2048 gameBoard = new Board2048(game.BoardSize);
+      game.initTiles(gameBoard);
+@
+
+
+1.107
+log
+@*** empty log message ***
+@
+text
+@d37 1
+a37 8
+   /* Main Loop if executed standalone */
+   public static void main(String[] args) {
+      GameDemo game = new GameDemo();
+      Board2048 gameBoard = new Board2048(game.BoardSize);
+
+      int[] tmparr = gameBoard.getBoard();
+
+      game.all_tiles = new JLabel[tmparr.length];
+d39 2
+d43 1
+a43 1
+         game.all_tiles[i] = tile;
+d47 1
+a47 1
+         game.BoardLayout.add(tile);
+d50 1
+a50 1
+      game.mainFrame.setVisible(true);
+d52 3
+d56 7
+a62 3
+      for (int i = 0; i < game.all_tiles.length; i++) {
+         game.setTileFont(game.all_tiles[i]);
+      }
+@
+
+
+1.106
+log
+@*** empty log message ***
+@
+text
+@d44 2
+@
+
+
+1.105
+log
+@*** empty log message ***
+@
+text
+@d12 1
+a12 1
+public class GameDemo  implements KeyListener, ActionListener {
+a15 1
+
+d22 1
+d30 2
+d41 1
+a43 1
+      JLabel[] all_tiles = new JLabel[tmparr.length]; //array holding all the tile objects
+d46 1
+a46 1
+         all_tiles[i] = tile;
+d56 2
+a57 2
+      for (int i = 0; i < all_tiles.length; i++) {
+         game.setTileFont(all_tiles[i]);
+d61 1
+d120 1
+d138 5
+d159 2
+@
+
+
+1.104
+log
+@*** empty log message ***
+@
+text
+@d13 4
+d60 1
+a60 1
+      System.out.println("-------------------------------------------");
+d64 2
+a65 2
+      System.out.println("labelFont" + labelFont);
+      System.out.println("labelText" + labelText);
+d68 1
+a68 1
+      System.out.println("stringWidth" + stringWidth);
+d71 1
+a71 1
+      System.out.println("componentWidth" + componentWidth);
+d75 1
+a75 1
+      System.out.println("widthRatio" + widthRatio);
+d78 1
+a78 1
+      System.out.println("newFontSize" + newFontSize);
+d80 1
+a80 1
+      System.out.println("componentHeight" + componentHeight);
+d84 1
+a84 1
+      System.out.println("fontSizeToUse" + fontSizeToUse);
+@
+
+
+1.103
+log
+@*** empty log message ***
+@
+text
+@d47 3
+@
+
+
+1.102
+log
+@*** empty log message ***
+@
+text
+@a45 1
+      game.mainFrame.pack();
+d47 3
+a49 4
+
+
+
+      //game.setTileFont(tile);
+@
+
+
+1.101
+log
+@*** empty log message ***
+@
+text
+@d37 1
+a37 2
+      JLabel[] all_tiles = new JLabel[tmparr.length];
+
+d46 4
+a50 1
+      //game.mainFrame.pack();
+@
+
+
+1.100
+log
+@*** empty log message ***
+@
+text
+@d37 1
+d41 1
+a45 2
+         game.mainFrame.pack();
+         game.setTileFont(tile);
+d47 3
+@
+
+
+1.99
+log
+@*** empty log message ***
+@
+text
+@d43 1
+a45 1
+         game.BoardLayout.add(tile);
+@
+
+
+1.98
+log
+@*** empty log message ***
+@
+text
+@a36 1
+      game.mainFrame.pack();
+d43 1
+@
+
+
+1.97
+log
+@*** empty log message ***
+@
+text
+@d37 1
+@
+
+
+1.96
+log
+@*** empty log message ***
+@
+text
+@d49 1
+@
+
+
+1.95
+log
+@*** empty log message ***
+@
+text
+@d63 1
+d66 1
+d68 1
+d72 1
+@
+
+
+1.94
+log
+@*** empty log message ***
+@
+text
+@d43 1
+a43 1
+         //game.setTileFont(tile);
+d51 3
+d56 2
+d59 1
+@
+
+
+1.93
+log
+@*** empty log message ***
+@
+text
+@d43 1
+a43 1
+         game.setTileFont(tile);
+@
+
+
+1.92
+log
+@*** empty log message ***
+@
+text
+@d43 1
+a43 2
+         System.out.println(tile.getMaximumSize());
+         //tile.setFont(Font.BOLD
+d46 20
+@
+
+
+1.91
+log
+@*** empty log message ***
+@
+text
+@d43 1
+a43 1
+         System.out.println( tile.getSize());
+@
+
+
+1.90
+log
+@*** empty log message ***
+@
+text
+@d43 1
+a43 1
+         System.out.println( tile.getMaximumSize());
+@
+
+
+1.89
+log
+@*** empty log message ***
+@
+text
+@d43 2
+a46 1
+
+@
+
+
+1.88
+log
+@*** empty log message ***
+@
+text
+@a2 1
+import java.util.Arrays;
+a39 1
+         tile.setOpaque(true);
+d42 2
+a43 1
+         game.BoardLayout.add(new JLabel(tmparr[i] + "", JLabel.CENTER));
+@
+
+
+1.87
+log
+@*** empty log message ***
+@
+text
+@d41 1
+d43 1
+a43 1
+         //tile.setBackground(Color.ORANGE);
+@
+
+
+1.86
+log
+@*** empty log message ***
+@
+text
+@d41 2
+a42 2
+         tile.setForeground(Color.BLUE);
+         tile.setBackground(Color.ORANGE);
+@
+
+
+1.85
+log
+@*** empty log message ***
+@
+text
+@d41 2
+a42 2
+         tile.setForeground(Color.white);
+         tile.setBackground(Color.blue);
+@
+
+
+1.84
+log
+@*** empty log message ***
+@
+text
+@d40 3
+a42 5
+         /*
+         JLabel[] labels = new JLabel[tmparr.length + 1];
+         labels[i].setText(tmparr[i] + "");
+         game.BoardLayout.add(labels[i],JLabel.CENTER);
+         */
+@
+
+
+1.83
+log
+@*** empty log message ***
+@
+text
+@a37 1
+      JLabel[] labels = new JLabel[tmparr.length + 1];
+d40 2
+d44 2
+a45 1
+         //game.BoardLayout.add(new JLabel(tmparr[i] + "", JLabel.CENTER));
+@
+
+
+1.82
+log
+@*** empty log message ***
+@
+text
+@d38 1
+a38 1
+      JLabel[] labels = new JLabel[tmparr.length];
+@
+
+
+1.81
+log
+@*** empty log message ***
+@
+text
+@d38 1
+a38 3
+      //JLabel[] labels = new JLabel[tmparr.length];
+      //labels[i].setText(tmparr[i] + "");
+      //game.BoardLayout.add(labels[i],JLabel.CENTER);
+d41 3
+a43 1
+         game.BoardLayout.add(new JLabel(tmparr[i] + "", JLabel.CENTER));
+@
+
+
+1.80
+log
+@*** empty log message ***
+@
+text
+@d69 1
+@
+
+
+1.79
+log
+@*** empty log message ***
+@
+text
+@d38 3
+a40 1
+      JLabel[] labels = new JLabel[tmparr.length];
+d43 1
+a43 2
+         labels[i].setText(tmparr[i] + "");
+         game.BoardLayout.add(labels[i],JLabel.CENTER);
+@
+
+
+1.78
+log
+@*** empty log message ***
+@
+text
+@d38 1
+a38 1
+      JLabel[] labels = new JLabel [tmparr.length];
+a40 2
+         //labels[i].setAlignmentX(JLabel.CENTER);
+         //labels[i].setAlignmentY(JLabel.CENTER);
+@
+
+
+1.77
+log
+@*** empty log message ***
+@
+text
+@d38 2
+d41 4
+a44 1
+         game.BoardLayout.add(new JLabel(tmparr[i] + "",JLabel.CENTER));
+d46 1
+a47 1
+
+@
+
+
+1.76
+log
+@*** empty log message ***
+@
+text
+@d4 1
+a5 1
+import javax.swing.*;
+d32 11
+a46 8
+   }
+
+
+   /* Main Loop if executed standalone */
+   public static void main(String[] args) {
+      GameDemo game = new GameDemo();
+      Board2048 gameBoard = new Board2048(game.BoardSize);
+      System.out.println( Arrays.toString(gameBoard.getBoard()));
+@
+
+
+1.75
+log
+@*** empty log message ***
+@
+text
+@a42 1
+
+@
+
+
+1.74
+log
+@*** empty log message ***
+@
+text
+@d18 2
+a19 1
+   static int BoardSize = 4;
+d41 3
+a43 2
+      new GameDemo();
+      Board2048 gameBoard = new Board2048(BoardSize);
+@
+
+
+1.73
+log
+@*** empty log message ***
+@
+text
+@d3 2
+d42 1
+a42 1
+      System.out.println( gameBoard.getBoard() );
+@
+
+
+1.72
+log
+@*** empty log message ***
+@
+text
+@d16 1
+a16 1
+   int BoardSize = 4;
+d40 1
+@
+
+
+1.71
+log
+@*** empty log message ***
+@
+text
+@d16 1
+a16 1
+   private int BoardSize = 4;
+d18 1
+a18 1
+   private JFrame mainFrame = new JFrame("2048!");
+d20 1
+a20 1
+   private JPanel controlPanel = new JPanel();
+d22 1
+a22 1
+   private JPanel BoardLayout = new JPanel();
+a26 1
+   Board2048 gameBoard = new Board2048(BoardSize);
+d39 1
+@
+
+
+1.70
+log
+@*** empty log message ***
+@
+text
+@d30 1
+@
+
+
+1.69
+log
+@*** empty log message ***
+@
+text
+@d25 4
+a28 4
+   private JLabel statusLabel = new JLabel("",JLabel.CENTER);
+   private JTextField typingArea = new JTextField(20);
+   private Board2048 gameBoard = new Board2048(BoardSize);
+   private JButton okButton = new JButton("Clear");
+@
+
+
+1.68
+log
+@*** empty log message ***
+@
+text
+@a25 1
+   //private JLabel displayArea = new JLabel("",JLabel.CENTER);
+d35 1
+a56 1
+      //controlPanel.add(displayArea,BorderLayout.PAGE_CENTER);
+a88 1
+         //displayArea.setText(gameBoard.getFree() + "");
+a91 1
+         //displayArea.setText("");
+d113 1
+@
+
+
+1.67
+log
+@*** empty log message ***
+@
+text
+@d21 2
+@
+
+
+1.66
+log
+@*** empty log message ***
+@
+text
+@d56 3
+a58 3
+      mainFrame.getContentPane().add(typingArea, BorderLayout.PAGE_START);
+      mainFrame.getContentPane().add(controlPanel, BorderLayout.CENTER);
+      mainFrame.getContentPane().add(statusLabel, BorderLayout.PAGE_END);
+@
+
+
+1.65
+log
+@*** empty log message ***
+@
+text
+@a3 1
+
+d14 3
+d24 1
+a24 1
+   private JLabel displayArea = new JLabel("",JLabel.CENTER);
+d26 1
+a26 1
+   private Board2048 gameBoard = new Board2048(4);
+a28 1
+
+d50 3
+d55 1
+a55 1
+      controlPanel.add(displayArea,BorderLayout.CENTER);
+d88 1
+a88 1
+         displayArea.setText(gameBoard.getFree() + "");
+d92 1
+a92 1
+         displayArea.setText("");
+@
+
+
+1.64
+log
+@*** empty log message ***
+@
+text
+@d20 1
+@
+
+
+1.63
+log
+@*** empty log message ***
+@
+text
+@d5 7
+d13 1
+a13 3
+	private static final long serialVersionUID = 1L;
+
+   /* Counter for Testing */
+d34 1
+a34 1
+      GameDemo gdemo = new GameDemo();
+d71 1
+a71 1
+   /* Don't care about the next two, but they are required because I impliment them */
+@
+
+
+1.62
+log
+@*** empty log message ***
+@
+text
+@d91 1
+a91 1
+            updateDisplays(1);
+d94 1
+a94 1
+            updateDisplays(1);
+d101 1
+a101 1
+      updateDisplays(0);
+@
+
+
+1.61
+log
+@*** empty log message ***
+@
+text
+@d77 1
+a77 1
+      if (on == 1 ) {
+@
+
+
+1.60
+log
+@*** empty log message ***
+@
+text
+@d100 2
+a102 1
+   updateDisplays(1);
+@
+
+
+1.59
+log
+@*** empty log message ***
+@
+text
+@d74 1
+a74 1
+   public void updateDisplays(boolean On) {
+d77 1
+a77 1
+      if (On == 1 ) {
+@
+
+
+1.58
+log
+@*** empty log message ***
+@
+text
+@d72 15
+d91 1
+a91 2
+            statusLabel.setText("-Y-" + cnt++);
+            displayArea.setText(gameBoard.getFree() + "");
+d94 1
+a94 2
+            statusLabel.setText("-N-" + cnt++);
+            displayArea.setText(gameBoard.getFree() + "");
+a99 2
+      typingArea.setText("");
+      typingArea.requestFocusInWindow();
+d101 1
+@
+
+
+1.57
+log
+@*** empty log message ***
+@
+text
+@a78 1
+            break;
+a82 1
+            break;
+@
+
+
+1.56
+log
+@*** empty log message ***
+@
+text
+@d77 2
+d82 2
+a90 1
+      displayArea.setText(gameBoard.getFree() + "");
+@
+
+
+1.55
+log
+@*** empty log message ***
+@
+text
+@a65 1
+
+@
+
+
+1.54
+log
+@*** empty log message ***
+@
+text
+@d88 1
+a88 1
+      displayArea.setText(gameBoard.getFree());
+@
+
+
+1.53
+log
+@*** empty log message ***
+@
+text
+@d45 1
+d88 1
+a88 1
+      System.out.println(gameBoard.getFree());
+@
+
+
+1.52
+log
+@*** empty log message ***
+@
+text
+@a19 1
+   System.out.println(gameBoard.getFree());
+d87 1
+@
+
+
+1.51
+log
+@*** empty log message ***
+@
+text
+@d10 1
+a10 1
+   /* Elements that will be updated throughout Game */
+d12 3
+d16 1
+a16 1
+   private JPanel controlPanel = new JPanel();
+d20 1
+a42 5
+
+      ///////////////////////////////////////////////////////////
+      // Element VARS
+      ///////////////////////////////////////////////////////////
+      /* Area Var Initialization */
+@
+
+
+1.50
+log
+@*** empty log message ***
+@
+text
+@d8 1
+a8 1
+   /* Global Counter for Testing */
+d12 3
+a14 3
+   private JLabel statusLabel;
+   private JPanel controlPanel;
+   private JTextField typingArea;
+d16 1
+a37 1
+      controlPanel = new JPanel();
+a43 3
+      typingArea = new JTextField(20);
+      statusLabel = new JLabel("",JLabel.CENTER);
+      JButton okButton = new JButton("Clear");
+@
+
+
+1.49
+log
+@*** empty log message ***
+@
+text
+@d11 1
+a11 1
+   private JFrame mainFrame;
+d31 1
+a31 1
+      //Display Element INIT
+a32 2
+      /* Main Application Area */
+      mainFrame = new JFrame("2048!");
+d39 4
+@
+
+
+1.48
+log
+@*** empty log message ***
+@
+text
+@d15 1
+@
+
+
+1.47
+log
+@*** empty log message ***
+@
+text
+@d56 1
+a56 1
+      //mainFrame.setVisible(true);  
+@
+
+
+1.46
+log
+@*** empty log message ***
+@
+text
+@d8 1
+d10 1
+a10 1
+
+a13 1
+
+d17 1
+d22 1
+d27 1
+d29 3
+a31 5
+      /* Area Var Initialization */
+      typingArea = new JTextField(20);
+      statusLabel = new JLabel("",JLabel.CENTER);
+      JButton okButton = new JButton("Clear");
+
+d37 1
+a37 2
+
+      /* Center Display Panel */
+d40 4
+d45 1
+d51 1
+d55 2
+a56 1
+      mainFrame.setVisible(true);  
+@
+
+
+1.45
+log
+@*** empty log message ***
+@
+text
+@d54 1
+a54 1
+      statusLabel.setText("Areas all clear")
+@
+
+
+1.44
+log
+@*** empty log message ***
+@
+text
+@d54 1
+d61 1
+a61 1
+   /* Don't care about the next two, but they are required */
+@
+
+
+1.43
+log
+@*** empty log message ***
+@
+text
+@d59 4
+a62 2
+   public void keyPressed(KeyEvent e) { } //don't care but required
+   public void keyReleased(KeyEvent e) { } //don't care but required
+@
+
+
+1.42
+log
+@*** empty log message ***
+@
+text
+@d61 3
+@
+
+
+1.41
+log
+@*** empty log message ***
+@
+text
+@a77 88
+
+/*
+import java.awt.BorderLayout;
+import java.awt.Dimension;
+import java.awt.event.*;
+import javax.swing.*;
+
+public class Game extends JFrame implements KeyListener, ActionListener {
+	private static final long serialVersionUID = 1L;
+	
+	JTextArea displayArea;
+    JTextField typingArea;
+    int cnt = 0;
+
+    public static void main(String[] args) {
+        javax.swing.SwingUtilities.invokeLater(new Runnable() {
+            public void run() {
+                createAndShowGUI();
+            }
+        });
+    }
+    
+    private static void createAndShowGUI() {
+        Game frame = new Game("Game 2048!");
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        
+        frame.addComponentsToPane();
+        
+        
+        frame.pack();
+        frame.setVisible(true);
+    }
+    
+    private void addComponentsToPane() {
+        Board2048 b = new Board2048(); //setup new board
+        b.printBoard(); 
+
+
+        JButton button = new JButton("Clear");
+        button.addActionListener(this);
+        
+        typingArea = new JTextField(20);
+        typingArea.addKeyListener(this);
+        
+        displayArea = new JTextArea();
+        displayArea.setEditable(false);
+        JScrollPane scrollPane = new JScrollPane(displayArea);
+        scrollPane.setPreferredSize(new Dimension(400, 400));
+        
+        getContentPane().add(typingArea, BorderLayout.PAGE_START);
+        getContentPane().add(scrollPane, BorderLayout.CENTER);
+        getContentPane().add(button, BorderLayout.PAGE_END);
+    }
+    
+    public Game(String name) {
+        super(name);
+    }
+    
+    public void keyPressed(KeyEvent e) { } //don't care but required
+    public void keyReleased(KeyEvent e) { } //don't care but required
+    public void keyTyped(KeyEvent e) { 
+       String c = e.getKeyChar() + ""; 
+       switch(c.toLowerCase()) {
+          case "y":
+             displayArea.setText("-Y-" + cnt++);
+             break;
+          case "n":
+             displayArea.setText("-N-" + cnt++);
+             break;
+          case "q":
+             System.exit(0);
+             break;
+       }
+       typingArea.setText("");
+       typingArea.requestFocusInWindow();
+    }
+    
+    public void actionPerformed(ActionEvent e) {
+        //Clear the text components.
+        displayArea.setText("");
+        displayArea.append(e.getActionCommand() + "\n");
+        typingArea.setText("");
+        
+        //Return the focus to the typing area.
+        typingArea.requestFocusInWindow();
+    }
+}
+*/
+@
+
+
+1.40
+log
+@*** empty log message ***
+@
+text
+@d47 1
+@
+
+
+1.39
+log
+@*** empty log message ***
+@
+text
+@d8 2
+@
+
+
+1.38
+log
+@*** empty log message ***
+@
+text
+@a57 1
+   public void keyTyped(KeyEvent e) {  }
+@
+
+
+1.37
+log
+@*** empty log message ***
+@
+text
+@d59 16
+a74 1
+
+@
+
+
+1.36
+log
+@*** empty log message ***
+@
+text
+@d44 1
+a44 1
+      okButton.addActionListener(new CustomActionListener());        
+d49 7
+a59 15
+   public void actionPerformed(ActionEvent e) {
+       //Clear the text components.
+       displayArea.setText("");
+       displayArea.append(e.getActionCommand() + "\n");
+       typingArea.setText("");
+       
+       //Return the focus to the typing area.
+       typingArea.requestFocusInWindow();
+   }
+   
+   class CustomActionListener implements ActionListener {
+      public void actionPerformed(ActionEvent e) {
+         statusLabel.setText("Ok Button Clicked.");
+      }
+   }  
+@
+
+
+1.35
+log
+@*** empty log message ***
+@
+text
+@d52 10
+@
+
+
+1.34
+log
+@*** empty log message ***
+@
+text
+@a48 1
+   /*
+a51 1
+    */
+@
+
+
+1.33
+log
+@*** empty log message ***
+@
+text
+@d5 1
+a5 1
+public class GameDemo  {
+@
+
+
+1.32
+log
+@*** empty log message ***
+@
+text
+@a20 1
+      gdemo.showGameDemo();
+d27 1
+a27 1
+      JButton okButton = new JButton("OK");
+a45 6
+      /*
+      mainFrame.add(typingArea);
+      mainFrame.add(controlPanel);
+      mainFrame.add(statusLabel);
+      */
+
+a46 5
+
+   }
+
+   private void showGameDemo(){
+
+@
+
+
+1.31
+log
+@*** empty log message ***
+@
+text
+@d40 1
+a40 6
+      /* Button Subpanel */
+      JPanel panel = new JPanel();      
+      panel.add(okButton);
+
+
+      controlPanel.add(okButton,BorderLayout.PAGE_START);
+a51 3
+
+
+      //controlPanel.add(panel);
+@
+
+
+1.30
+log
+@*** empty log message ***
+@
+text
+@d45 1
+a45 1
+      controlPanel.getContentPanel().add(okButton,BorderLayout.PAGE_START);
+@
+
+
+1.29
+log
+@*** empty log message ***
+@
+text
+@d45 1
+a45 1
+      controlPanel.getContentPane().add(okButton,BorderLayout.PAGE_START);
+@
+
+
+1.28
+log
+@*** empty log message ***
+@
+text
+@d25 6
+a30 1
+      /* Main Application */
+d36 5
+d42 1
+a42 1
+      JButton okButton = new JButton("OK");
+a43 8
+      typingArea = new JTextField(20);
+      statusLabel = new JLabel("",JLabel.CENTER);
+
+      statusLabel.setSize(350,100);
+
+      /* Center Display Panel */
+      controlPanel = new JPanel();
+      controlPanel.setLayout(new FlowLayout());
+d45 1
+d50 2
+a57 1
+      panel.add(okButton);
+d59 1
+a59 2
+      okButton.addActionListener(new CustomActionListener());        
+      controlPanel.add(panel);
+@
+
+
+1.27
+log
+@*** empty log message ***
+@
+text
+@d25 1
+a25 1
+      /* Set Default for JFrame */
+d29 1
+a29 1
+      //mainFrame.setLayout(new GridLayout(3,1));
+d38 2
+@
+
+
+1.26
+log
+@*** empty log message ***
+@
+text
+@a24 1
+
+@
+
+
+1.25
+log
+@*** empty log message ***
+@
+text
+@d43 1
+a43 1
+      mainFrame.getContentPane().add(controlPanel, BorderLayout.PAGE_END);
+@
+
+
+1.24
+log
+@*** empty log message ***
+@
+text
+@d43 1
+a43 1
+      mainFrame.getContentPane().add(controlPanel, BorderLayout.CENTER);
+@
+
+
+1.23
+log
+@*** empty log message ***
+@
+text
+@d43 1
+a43 1
+      mainFrame.getContentPane().add(panel, BorderLayout.CENTER);
+@
+
+
+1.22
+log
+@*** empty log message ***
+@
+text
+@a25 1
+
+a32 1
+      panel.setBackground(Color.magenta);            
+d43 1
+a43 1
+      mainFrame.getContentPane().add(controlPanel, BorderLayout.CENTER);
+@
+
+
+1.21
+log
+@*** empty log message ***
+@
+text
+@d47 1
+@
+
+
+1.20
+log
+@*** empty log message ***
+@
+text
+@d33 3
+d53 5
+a63 9
+      JPanel panel = new JPanel();      
+      panel.setBackground(Color.magenta);            
+      
+      JButton okButton = new JButton("OK");
+
+      okButton.addActionListener(new CustomActionListener());        
+      panel.add(okButton);
+      controlPanel.add(panel);
+      mainFrame.setVisible(true); 
+@
+
+
+1.19
+log
+@*** empty log message ***
+@
+text
+@d41 4
+d48 2
+d51 1
+@
+
+
+1.18
+log
+@*** empty log message ***
+@
+text
+@d31 1
+a31 1
+      mainFrame.setLayout(new GridLayout(3,1));
+@
+
+
+1.17
+log
+@*** empty log message ***
+@
+text
+@a25 1
+      typingArea = new JTextField(20);
+d27 1
+d29 1
+d32 3
+a35 1
+      mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+a37 7
+      /*
+      mainFrame.addWindowListener(new WindowAdapter() {
+         public void windowClosing(WindowEvent windowEvent){
+           System.exit(0);
+         }        
+      });    
+       */
+d41 1
+@
+
+
+1.16
+log
+@*** empty log message ***
+@
+text
+@a50 1
+      headerLabel.setText("Listener in action: ActionListener");      
+@
+
+
+1.15
+log
+@*** empty log message ***
+@
+text
+@a5 1
+//public class GameDemo implements KeyListener, ActionListener {
+a8 1
+   private JLabel headerLabel;
+d12 2
+d25 3
+a30 1
+      headerLabel = new JLabel("",JLabel.CENTER);
+d32 1
+d35 1
+d41 1
+a44 1
+      mainFrame.add(headerLabel);
+@
+
+
+1.14
+log
+@*** empty log message ***
+@
+text
+@d5 2
+a6 1
+public class GameDemo implements KeyListener, ActionListener {
+d60 5
+a64 3
+    public void keyPressed(KeyEvent e) { } //don't care but required
+    public void keyReleased(KeyEvent e) { } //don't care but required
+    public void keyTyped(KeyEvent e) {  }
+d66 1
+a66 1
+   class CustomActionListener implements ActionListener{
+d68 1
+a68 1
+          statusLabel.setText("Ok Button Clicked.");
+@
+
+
+1.13
+log
+@*** empty log message ***
+@
+text
+@d58 4
+@
+
+
+1.12
+log
+@*** empty log message ***
+@
+text
+@d5 1
+a5 1
+public class GameDemo {
+a66 1
+
+@
+
+
+1.11
+log
+@*** empty log message ***
+@
+text
+@d65 89
+@
+
+
+1.10
+log
+@*** empty log message ***
+@
+text
+@d20 1
+a20 2
+      gdemo.showActionListenerDemo();
+      slsls
+d45 1
+a45 1
+   private void showActionListenerDemo(){
+@
+
+
+1.9
+log
+@*** empty log message ***
+@
+text
+@d21 1
+@
+
+
+1.8
+log
+@*** empty log message ***
+@
+text
+@d20 1
+a20 1
+      gdemo.show();
+@
+
+
+1.7
+log
+@*** empty log message ***
+@
+text
+@d20 1
+a20 1
+      gdemo.ShowGame();
+@
+
+
+1.6
+log
+@*** empty log message ***
+@
+text
+@a63 4
+
+   }
+
+   private void ShowGame() { }
+@
+
+
+1.5
+log
+@*** empty log message ***
+@
+text
+@d29 36
+@
+
+
+1.4
+log
+@*** empty log message ***
+@
+text
+@d31 1
+a31 3
+   private void ShowGame() {
+      
+   }
+@
+
+
+1.3
+log
+@*** empty log message ***
+@
+text
+@a33 1
+
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@a22 1
+
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d23 1
+@

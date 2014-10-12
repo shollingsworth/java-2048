@@ -1,0 +1,920 @@
+head	1.43;
+access;
+symbols;
+locks
+	stevenh:1.43; strict;
+comment	@# @;
+
+
+1.43
+date	2014.06.30.00.54.18;	author stevenh;	state Exp;
+branches;
+next	1.42;
+
+1.42
+date	2014.06.30.00.53.39;	author stevenh;	state Exp;
+branches;
+next	1.41;
+
+1.41
+date	2014.06.30.00.53.33;	author stevenh;	state Exp;
+branches;
+next	1.40;
+
+1.40
+date	2014.06.30.00.53.20;	author stevenh;	state Exp;
+branches;
+next	1.39;
+
+1.39
+date	2014.06.30.00.53.05;	author stevenh;	state Exp;
+branches;
+next	1.38;
+
+1.38
+date	2014.06.30.00.52.59;	author stevenh;	state Exp;
+branches;
+next	1.37;
+
+1.37
+date	2014.06.30.00.52.15;	author stevenh;	state Exp;
+branches;
+next	1.36;
+
+1.36
+date	2014.06.30.00.51.43;	author stevenh;	state Exp;
+branches;
+next	1.35;
+
+1.35
+date	2014.06.30.00.50.43;	author stevenh;	state Exp;
+branches;
+next	1.34;
+
+1.34
+date	2014.06.30.00.50.03;	author stevenh;	state Exp;
+branches;
+next	1.33;
+
+1.33
+date	2014.06.30.00.31.09;	author stevenh;	state Exp;
+branches;
+next	1.32;
+
+1.32
+date	2014.06.30.00.29.44;	author stevenh;	state Exp;
+branches;
+next	1.31;
+
+1.31
+date	2014.06.30.00.29.29;	author stevenh;	state Exp;
+branches;
+next	1.30;
+
+1.30
+date	2014.06.30.00.29.14;	author stevenh;	state Exp;
+branches;
+next	1.29;
+
+1.29
+date	2014.06.30.00.29.02;	author stevenh;	state Exp;
+branches;
+next	1.28;
+
+1.28
+date	2014.06.30.00.28.45;	author stevenh;	state Exp;
+branches;
+next	1.27;
+
+1.27
+date	2014.06.30.00.27.51;	author stevenh;	state Exp;
+branches;
+next	1.26;
+
+1.26
+date	2014.06.30.00.27.44;	author stevenh;	state Exp;
+branches;
+next	1.25;
+
+1.25
+date	2014.06.30.00.26.45;	author stevenh;	state Exp;
+branches;
+next	1.24;
+
+1.24
+date	2014.06.30.00.24.15;	author stevenh;	state Exp;
+branches;
+next	1.23;
+
+1.23
+date	2014.06.30.00.23.33;	author stevenh;	state Exp;
+branches;
+next	1.22;
+
+1.22
+date	2014.06.30.00.22.47;	author stevenh;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	2014.06.30.00.22.22;	author stevenh;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2014.06.30.00.20.57;	author stevenh;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2014.06.30.00.20.28;	author stevenh;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2014.06.30.00.16.15;	author stevenh;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2014.06.30.00.15.33;	author stevenh;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2014.06.30.00.14.01;	author stevenh;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2014.06.30.00.13.45;	author stevenh;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2014.06.30.00.04.23;	author stevenh;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2014.06.30.00.01.33;	author stevenh;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2014.06.29.23.58.46;	author stevenh;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2014.06.29.23.54.32;	author stevenh;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2014.06.29.23.41.13;	author stevenh;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2014.06.29.23.39.03;	author stevenh;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2014.06.29.23.20.35;	author stevenh;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2014.06.29.22.55.43;	author stevenh;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2014.06.29.22.55.23;	author stevenh;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2014.06.29.22.54.15;	author stevenh;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2014.06.29.22.47.01;	author stevenh;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2014.06.29.22.45.42;	author stevenh;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2014.06.29.22.43.29;	author stevenh;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.06.29.22.42.42;	author stevenh;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.43
+log
+@*** empty log message ***
+@
+text
+@import java.awt.BorderLayout;
+import java.awt.EventQueue;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
+import javax.swing.JFrame;
+import javax.swing.JTextArea;
+import javax.swing.JScrollPane;
+
+public class KeyListenerExample {
+    public static void main(String[] args) {
+       //Use the event dispatch thread for Swing components
+       //http://www.javamex.com/tutorials/threads/invokelater.shtml
+       EventQueue.invokeLater(new Runnable() {
+          @@Override
+          public void run() { new KeyListenerExample(); }
+       });
+    }
+
+    public KeyListenerExample() {
+        //Text Areas
+        JTextArea feedbackText = new JTextArea();
+        JTextArea inputText = new JTextArea();
+        JScrollPane scrollText = new JScrollPane(feedbackText);
+
+        //Fame
+        JFrame guiFrame = new JFrame();
+        guiFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //make sure the program exits when the frame closes
+        guiFrame.setTitle("Creating a Table Example");
+        guiFrame.setSize(300,300);
+        guiFrame.setLocationRelativeTo(null); //This will center the JFrame in the middle of the screen
+
+        inputText.addKeyListener(new KeyListener() {
+           @@Override public void keyPressed(KeyEvent e) { inputText.setText(""); }
+           @@Override public void keyReleased(KeyEvent e) { inputText.setText(""); }
+           @@Override public void keyTyped(KeyEvent e) {
+              inputText.setText("");
+              char key = e.getKeyChar();
+              feedbackText.setText("Key Typed: " + key + " " + KeyEvent.getKeyModifiersText(e.getModifiers()) + "\n");
+           }
+        });
+
+        //layout
+        guiFrame.add(inputText, BorderLayout.NORTH);
+        guiFrame.add(scrollText, BorderLayout.CENTER);
+        guiFrame.setVisible(true);
+    }
+}
+@
+
+
+1.42
+log
+@*** empty log message ***
+@
+text
+@d33 2
+a34 2
+           @@Override public void keyPressed(KeyEvent e) { }
+           @@Override public void keyReleased(KeyEvent e) { }
+@
+
+
+1.41
+log
+@*** empty log message ***
+@
+text
+@a38 1
+              inputText.setText("");
+@
+
+
+1.40
+log
+@*** empty log message ***
+@
+text
+@d36 1
+@
+
+
+1.39
+log
+@*** empty log message ***
+@
+text
+@d38 1
+a39 1
+           inputText.setText("");
+@
+
+
+1.38
+log
+@*** empty log message ***
+@
+text
+@a32 1
+           inputText.setText("");
+d39 1
+@
+
+
+1.37
+log
+@*** empty log message ***
+@
+text
+@a31 1
+        
+d33 1
+a38 1
+              inputText.setText("");
+@
+
+
+1.36
+log
+@*** empty log message ***
+@
+text
+@d20 6
+a25 2
+        //JTextArea inputText;
+        //JTextArea feedbackText;
+a31 3
+        JTextArea feedbackText = new JTextArea();
+        JTextArea inputText = new JTextArea();
+        JScrollPane scrollText = new JScrollPane(feedbackText);
+@
+
+
+1.35
+log
+@*** empty log message ***
+@
+text
+@a9 1
+
+d20 2
+a21 2
+        JTextArea inputText;
+        JTextArea feedbackText;
+d28 2
+a29 1
+        feedbackText = new JTextArea();
+a30 1
+        inputText = new JTextArea();
+@
+
+
+1.34
+log
+@*** empty log message ***
+@
+text
+@a9 2
+    JTextArea inputText;
+    JTextArea feedbackText;
+d21 2
+@
+
+
+1.33
+log
+@*** empty log message ***
+@
+text
+@d34 7
+a40 7
+              @@Override public void keyPressed(KeyEvent e) { }
+              @@Override public void keyReleased(KeyEvent e) { }
+              @@Override public void keyTyped(KeyEvent e) {
+                  char key = e.getKeyChar();
+                  feedbackText.setText("Key Typed: " + key + " " + KeyEvent.getKeyModifiersText(e.getModifiers()) + "\n");
+                  inputText.setText("");
+              }
+@
+
+
+1.32
+log
+@*** empty log message ***
+@
+text
+@a7 2
+//Here's a class for a simple GUI that uses a JFrame to hold to JTextAreas - one will listen for the key events
+//and the other will sit inside a JScrollPane providing feedback about the KeyListener events being triggered
+a28 1
+
+a43 1
+        
+@
+
+
+1.31
+log
+@*** empty log message ***
+@
+text
+@d42 1
+a42 1
+                  inputText.setText();
+@
+
+
+1.30
+log
+@*** empty log message ***
+@
+text
+@d42 1
+a42 1
+                  inputText.setText("\n");
+@
+
+
+1.29
+log
+@*** empty log message ***
+@
+text
+@d42 1
+a42 1
+                  inputText.setText(key + "\n");
+@
+
+
+1.28
+log
+@*** empty log message ***
+@
+text
+@d42 1
+a42 1
+                  inputText.setText(key);
+@
+
+
+1.27
+log
+@*** empty log message ***
+@
+text
+@d37 3
+a39 9
+           /*
+            */
+              @@Override 
+              public void keyPressed(KeyEvent e) { }
+              @@Override
+              public void keyReleased(KeyEvent e) { }
+              
+              @@Override
+              public void keyTyped(KeyEvent e) {
+d42 1
+@
+
+
+1.26
+log
+@*** empty log message ***
+@
+text
+@d38 1
+a42 1
+            */
+@
+
+
+1.25
+log
+@*** empty log message ***
+@
+text
+@d37 1
+d42 1
+d52 1
+@
+
+
+1.24
+log
+@*** empty log message ***
+@
+text
+@a33 1
+
+d38 1
+a38 4
+              public void keyPressed(KeyEvent e) {
+                  //feedbackText.append("Key Pressed: " + e.getKeyChar() + "\n");
+                  //feedbackText.setText("Key Pressed: " + e.getKeyChar() + "\n");
+              }
+d40 1
+a40 4
+              public void keyReleased(KeyEvent e) {
+                  //feedbackText.append("Key Released: " + e.getKeyChar() + "\n");
+                  //feedbackText.setText("Key Released: " + e.getKeyChar() + "\n");
+              }
+d44 2
+a45 3
+                  //feedbackText.append("Key Typed: " + e.getKeyChar() + " " + KeyEvent.getKeyModifiersText(e.getModifiers()) + "\n");
+                  char keypress = e.getKeyChar();
+                  feedbackText.setText("Key Typed: " + keypress + " " + KeyEvent.getKeyModifiersText(e.getModifiers()) + "\n");
+a46 2
+               
+              inputText.setText(keypress);
+@
+
+
+1.23
+log
+@*** empty log message ***
+@
+text
+@d55 2
+@
+
+
+1.22
+log
+@*** empty log message ***
+@
+text
+@a30 1
+        char keypress;
+d52 1
+a52 1
+                  keypress = e.getKeyChar();
+@
+
+
+1.21
+log
+@*** empty log message ***
+@
+text
+@d31 1
+a31 1
+        String keypress;
+@
+
+
+1.20
+log
+@*** empty log message ***
+@
+text
+@d31 2
+d53 2
+a54 1
+                  feedbackText.setText("Key Typed: " + e.getKeyChar() + " " + KeyEvent.getKeyModifiersText(e.getModifiers()) + "\n");
+@
+
+
+1.19
+log
+@*** empty log message ***
+@
+text
+@a36 1
+           /*
+a46 1
+            */
+@
+
+
+1.18
+log
+@*** empty log message ***
+@
+text
+@d37 1
+d48 1
+@
+
+
+1.17
+log
+@*** empty log message ***
+@
+text
+@d40 1
+a40 1
+                  feedbackText.setText("Key Pressed: " + e.getKeyChar() + "\n");
+d45 1
+a45 1
+                  feedbackText.setText("Key Released: " + e.getKeyChar() + "\n");
+a46 2
+           /*
+            */
+a49 3
+                  //The getKeyModifiers method is a handy
+                  //way to get a String representing the
+                  //modifier key.
+@
+
+
+1.16
+log
+@*** empty log message ***
+@
+text
+@d39 2
+a40 1
+                  feedbackText.append("Key Pressed: " + e.getKeyChar() + "\n");
+d44 2
+a45 1
+                  feedbackText.append("Key Released: " + e.getKeyChar() + "\n");
+d55 2
+a56 1
+                  feedbackText.append("Key Typed: " + e.getKeyChar() + " " + KeyEvent.getKeyModifiersText(e.getModifiers()) + "\n");
+@
+
+
+1.15
+log
+@*** empty log message ***
+@
+text
+@a36 1
+           /*
+d45 1
+@
+
+
+1.14
+log
+@*** empty log message ***
+@
+text
+@d37 1
+d46 1
+@
+
+
+1.13
+log
+@*** empty log message ***
+@
+text
+@d17 1
+d20 1
+a20 3
+          public void run() {
+             new KeyListenerExample();
+          }
+a30 4
+        
+        //This JTextArea is used to display information about
+        //the keylistener events. It's place in a JScrollPane
+        //to allow the scrolling through all the events triggered
+d33 1
+a33 3
+        
+        //This JTextArea will trigger the KeyListener events as
+        //long as it holds the focus
+a35 2
+        //The KeyListener interface is implemented as an anonymous
+        //inner class using the addKeyListener method.
+a36 7
+              //When any key is pressed and released then the 
+              //keyPressed and keyReleased methods are called respectively.
+              //The keyTyped method is called when a valid character is typed.
+              //The getKeyChar returns the character for the key used. If the key
+              //is a modifier key (e.g., SHIFT, CTRL) or action key (e.g., DELETE, ENTER)
+              //then the character will be a undefined symbol.
+              
+@
+
+
+1.12
+log
+@*** empty log message ***
+@
+text
+@a16 6
+       
+          public void run() {
+             new KeyListenerExample();
+          }
+       
+       /*
+a22 1
+        */
+@
+
+
+1.11
+log
+@*** empty log message ***
+@
+text
+@d17 6
+d24 1
+a24 1
+         // @@Override
+d29 1
+d59 1
+@
+
+
+1.10
+log
+@*** empty log message ***
+@
+text
+@d8 2
+a9 5
+
+//Here's a class for a simple GUI that uses a JFrame
+//to hold to JTextAreas - one will listen for the key events
+//and the other will sit inside a JScrollPane providing feedback
+//about the KeyListener events being triggered
+d14 1
+d18 1
+a18 1
+          @@Override
+@
+
+
+1.9
+log
+@*** empty log message ***
+@
+text
+@d1 7
+a7 2
+import java.awt.*;
+import javax.swing.*;
+@
+
+
+1.8
+log
+@*** empty log message ***
+@
+text
+@d1 2
+a2 7
+import java.awt.BorderLayout;
+import java.awt.EventQueue;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
+import javax.swing.JFrame;
+import javax.swing.JTextArea;
+import javax.swing.JScrollPane;
+@
+
+
+1.7
+log
+@*** empty log message ***
+@
+text
+@a75 1
+     
+@
+
+
+1.6
+log
+@*** empty log message ***
+@
+text
+@a33 4
+        //layout
+        guiFrame.add(inputText, BorderLayout.NORTH);
+        guiFrame.add(scrollText, BorderLayout.CENTER);
+        guiFrame.setVisible(true);
+d71 5
+@
+
+
+1.5
+log
+@*** empty log message ***
+@
+text
+@d33 5
+a75 3
+        guiFrame.add(inputText, BorderLayout.NORTH);
+        guiFrame.add(scrollText, BorderLayout.CENTER);
+        guiFrame.setVisible(true);
+@
+
+
+1.4
+log
+@*** empty log message ***
+@
+text
+@a16 2
+    //Note: Typically the main method will be in a separate class. As this is a simple one class example it's all in the one class.
+    
+d19 6
+a24 1
+       EventQueue.invokeLater(new Runnable() { @@Override public void run() { new KeyListenerExample(); } });
+a26 1
+
+d29 1
+a29 3
+        
+        //make sure the program exits when the frame closes
+        guiFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+d32 1
+a32 3
+      
+        //This will center the JFrame in the middle of the screen
+        guiFrame.setLocationRelativeTo(null);
+d41 1
+a41 1
+        //long as it hold the focus
+@
+
+
+1.3
+log
+@*** empty log message ***
+@
+text
+@d48 1
+a48 2
+        inputText.addKeyListener(new KeyListener()
+        {
+d56 1
+a56 2
+              public void keyPressed(KeyEvent e)
+              {
+d60 1
+a60 2
+              public void keyReleased(KeyEvent e)
+              {
+d65 1
+a65 2
+              public void keyTyped(KeyEvent e)
+              {
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@a14 1
+    
+d17 6
+a23 5
+     //Note: Typically the main method will be in a
+    //separate class. As this is a simple one class
+    //example it's all in the one class.
+    public static void main(String[] args) {
+     
+d25 1
+a25 16
+         //Use the event dispatch thread for Swing components
+         EventQueue.invokeLater(new Runnable()
+         {
+             
+            @@Override
+             public void run()
+             {
+                 
+                 new KeyListenerExample();         
+             }
+         });
+              
+    }
+    
+    public KeyListenerExample()
+    {
+a80 1
+    
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d46 1
+a46 1
+        guiFrame.setSize(700,200);
+@

@@ -1,0 +1,929 @@
+head	1.47;
+access;
+symbols;
+locks
+	stevenh:1.47; strict;
+comment	@# @;
+
+
+1.47
+date	2014.06.30.02.43.41;	author stevenh;	state Exp;
+branches;
+next	1.46;
+
+1.46
+date	2014.06.30.02.42.59;	author stevenh;	state Exp;
+branches;
+next	1.45;
+
+1.45
+date	2014.06.30.02.42.44;	author stevenh;	state Exp;
+branches;
+next	1.44;
+
+1.44
+date	2014.06.30.02.40.18;	author stevenh;	state Exp;
+branches;
+next	1.43;
+
+1.43
+date	2014.06.30.02.40.03;	author stevenh;	state Exp;
+branches;
+next	1.42;
+
+1.42
+date	2014.06.30.02.39.46;	author stevenh;	state Exp;
+branches;
+next	1.41;
+
+1.41
+date	2014.06.30.02.37.10;	author stevenh;	state Exp;
+branches;
+next	1.40;
+
+1.40
+date	2014.06.30.02.36.42;	author stevenh;	state Exp;
+branches;
+next	1.39;
+
+1.39
+date	2014.06.30.02.36.00;	author stevenh;	state Exp;
+branches;
+next	1.38;
+
+1.38
+date	2014.06.30.02.34.24;	author stevenh;	state Exp;
+branches;
+next	1.37;
+
+1.37
+date	2014.06.30.02.33.12;	author stevenh;	state Exp;
+branches;
+next	1.36;
+
+1.36
+date	2014.06.30.02.33.03;	author stevenh;	state Exp;
+branches;
+next	1.35;
+
+1.35
+date	2014.06.30.02.31.34;	author stevenh;	state Exp;
+branches;
+next	1.34;
+
+1.34
+date	2014.06.30.02.29.47;	author stevenh;	state Exp;
+branches;
+next	1.33;
+
+1.33
+date	2014.06.30.02.28.12;	author stevenh;	state Exp;
+branches;
+next	1.32;
+
+1.32
+date	2014.06.30.02.27.57;	author stevenh;	state Exp;
+branches;
+next	1.31;
+
+1.31
+date	2014.06.30.02.27.44;	author stevenh;	state Exp;
+branches;
+next	1.30;
+
+1.30
+date	2014.06.30.02.27.25;	author stevenh;	state Exp;
+branches;
+next	1.29;
+
+1.29
+date	2014.06.30.02.25.33;	author stevenh;	state Exp;
+branches;
+next	1.28;
+
+1.28
+date	2014.06.30.02.25.17;	author stevenh;	state Exp;
+branches;
+next	1.27;
+
+1.27
+date	2014.06.30.02.24.56;	author stevenh;	state Exp;
+branches;
+next	1.26;
+
+1.26
+date	2014.06.30.02.24.49;	author stevenh;	state Exp;
+branches;
+next	1.25;
+
+1.25
+date	2014.06.30.02.21.59;	author stevenh;	state Exp;
+branches;
+next	1.24;
+
+1.24
+date	2014.06.30.02.21.20;	author stevenh;	state Exp;
+branches;
+next	1.23;
+
+1.23
+date	2014.06.30.02.20.15;	author stevenh;	state Exp;
+branches;
+next	1.22;
+
+1.22
+date	2014.06.30.02.19.49;	author stevenh;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	2014.06.30.02.19.39;	author stevenh;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2014.06.30.02.19.27;	author stevenh;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2014.06.30.02.18.24;	author stevenh;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2014.06.30.01.38.16;	author stevenh;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2014.06.30.01.37.58;	author stevenh;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2014.06.30.01.34.02;	author stevenh;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2014.06.30.01.18.07;	author stevenh;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2014.06.30.01.15.14;	author stevenh;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2014.06.30.01.15.03;	author stevenh;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2014.06.30.01.12.11;	author stevenh;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2014.06.30.01.11.54;	author stevenh;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2014.06.30.01.10.14;	author stevenh;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2014.06.30.01.09.52;	author stevenh;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2014.06.30.01.08.21;	author stevenh;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2014.06.29.22.27.54;	author stevenh;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2014.06.29.22.27.47;	author stevenh;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2014.06.29.22.27.15;	author stevenh;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2014.06.29.22.26.57;	author stevenh;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2014.06.29.22.26.27;	author stevenh;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2014.06.29.22.25.43;	author stevenh;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.06.29.22.24.40;	author stevenh;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.47
+log
+@*** empty log message ***
+@
+text
+@import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+
+public class Game2048 {
+   public static void main( String[] args ) {
+      String title;
+      String body;
+      title = "2048 Game!";
+      body = "Blarg!";
+
+      JFrame frame = new JFrame( title );
+      JLabel label = new JLabel(title, JLabel.CENTER );
+      frame.add( new MainBody(body) );
+      frame.setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
+      frame.setSize( 300, 300 );
+      frame.setVisible( true );
+   }
+}
+
+class MainBody extends JComponent implements KeyListener {
+   String theMessage;
+   int counter = 0;
+   int messageX = 125, messageY = 95;  // Coordinates of the message
+
+   public MainBody ( String message ) {
+      theMessage = message;
+   }
+
+
+   public void keyReleased(KeyEvent e) {  }
+   public void keyPressed(KeyEvent e) {  }
+   public void keyTyped(KeyEvent e) { 
+      theMessage = "Blarg" + counter++;
+      repaint();
+   }
+
+   public void paintComponent( Graphics g ) {
+      g.drawString(theMessage, messageX, messageY);
+   }
+   //synchronized private void changeColor() { // Change the index to the next color, awkwardly.
+}
+
+
+/*
+class HelloComponent3 extends JComponent implements MouseMotionListener, ActionListener {
+   String theMessage;
+   int messageX = 125, messageY = 95;  // Coordinates of the message
+
+   JButton theButton;
+
+   int colorIndex;  // Current index into someColors
+   static Color[] someColors = { Color.black, Color.red, Color.green, Color.blue, Color.magenta };
+
+   public HelloComponent3( String message ) {
+      theMessage = message;
+      theButton = new JButton("Change Color");
+      setLayout( new FlowLayout() );
+      add( theButton );
+      theButton.addActionListener( this );
+      addMouseMotionListener( this );
+   }
+
+
+   public void paintComponent( Graphics g ) {
+      g.drawString(theMessage, messageX, messageY);
+   }
+
+   public void mouseDragged( MouseEvent e ) {
+      messageX = e.getX();
+      messageY = e.getY();
+      repaint();
+   
+
+   public void mouseMoved( MouseEvent e ) { }
+
+   public void actionPerformed( ActionEvent e ) { // Did somebody push our button?
+      if (e.getSource() == theButton)
+      changeColor();
+   }
+
+   synchronized private void changeColor() { // Change the index to the next color, awkwardly.
+      if (++colorIndex == someColors.length)
+      colorIndex = 0;
+      setForeground(currentColor()); // Use the new color.
+      repaint(); // Paint again so we can see the change.
+   }
+
+   synchronized private Color currentColor() {
+      return someColors[colorIndex];
+   }
+}
+*/
+@
+
+
+1.46
+log
+@*** empty log message ***
+@
+text
+@a29 3
+   public void paintComponent( Graphics g ) {
+      g.drawString(theMessage, messageX, messageY);
+   }
+d38 3
+d42 1
+a43 1
+}
+@
+
+
+1.45
+log
+@*** empty log message ***
+@
+text
+@d41 1
+a41 1
+   synchronized private void changeColor() { // Change the index to the next color, awkwardly.
+@
+
+
+1.44
+log
+@*** empty log message ***
+@
+text
+@d41 2
+@
+
+
+1.43
+log
+@*** empty log message ***
+@
+text
+@d38 1
+@
+
+
+1.42
+log
+@*** empty log message ***
+@
+text
+@d37 1
+a37 1
+      theMessage = counter++;
+@
+
+
+1.41
+log
+@*** empty log message ***
+@
+text
+@d23 1
+d30 4
+d36 3
+a38 1
+   public void keyTyped(KeyEvent e) {  }
+a39 3
+   public void paintComponent( Graphics g ) {
+      g.drawString(theMessage, messageX, messageY);
+   }
+@
+
+
+1.40
+log
+@*** empty log message ***
+@
+text
+@d23 1
+d34 1
+a34 1
+      g.drawString(theMessage);
+@
+
+
+1.39
+log
+@*** empty log message ***
+@
+text
+@a34 1
+
+@
+
+
+1.38
+log
+@*** empty log message ***
+@
+text
+@d31 5
+@
+
+
+1.37
+log
+@*** empty log message ***
+@
+text
+@a25 2
+      JTextArea feedbackText = new JTextArea();
+      feedbackText.setText(message);
+@
+
+
+1.36
+log
+@*** empty log message ***
+@
+text
+@a27 1
+   frame.add(feedbackText, BorderLayout.NORTH);
+@
+
+
+1.35
+log
+@*** empty log message ***
+@
+text
+@d28 1
+a33 2
+
+   frame.add(feedbackText, BorderLayout.NORTH);
+@
+
+
+1.34
+log
+@*** empty log message ***
+@
+text
+@d27 1
+a27 1
+
+d33 2
+@
+
+
+1.33
+log
+@*** empty log message ***
+@
+text
+@d26 2
+a27 1
+      add(message);
+@
+
+
+1.32
+log
+@*** empty log message ***
+@
+text
+@d26 1
+@
+
+
+1.31
+log
+@*** empty log message ***
+@
+text
+@a11 5
+      JTextArea = feedbackText;
+      JTextArea = inputText;
+   feedbackText = new JTextArea();
+   inputText = new JTextArea();
+
+a22 1
+
+@
+
+
+1.30
+log
+@*** empty log message ***
+@
+text
+@d14 2
+a28 2
+   feedbackText = new JTextArea();
+   inputText = new JTextArea();
+@
+
+
+1.29
+log
+@*** empty log message ***
+@
+text
+@d11 4
+a26 4
+   /*
+   JTextArea = feedbackText;
+   JTextArea = inputText;
+
+a28 2
+    */
+
+@
+
+
+1.28
+log
+@*** empty log message ***
+@
+text
+@d23 1
+d29 1
+@
+
+
+1.27
+log
+@*** empty log message ***
+@
+text
+@d23 3
+@
+
+
+1.26
+log
+@*** empty log message ***
+@
+text
+@d23 2
+a24 2
+   this feedbackText = new JTextArea();
+   this inputText = new JTextArea();
+@
+
+
+1.25
+log
+@*** empty log message ***
+@
+text
+@d8 1
+d10 1
+d13 1
+a13 1
+      frame.add( new MainBody(title) );
+d22 4
+@
+
+
+1.24
+log
+@*** empty log message ***
+@
+text
+@a20 4
+   public void keyReleased(KeyEvent e) {  }
+   public void keyPressed(KeyEvent e) {  }
+   public void keyTyped(KeyEvent e) {  }
+
+d25 3
+a27 3
+   public void paintComponent( Graphics g ) {
+      g.drawString(theMessage, messageX, messageY);
+   }
+@
+
+
+1.23
+log
+@*** empty log message ***
+@
+text
+@d26 5
+@
+
+
+1.22
+log
+@*** empty log message ***
+@
+text
+@d57 1
+a57 1
+   }
+@
+
+
+1.21
+log
+@*** empty log message ***
+@
+text
+@d23 1
+@
+
+
+1.20
+log
+@*** empty log message ***
+@
+text
+@d22 1
+@
+
+
+1.19
+log
+@*** empty log message ***
+@
+text
+@d20 3
+@
+
+
+1.18
+log
+@*** empty log message ***
+@
+text
+@d19 3
+@
+
+
+1.17
+log
+@*** empty log message ***
+@
+text
+@d18 1
+a18 1
+class MainBody extends JComponent implements KeyListener, ActionListener {
+@
+
+
+1.16
+log
+@*** empty log message ***
+@
+text
+@d11 1
+a11 1
+      frame.add( new HelloComponent3(title) );
+d16 3
+@
+
+
+1.15
+log
+@*** empty log message ***
+@
+text
+@a11 1
+
+d18 1
+d48 1
+a48 1
+   public void mouseMoved( MouseEvent e ) {}
+d66 1
+@
+
+
+1.14
+log
+@*** empty log message ***
+@
+text
+@a4 1
+
+d20 17
+a36 2
+  String theMessage;
+  int messageX = 125, messageY = 95;  // Coordinates of the message
+d38 3
+a40 1
+  JButton theButton;
+d42 5
+a46 22
+  int colorIndex;  // Current index into someColors
+  static Color[] someColors = { 
+   Color.black, Color.red, Color.green, Color.blue, Color.magenta };
+
+  public HelloComponent3( String message ) {
+    theMessage = message;
+    theButton = new JButton("Change Color");
+    setLayout( new FlowLayout() );
+    add( theButton );
+    theButton.addActionListener( this );
+    addMouseMotionListener( this );
+  }
+
+  public void paintComponent( Graphics g ) {
+    g.drawString(theMessage, messageX, messageY);
+  }
+
+  public void mouseDragged( MouseEvent e ) {
+    messageX = e.getX();
+    messageY = e.getY();
+    repaint();
+  }
+d48 1
+a48 1
+  public void mouseMoved( MouseEvent e ) {}
+d50 2
+a51 2
+  public void actionPerformed( ActionEvent e ) { // Did somebody push our button?
+    if (e.getSource() == theButton)
+d53 1
+a53 1
+  }
+d55 2
+a56 2
+  synchronized private void changeColor() { // Change the index to the next color, awkwardly.
+    if (++colorIndex == someColors.length)
+d58 7
+a64 7
+    setForeground(currentColor(  )); // Use the new color.
+    repaint(  ); // Paint again so we can see the change.
+  }
+
+  synchronized private Color currentColor() {
+    return someColors[colorIndex];
+  }
+@
+
+
+1.13
+log
+@*** empty log message ***
+@
+text
+@a12 1
+      frame.add( new HelloComponent3("Test3") );
+@
+
+
+1.12
+log
+@*** empty log message ***
+@
+text
+@a11 1
+
+d13 1
+a13 1
+      //frame.add(label);
+d52 1
+a52 2
+  public void actionPerformed( ActionEvent e ) {
+    // Did somebody push our button?
+d57 1
+a57 2
+  synchronized private void changeColor() {
+    // Change the index to the next color, awkwardly.
+@
+
+
+1.11
+log
+@*** empty log message ***
+@
+text
+@d13 1
+a13 1
+      frame.add( new HelloComponent3(label) );
+@
+
+
+1.10
+log
+@*** empty log message ***
+@
+text
+@d12 4
+a16 1
+      frame.add(label);
+@
+
+
+1.9
+log
+@*** empty log message ***
+@
+text
+@d1 2
+d4 1
+@
+
+
+1.8
+log
+@*** empty log message ***
+@
+text
+@a15 1
+
+@
+
+
+1.7
+log
+@*** empty log message ***
+@
+text
+@d15 51
+@
+
+
+1.6
+log
+@*** empty log message ***
+@
+text
+@d12 1
+a12 1
+      frame.setVisible( false );
+@
+
+
+1.5
+log
+@*** empty log message ***
+@
+text
+@d12 1
+a12 1
+      frame.setVisible( true );
+@
+
+
+1.4
+log
+@*** empty log message ***
+@
+text
+@d5 1
+a5 1
+      string title;
+@
+
+
+1.3
+log
+@*** empty log message ***
+@
+text
+@d5 2
+a6 1
+      string title = "2048 Game!";
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@d5 3
+a7 2
+      JFrame frame = new JFrame( "Hello, Java!" );
+      JLabel label = new JLabel("Hello, Java!", JLabel.CENTER );
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d7 1
+@

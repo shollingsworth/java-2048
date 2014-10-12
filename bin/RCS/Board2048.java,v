@@ -1,0 +1,10990 @@
+head	1.587;
+access;
+symbols;
+locks
+	stevenh:1.587; strict;
+comment	@# @;
+
+
+1.587
+date	2014.07.12.01.29.39;	author stevenh;	state Exp;
+branches;
+next	1.586;
+
+1.586
+date	2014.07.11.02.35.30;	author stevenh;	state Exp;
+branches;
+next	1.585;
+
+1.585
+date	2014.07.09.05.14.52;	author stevenh;	state Exp;
+branches;
+next	1.584;
+
+1.584
+date	2014.07.09.05.03.21;	author stevenh;	state Exp;
+branches;
+next	1.583;
+
+1.583
+date	2014.07.09.04.58.53;	author stevenh;	state Exp;
+branches;
+next	1.582;
+
+1.582
+date	2014.07.09.04.53.58;	author stevenh;	state Exp;
+branches;
+next	1.581;
+
+1.581
+date	2014.07.09.04.52.47;	author stevenh;	state Exp;
+branches;
+next	1.580;
+
+1.580
+date	2014.07.09.04.50.24;	author stevenh;	state Exp;
+branches;
+next	1.579;
+
+1.579
+date	2014.07.09.04.48.03;	author stevenh;	state Exp;
+branches;
+next	1.578;
+
+1.578
+date	2014.07.09.04.47.42;	author stevenh;	state Exp;
+branches;
+next	1.577;
+
+1.577
+date	2014.07.09.04.33.07;	author stevenh;	state Exp;
+branches;
+next	1.576;
+
+1.576
+date	2014.07.09.04.32.54;	author stevenh;	state Exp;
+branches;
+next	1.575;
+
+1.575
+date	2014.07.09.04.32.35;	author stevenh;	state Exp;
+branches;
+next	1.574;
+
+1.574
+date	2014.07.09.04.31.23;	author stevenh;	state Exp;
+branches;
+next	1.573;
+
+1.573
+date	2014.07.09.04.31.14;	author stevenh;	state Exp;
+branches;
+next	1.572;
+
+1.572
+date	2014.07.09.04.30.37;	author stevenh;	state Exp;
+branches;
+next	1.571;
+
+1.571
+date	2014.07.09.03.14.16;	author stevenh;	state Exp;
+branches;
+next	1.570;
+
+1.570
+date	2014.07.09.03.12.48;	author stevenh;	state Exp;
+branches;
+next	1.569;
+
+1.569
+date	2014.07.09.03.12.15;	author stevenh;	state Exp;
+branches;
+next	1.568;
+
+1.568
+date	2014.07.09.03.12.06;	author stevenh;	state Exp;
+branches;
+next	1.567;
+
+1.567
+date	2014.07.09.03.11.40;	author stevenh;	state Exp;
+branches;
+next	1.566;
+
+1.566
+date	2014.07.09.03.11.02;	author stevenh;	state Exp;
+branches;
+next	1.565;
+
+1.565
+date	2014.07.09.02.37.09;	author stevenh;	state Exp;
+branches;
+next	1.564;
+
+1.564
+date	2014.07.08.23.53.22;	author stevenh;	state Exp;
+branches;
+next	1.563;
+
+1.563
+date	2014.07.08.23.51.16;	author stevenh;	state Exp;
+branches;
+next	1.562;
+
+1.562
+date	2014.07.08.23.49.32;	author stevenh;	state Exp;
+branches;
+next	1.561;
+
+1.561
+date	2014.07.08.23.49.00;	author stevenh;	state Exp;
+branches;
+next	1.560;
+
+1.560
+date	2014.07.08.23.47.52;	author stevenh;	state Exp;
+branches;
+next	1.559;
+
+1.559
+date	2014.07.08.23.44.03;	author stevenh;	state Exp;
+branches;
+next	1.558;
+
+1.558
+date	2014.07.08.23.43.56;	author stevenh;	state Exp;
+branches;
+next	1.557;
+
+1.557
+date	2014.07.08.23.43.42;	author stevenh;	state Exp;
+branches;
+next	1.556;
+
+1.556
+date	2014.07.08.23.43.27;	author stevenh;	state Exp;
+branches;
+next	1.555;
+
+1.555
+date	2014.07.08.23.42.56;	author stevenh;	state Exp;
+branches;
+next	1.554;
+
+1.554
+date	2014.07.08.23.42.14;	author stevenh;	state Exp;
+branches;
+next	1.553;
+
+1.553
+date	2014.07.08.23.41.55;	author stevenh;	state Exp;
+branches;
+next	1.552;
+
+1.552
+date	2014.07.08.23.41.16;	author stevenh;	state Exp;
+branches;
+next	1.551;
+
+1.551
+date	2014.07.08.23.36.36;	author stevenh;	state Exp;
+branches;
+next	1.550;
+
+1.550
+date	2014.07.08.23.35.19;	author stevenh;	state Exp;
+branches;
+next	1.549;
+
+1.549
+date	2014.07.08.23.34.56;	author stevenh;	state Exp;
+branches;
+next	1.548;
+
+1.548
+date	2014.07.08.23.34.18;	author stevenh;	state Exp;
+branches;
+next	1.547;
+
+1.547
+date	2014.07.08.23.33.54;	author stevenh;	state Exp;
+branches;
+next	1.546;
+
+1.546
+date	2014.07.08.23.27.21;	author stevenh;	state Exp;
+branches;
+next	1.545;
+
+1.545
+date	2014.07.08.23.23.40;	author stevenh;	state Exp;
+branches;
+next	1.544;
+
+1.544
+date	2014.07.08.23.23.11;	author stevenh;	state Exp;
+branches;
+next	1.543;
+
+1.543
+date	2014.07.08.23.21.57;	author stevenh;	state Exp;
+branches;
+next	1.542;
+
+1.542
+date	2014.07.08.23.20.42;	author stevenh;	state Exp;
+branches;
+next	1.541;
+
+1.541
+date	2014.07.08.23.19.13;	author stevenh;	state Exp;
+branches;
+next	1.540;
+
+1.540
+date	2014.07.08.23.17.56;	author stevenh;	state Exp;
+branches;
+next	1.539;
+
+1.539
+date	2014.07.08.23.17.12;	author stevenh;	state Exp;
+branches;
+next	1.538;
+
+1.538
+date	2014.07.08.23.16.59;	author stevenh;	state Exp;
+branches;
+next	1.537;
+
+1.537
+date	2014.07.08.23.15.33;	author stevenh;	state Exp;
+branches;
+next	1.536;
+
+1.536
+date	2014.07.08.23.15.19;	author stevenh;	state Exp;
+branches;
+next	1.535;
+
+1.535
+date	2014.07.08.23.14.54;	author stevenh;	state Exp;
+branches;
+next	1.534;
+
+1.534
+date	2014.07.08.23.14.36;	author stevenh;	state Exp;
+branches;
+next	1.533;
+
+1.533
+date	2014.07.08.23.14.12;	author stevenh;	state Exp;
+branches;
+next	1.532;
+
+1.532
+date	2014.07.08.23.14.00;	author stevenh;	state Exp;
+branches;
+next	1.531;
+
+1.531
+date	2014.07.08.23.13.18;	author stevenh;	state Exp;
+branches;
+next	1.530;
+
+1.530
+date	2014.07.08.23.12.31;	author stevenh;	state Exp;
+branches;
+next	1.529;
+
+1.529
+date	2014.07.08.23.10.58;	author stevenh;	state Exp;
+branches;
+next	1.528;
+
+1.528
+date	2014.07.08.23.09.51;	author stevenh;	state Exp;
+branches;
+next	1.527;
+
+1.527
+date	2014.07.08.23.07.43;	author stevenh;	state Exp;
+branches;
+next	1.526;
+
+1.526
+date	2014.07.08.23.07.34;	author stevenh;	state Exp;
+branches;
+next	1.525;
+
+1.525
+date	2014.07.08.23.07.09;	author stevenh;	state Exp;
+branches;
+next	1.524;
+
+1.524
+date	2014.07.08.23.06.51;	author stevenh;	state Exp;
+branches;
+next	1.523;
+
+1.523
+date	2014.07.08.23.01.25;	author stevenh;	state Exp;
+branches;
+next	1.522;
+
+1.522
+date	2014.07.08.23.01.06;	author stevenh;	state Exp;
+branches;
+next	1.521;
+
+1.521
+date	2014.07.08.23.00.22;	author stevenh;	state Exp;
+branches;
+next	1.520;
+
+1.520
+date	2014.07.08.23.00.11;	author stevenh;	state Exp;
+branches;
+next	1.519;
+
+1.519
+date	2014.07.08.22.58.46;	author stevenh;	state Exp;
+branches;
+next	1.518;
+
+1.518
+date	2014.07.08.22.57.57;	author stevenh;	state Exp;
+branches;
+next	1.517;
+
+1.517
+date	2014.07.08.22.55.07;	author stevenh;	state Exp;
+branches;
+next	1.516;
+
+1.516
+date	2014.07.08.22.53.50;	author stevenh;	state Exp;
+branches;
+next	1.515;
+
+1.515
+date	2014.07.08.22.50.31;	author stevenh;	state Exp;
+branches;
+next	1.514;
+
+1.514
+date	2014.07.08.22.47.21;	author stevenh;	state Exp;
+branches;
+next	1.513;
+
+1.513
+date	2014.07.08.22.46.04;	author stevenh;	state Exp;
+branches;
+next	1.512;
+
+1.512
+date	2014.07.08.22.42.29;	author stevenh;	state Exp;
+branches;
+next	1.511;
+
+1.511
+date	2014.07.08.22.37.56;	author stevenh;	state Exp;
+branches;
+next	1.510;
+
+1.510
+date	2014.07.08.22.37.35;	author stevenh;	state Exp;
+branches;
+next	1.509;
+
+1.509
+date	2014.07.08.22.37.10;	author stevenh;	state Exp;
+branches;
+next	1.508;
+
+1.508
+date	2014.07.08.22.36.44;	author stevenh;	state Exp;
+branches;
+next	1.507;
+
+1.507
+date	2014.07.08.22.35.40;	author stevenh;	state Exp;
+branches;
+next	1.506;
+
+1.506
+date	2014.07.08.22.30.04;	author stevenh;	state Exp;
+branches;
+next	1.505;
+
+1.505
+date	2014.07.08.22.26.23;	author stevenh;	state Exp;
+branches;
+next	1.504;
+
+1.504
+date	2014.07.08.22.26.08;	author stevenh;	state Exp;
+branches;
+next	1.503;
+
+1.503
+date	2014.07.08.22.25.24;	author stevenh;	state Exp;
+branches;
+next	1.502;
+
+1.502
+date	2014.07.08.22.24.53;	author stevenh;	state Exp;
+branches;
+next	1.501;
+
+1.501
+date	2014.07.08.22.23.27;	author stevenh;	state Exp;
+branches;
+next	1.500;
+
+1.500
+date	2014.07.08.22.21.39;	author stevenh;	state Exp;
+branches;
+next	1.499;
+
+1.499
+date	2014.07.08.22.21.10;	author stevenh;	state Exp;
+branches;
+next	1.498;
+
+1.498
+date	2014.07.08.22.20.57;	author stevenh;	state Exp;
+branches;
+next	1.497;
+
+1.497
+date	2014.07.08.22.19.53;	author stevenh;	state Exp;
+branches;
+next	1.496;
+
+1.496
+date	2014.07.08.22.19.22;	author stevenh;	state Exp;
+branches;
+next	1.495;
+
+1.495
+date	2014.07.08.22.18.02;	author stevenh;	state Exp;
+branches;
+next	1.494;
+
+1.494
+date	2014.07.08.22.15.54;	author stevenh;	state Exp;
+branches;
+next	1.493;
+
+1.493
+date	2014.07.08.22.15.25;	author stevenh;	state Exp;
+branches;
+next	1.492;
+
+1.492
+date	2014.07.08.22.05.25;	author stevenh;	state Exp;
+branches;
+next	1.491;
+
+1.491
+date	2014.07.08.22.05.16;	author stevenh;	state Exp;
+branches;
+next	1.490;
+
+1.490
+date	2014.07.08.22.04.09;	author stevenh;	state Exp;
+branches;
+next	1.489;
+
+1.489
+date	2014.07.08.22.01.24;	author stevenh;	state Exp;
+branches;
+next	1.488;
+
+1.488
+date	2014.07.08.22.00.56;	author stevenh;	state Exp;
+branches;
+next	1.487;
+
+1.487
+date	2014.07.08.22.00.36;	author stevenh;	state Exp;
+branches;
+next	1.486;
+
+1.486
+date	2014.07.08.22.00.25;	author stevenh;	state Exp;
+branches;
+next	1.485;
+
+1.485
+date	2014.07.08.22.00.09;	author stevenh;	state Exp;
+branches;
+next	1.484;
+
+1.484
+date	2014.07.08.21.58.38;	author stevenh;	state Exp;
+branches;
+next	1.483;
+
+1.483
+date	2014.07.08.21.52.22;	author stevenh;	state Exp;
+branches;
+next	1.482;
+
+1.482
+date	2014.07.08.21.51.55;	author stevenh;	state Exp;
+branches;
+next	1.481;
+
+1.481
+date	2014.07.08.21.51.04;	author stevenh;	state Exp;
+branches;
+next	1.480;
+
+1.480
+date	2014.07.08.21.40.52;	author stevenh;	state Exp;
+branches;
+next	1.479;
+
+1.479
+date	2014.07.08.21.37.51;	author stevenh;	state Exp;
+branches;
+next	1.478;
+
+1.478
+date	2014.07.08.21.37.07;	author stevenh;	state Exp;
+branches;
+next	1.477;
+
+1.477
+date	2014.07.08.21.30.52;	author stevenh;	state Exp;
+branches;
+next	1.476;
+
+1.476
+date	2014.07.08.21.30.26;	author stevenh;	state Exp;
+branches;
+next	1.475;
+
+1.475
+date	2014.07.08.21.29.00;	author stevenh;	state Exp;
+branches;
+next	1.474;
+
+1.474
+date	2014.07.08.21.28.25;	author stevenh;	state Exp;
+branches;
+next	1.473;
+
+1.473
+date	2014.07.08.21.28.10;	author stevenh;	state Exp;
+branches;
+next	1.472;
+
+1.472
+date	2014.07.08.21.23.04;	author stevenh;	state Exp;
+branches;
+next	1.471;
+
+1.471
+date	2014.07.08.21.21.03;	author stevenh;	state Exp;
+branches;
+next	1.470;
+
+1.470
+date	2014.07.08.21.17.48;	author stevenh;	state Exp;
+branches;
+next	1.469;
+
+1.469
+date	2014.07.08.21.15.58;	author stevenh;	state Exp;
+branches;
+next	1.468;
+
+1.468
+date	2014.07.08.21.13.09;	author stevenh;	state Exp;
+branches;
+next	1.467;
+
+1.467
+date	2014.07.08.21.12.27;	author stevenh;	state Exp;
+branches;
+next	1.466;
+
+1.466
+date	2014.07.08.21.11.11;	author stevenh;	state Exp;
+branches;
+next	1.465;
+
+1.465
+date	2014.07.08.21.10.54;	author stevenh;	state Exp;
+branches;
+next	1.464;
+
+1.464
+date	2014.07.08.21.09.43;	author stevenh;	state Exp;
+branches;
+next	1.463;
+
+1.463
+date	2014.07.08.21.04.07;	author stevenh;	state Exp;
+branches;
+next	1.462;
+
+1.462
+date	2014.07.08.21.03.01;	author stevenh;	state Exp;
+branches;
+next	1.461;
+
+1.461
+date	2014.07.08.21.00.09;	author stevenh;	state Exp;
+branches;
+next	1.460;
+
+1.460
+date	2014.07.08.20.58.11;	author stevenh;	state Exp;
+branches;
+next	1.459;
+
+1.459
+date	2014.07.08.20.52.35;	author stevenh;	state Exp;
+branches;
+next	1.458;
+
+1.458
+date	2014.07.08.20.44.15;	author stevenh;	state Exp;
+branches;
+next	1.457;
+
+1.457
+date	2014.07.08.19.36.26;	author stevenh;	state Exp;
+branches;
+next	1.456;
+
+1.456
+date	2014.07.08.19.36.06;	author stevenh;	state Exp;
+branches;
+next	1.455;
+
+1.455
+date	2014.07.08.19.35.54;	author stevenh;	state Exp;
+branches;
+next	1.454;
+
+1.454
+date	2014.07.08.19.35.40;	author stevenh;	state Exp;
+branches;
+next	1.453;
+
+1.453
+date	2014.07.08.19.35.29;	author stevenh;	state Exp;
+branches;
+next	1.452;
+
+1.452
+date	2014.07.08.19.34.49;	author stevenh;	state Exp;
+branches;
+next	1.451;
+
+1.451
+date	2014.07.08.19.34.28;	author stevenh;	state Exp;
+branches;
+next	1.450;
+
+1.450
+date	2014.07.08.19.33.42;	author stevenh;	state Exp;
+branches;
+next	1.449;
+
+1.449
+date	2014.07.08.19.13.34;	author stevenh;	state Exp;
+branches;
+next	1.448;
+
+1.448
+date	2014.07.08.15.17.32;	author stevenh;	state Exp;
+branches;
+next	1.447;
+
+1.447
+date	2014.07.08.00.42.17;	author stevenh;	state Exp;
+branches;
+next	1.446;
+
+1.446
+date	2014.07.08.00.39.09;	author stevenh;	state Exp;
+branches;
+next	1.445;
+
+1.445
+date	2014.07.08.00.36.20;	author stevenh;	state Exp;
+branches;
+next	1.444;
+
+1.444
+date	2014.07.07.05.16.32;	author stevenh;	state Exp;
+branches;
+next	1.443;
+
+1.443
+date	2014.07.07.05.01.34;	author stevenh;	state Exp;
+branches;
+next	1.442;
+
+1.442
+date	2014.07.07.05.00.40;	author stevenh;	state Exp;
+branches;
+next	1.441;
+
+1.441
+date	2014.07.07.05.00.29;	author stevenh;	state Exp;
+branches;
+next	1.440;
+
+1.440
+date	2014.07.07.04.57.51;	author stevenh;	state Exp;
+branches;
+next	1.439;
+
+1.439
+date	2014.07.07.04.57.35;	author stevenh;	state Exp;
+branches;
+next	1.438;
+
+1.438
+date	2014.07.07.04.57.25;	author stevenh;	state Exp;
+branches;
+next	1.437;
+
+1.437
+date	2014.07.07.04.57.15;	author stevenh;	state Exp;
+branches;
+next	1.436;
+
+1.436
+date	2014.07.07.04.56.52;	author stevenh;	state Exp;
+branches;
+next	1.435;
+
+1.435
+date	2014.07.07.04.56.31;	author stevenh;	state Exp;
+branches;
+next	1.434;
+
+1.434
+date	2014.07.07.04.53.17;	author stevenh;	state Exp;
+branches;
+next	1.433;
+
+1.433
+date	2014.07.07.04.52.33;	author stevenh;	state Exp;
+branches;
+next	1.432;
+
+1.432
+date	2014.07.07.04.51.45;	author stevenh;	state Exp;
+branches;
+next	1.431;
+
+1.431
+date	2014.07.07.04.51.34;	author stevenh;	state Exp;
+branches;
+next	1.430;
+
+1.430
+date	2014.07.07.04.51.27;	author stevenh;	state Exp;
+branches;
+next	1.429;
+
+1.429
+date	2014.07.07.04.50.40;	author stevenh;	state Exp;
+branches;
+next	1.428;
+
+1.428
+date	2014.07.07.04.48.58;	author stevenh;	state Exp;
+branches;
+next	1.427;
+
+1.427
+date	2014.07.07.04.46.59;	author stevenh;	state Exp;
+branches;
+next	1.426;
+
+1.426
+date	2014.07.07.04.45.07;	author stevenh;	state Exp;
+branches;
+next	1.425;
+
+1.425
+date	2014.07.07.04.21.25;	author stevenh;	state Exp;
+branches;
+next	1.424;
+
+1.424
+date	2014.07.07.04.20.57;	author stevenh;	state Exp;
+branches;
+next	1.423;
+
+1.423
+date	2014.07.07.04.20.15;	author stevenh;	state Exp;
+branches;
+next	1.422;
+
+1.422
+date	2014.07.07.04.20.00;	author stevenh;	state Exp;
+branches;
+next	1.421;
+
+1.421
+date	2014.07.07.04.19.12;	author stevenh;	state Exp;
+branches;
+next	1.420;
+
+1.420
+date	2014.07.07.03.58.32;	author stevenh;	state Exp;
+branches;
+next	1.419;
+
+1.419
+date	2014.07.07.03.23.32;	author stevenh;	state Exp;
+branches;
+next	1.418;
+
+1.418
+date	2014.07.07.03.13.48;	author stevenh;	state Exp;
+branches;
+next	1.417;
+
+1.417
+date	2014.07.07.03.13.26;	author stevenh;	state Exp;
+branches;
+next	1.416;
+
+1.416
+date	2014.07.07.03.09.25;	author stevenh;	state Exp;
+branches;
+next	1.415;
+
+1.415
+date	2014.07.07.03.08.47;	author stevenh;	state Exp;
+branches;
+next	1.414;
+
+1.414
+date	2014.07.07.03.08.27;	author stevenh;	state Exp;
+branches;
+next	1.413;
+
+1.413
+date	2014.07.07.03.08.18;	author stevenh;	state Exp;
+branches;
+next	1.412;
+
+1.412
+date	2014.07.07.03.08.09;	author stevenh;	state Exp;
+branches;
+next	1.411;
+
+1.411
+date	2014.07.07.03.08.01;	author stevenh;	state Exp;
+branches;
+next	1.410;
+
+1.410
+date	2014.07.07.03.07.49;	author stevenh;	state Exp;
+branches;
+next	1.409;
+
+1.409
+date	2014.07.07.03.07.28;	author stevenh;	state Exp;
+branches;
+next	1.408;
+
+1.408
+date	2014.07.07.03.07.21;	author stevenh;	state Exp;
+branches;
+next	1.407;
+
+1.407
+date	2014.07.07.03.07.11;	author stevenh;	state Exp;
+branches;
+next	1.406;
+
+1.406
+date	2014.07.07.03.06.50;	author stevenh;	state Exp;
+branches;
+next	1.405;
+
+1.405
+date	2014.07.07.02.55.58;	author stevenh;	state Exp;
+branches;
+next	1.404;
+
+1.404
+date	2014.07.07.02.44.38;	author stevenh;	state Exp;
+branches;
+next	1.403;
+
+1.403
+date	2014.07.07.02.22.18;	author stevenh;	state Exp;
+branches;
+next	1.402;
+
+1.402
+date	2014.07.07.01.46.35;	author stevenh;	state Exp;
+branches;
+next	1.401;
+
+1.401
+date	2014.07.07.01.45.31;	author stevenh;	state Exp;
+branches;
+next	1.400;
+
+1.400
+date	2014.07.07.01.45.20;	author stevenh;	state Exp;
+branches;
+next	1.399;
+
+1.399
+date	2014.07.07.01.45.07;	author stevenh;	state Exp;
+branches;
+next	1.398;
+
+1.398
+date	2014.07.07.01.44.37;	author stevenh;	state Exp;
+branches;
+next	1.397;
+
+1.397
+date	2014.07.07.01.43.44;	author stevenh;	state Exp;
+branches;
+next	1.396;
+
+1.396
+date	2014.07.07.01.43.10;	author stevenh;	state Exp;
+branches;
+next	1.395;
+
+1.395
+date	2014.07.07.01.40.56;	author stevenh;	state Exp;
+branches;
+next	1.394;
+
+1.394
+date	2014.07.07.01.39.40;	author stevenh;	state Exp;
+branches;
+next	1.393;
+
+1.393
+date	2014.07.07.01.37.43;	author stevenh;	state Exp;
+branches;
+next	1.392;
+
+1.392
+date	2014.07.07.01.37.24;	author stevenh;	state Exp;
+branches;
+next	1.391;
+
+1.391
+date	2014.07.07.01.36.46;	author stevenh;	state Exp;
+branches;
+next	1.390;
+
+1.390
+date	2014.07.07.01.28.37;	author stevenh;	state Exp;
+branches;
+next	1.389;
+
+1.389
+date	2014.07.07.01.11.26;	author stevenh;	state Exp;
+branches;
+next	1.388;
+
+1.388
+date	2014.07.06.22.27.59;	author stevenh;	state Exp;
+branches;
+next	1.387;
+
+1.387
+date	2014.07.06.22.27.47;	author stevenh;	state Exp;
+branches;
+next	1.386;
+
+1.386
+date	2014.07.06.22.23.00;	author stevenh;	state Exp;
+branches;
+next	1.385;
+
+1.385
+date	2014.07.06.22.22.15;	author stevenh;	state Exp;
+branches;
+next	1.384;
+
+1.384
+date	2014.07.06.22.20.27;	author stevenh;	state Exp;
+branches;
+next	1.383;
+
+1.383
+date	2014.07.06.22.20.18;	author stevenh;	state Exp;
+branches;
+next	1.382;
+
+1.382
+date	2014.07.06.22.19.45;	author stevenh;	state Exp;
+branches;
+next	1.381;
+
+1.381
+date	2014.07.06.22.18.09;	author stevenh;	state Exp;
+branches;
+next	1.380;
+
+1.380
+date	2014.07.06.20.10.39;	author stevenh;	state Exp;
+branches;
+next	1.379;
+
+1.379
+date	2014.07.06.20.09.05;	author stevenh;	state Exp;
+branches;
+next	1.378;
+
+1.378
+date	2014.07.06.20.08.59;	author stevenh;	state Exp;
+branches;
+next	1.377;
+
+1.377
+date	2014.07.06.20.08.18;	author stevenh;	state Exp;
+branches;
+next	1.376;
+
+1.376
+date	2014.07.06.20.06.20;	author stevenh;	state Exp;
+branches;
+next	1.375;
+
+1.375
+date	2014.07.06.20.05.47;	author stevenh;	state Exp;
+branches;
+next	1.374;
+
+1.374
+date	2014.07.06.20.04.46;	author stevenh;	state Exp;
+branches;
+next	1.373;
+
+1.373
+date	2014.07.06.19.55.29;	author stevenh;	state Exp;
+branches;
+next	1.372;
+
+1.372
+date	2014.07.06.19.54.37;	author stevenh;	state Exp;
+branches;
+next	1.371;
+
+1.371
+date	2014.07.06.19.46.00;	author stevenh;	state Exp;
+branches;
+next	1.370;
+
+1.370
+date	2014.07.06.19.42.42;	author stevenh;	state Exp;
+branches;
+next	1.369;
+
+1.369
+date	2014.07.06.19.42.34;	author stevenh;	state Exp;
+branches;
+next	1.368;
+
+1.368
+date	2014.07.06.19.41.47;	author stevenh;	state Exp;
+branches;
+next	1.367;
+
+1.367
+date	2014.07.06.19.41.38;	author stevenh;	state Exp;
+branches;
+next	1.366;
+
+1.366
+date	2014.07.06.19.41.08;	author stevenh;	state Exp;
+branches;
+next	1.365;
+
+1.365
+date	2014.07.06.19.40.58;	author stevenh;	state Exp;
+branches;
+next	1.364;
+
+1.364
+date	2014.07.06.19.40.47;	author stevenh;	state Exp;
+branches;
+next	1.363;
+
+1.363
+date	2014.07.06.19.40.30;	author stevenh;	state Exp;
+branches;
+next	1.362;
+
+1.362
+date	2014.07.06.19.39.50;	author stevenh;	state Exp;
+branches;
+next	1.361;
+
+1.361
+date	2014.07.06.19.38.53;	author stevenh;	state Exp;
+branches;
+next	1.360;
+
+1.360
+date	2014.07.06.19.38.31;	author stevenh;	state Exp;
+branches;
+next	1.359;
+
+1.359
+date	2014.07.06.19.38.16;	author stevenh;	state Exp;
+branches;
+next	1.358;
+
+1.358
+date	2014.07.06.19.37.55;	author stevenh;	state Exp;
+branches;
+next	1.357;
+
+1.357
+date	2014.07.06.19.36.03;	author stevenh;	state Exp;
+branches;
+next	1.356;
+
+1.356
+date	2014.07.06.19.35.09;	author stevenh;	state Exp;
+branches;
+next	1.355;
+
+1.355
+date	2014.07.06.19.34.57;	author stevenh;	state Exp;
+branches;
+next	1.354;
+
+1.354
+date	2014.07.06.19.31.17;	author stevenh;	state Exp;
+branches;
+next	1.353;
+
+1.353
+date	2014.07.06.19.31.07;	author stevenh;	state Exp;
+branches;
+next	1.352;
+
+1.352
+date	2014.07.06.19.28.00;	author stevenh;	state Exp;
+branches;
+next	1.351;
+
+1.351
+date	2014.07.06.19.27.14;	author stevenh;	state Exp;
+branches;
+next	1.350;
+
+1.350
+date	2014.07.06.19.26.24;	author stevenh;	state Exp;
+branches;
+next	1.349;
+
+1.349
+date	2014.07.06.19.26.17;	author stevenh;	state Exp;
+branches;
+next	1.348;
+
+1.348
+date	2014.07.06.19.26.01;	author stevenh;	state Exp;
+branches;
+next	1.347;
+
+1.347
+date	2014.07.06.19.23.51;	author stevenh;	state Exp;
+branches;
+next	1.346;
+
+1.346
+date	2014.07.06.19.23.41;	author stevenh;	state Exp;
+branches;
+next	1.345;
+
+1.345
+date	2014.07.06.19.21.51;	author stevenh;	state Exp;
+branches;
+next	1.344;
+
+1.344
+date	2014.07.06.19.21.19;	author stevenh;	state Exp;
+branches;
+next	1.343;
+
+1.343
+date	2014.07.06.19.21.04;	author stevenh;	state Exp;
+branches;
+next	1.342;
+
+1.342
+date	2014.07.06.19.20.54;	author stevenh;	state Exp;
+branches;
+next	1.341;
+
+1.341
+date	2014.07.06.19.20.22;	author stevenh;	state Exp;
+branches;
+next	1.340;
+
+1.340
+date	2014.07.06.19.20.04;	author stevenh;	state Exp;
+branches;
+next	1.339;
+
+1.339
+date	2014.07.06.19.19.33;	author stevenh;	state Exp;
+branches;
+next	1.338;
+
+1.338
+date	2014.07.06.19.19.13;	author stevenh;	state Exp;
+branches;
+next	1.337;
+
+1.337
+date	2014.07.06.19.18.47;	author stevenh;	state Exp;
+branches;
+next	1.336;
+
+1.336
+date	2014.07.06.19.18.17;	author stevenh;	state Exp;
+branches;
+next	1.335;
+
+1.335
+date	2014.07.06.19.17.43;	author stevenh;	state Exp;
+branches;
+next	1.334;
+
+1.334
+date	2014.07.06.19.17.24;	author stevenh;	state Exp;
+branches;
+next	1.333;
+
+1.333
+date	2014.07.06.19.16.39;	author stevenh;	state Exp;
+branches;
+next	1.332;
+
+1.332
+date	2014.07.06.19.16.23;	author stevenh;	state Exp;
+branches;
+next	1.331;
+
+1.331
+date	2014.07.06.19.13.53;	author stevenh;	state Exp;
+branches;
+next	1.330;
+
+1.330
+date	2014.07.06.18.46.16;	author stevenh;	state Exp;
+branches;
+next	1.329;
+
+1.329
+date	2014.07.06.18.46.04;	author stevenh;	state Exp;
+branches;
+next	1.328;
+
+1.328
+date	2014.07.06.18.32.15;	author stevenh;	state Exp;
+branches;
+next	1.327;
+
+1.327
+date	2014.07.06.18.31.20;	author stevenh;	state Exp;
+branches;
+next	1.326;
+
+1.326
+date	2014.07.06.18.30.46;	author stevenh;	state Exp;
+branches;
+next	1.325;
+
+1.325
+date	2014.07.06.18.29.01;	author stevenh;	state Exp;
+branches;
+next	1.324;
+
+1.324
+date	2014.07.06.18.28.12;	author stevenh;	state Exp;
+branches;
+next	1.323;
+
+1.323
+date	2014.07.06.18.27.44;	author stevenh;	state Exp;
+branches;
+next	1.322;
+
+1.322
+date	2014.07.06.18.27.24;	author stevenh;	state Exp;
+branches;
+next	1.321;
+
+1.321
+date	2014.07.06.18.26.56;	author stevenh;	state Exp;
+branches;
+next	1.320;
+
+1.320
+date	2014.07.06.18.26.46;	author stevenh;	state Exp;
+branches;
+next	1.319;
+
+1.319
+date	2014.07.06.18.26.21;	author stevenh;	state Exp;
+branches;
+next	1.318;
+
+1.318
+date	2014.07.06.18.26.00;	author stevenh;	state Exp;
+branches;
+next	1.317;
+
+1.317
+date	2014.07.06.18.25.50;	author stevenh;	state Exp;
+branches;
+next	1.316;
+
+1.316
+date	2014.07.06.18.24.51;	author stevenh;	state Exp;
+branches;
+next	1.315;
+
+1.315
+date	2014.07.06.18.24.41;	author stevenh;	state Exp;
+branches;
+next	1.314;
+
+1.314
+date	2014.07.06.18.23.57;	author stevenh;	state Exp;
+branches;
+next	1.313;
+
+1.313
+date	2014.07.06.18.23.42;	author stevenh;	state Exp;
+branches;
+next	1.312;
+
+1.312
+date	2014.07.06.18.23.34;	author stevenh;	state Exp;
+branches;
+next	1.311;
+
+1.311
+date	2014.07.06.18.19.22;	author stevenh;	state Exp;
+branches;
+next	1.310;
+
+1.310
+date	2014.07.06.18.19.12;	author stevenh;	state Exp;
+branches;
+next	1.309;
+
+1.309
+date	2014.07.06.18.18.42;	author stevenh;	state Exp;
+branches;
+next	1.308;
+
+1.308
+date	2014.07.06.18.17.35;	author stevenh;	state Exp;
+branches;
+next	1.307;
+
+1.307
+date	2014.07.06.18.17.23;	author stevenh;	state Exp;
+branches;
+next	1.306;
+
+1.306
+date	2014.07.06.18.16.03;	author stevenh;	state Exp;
+branches;
+next	1.305;
+
+1.305
+date	2014.07.06.18.15.03;	author stevenh;	state Exp;
+branches;
+next	1.304;
+
+1.304
+date	2014.07.06.18.14.02;	author stevenh;	state Exp;
+branches;
+next	1.303;
+
+1.303
+date	2014.07.06.18.09.04;	author stevenh;	state Exp;
+branches;
+next	1.302;
+
+1.302
+date	2014.07.06.18.05.51;	author stevenh;	state Exp;
+branches;
+next	1.301;
+
+1.301
+date	2014.07.06.18.03.23;	author stevenh;	state Exp;
+branches;
+next	1.300;
+
+1.300
+date	2014.07.06.18.02.58;	author stevenh;	state Exp;
+branches;
+next	1.299;
+
+1.299
+date	2014.07.06.17.56.48;	author stevenh;	state Exp;
+branches;
+next	1.298;
+
+1.298
+date	2014.07.06.17.55.33;	author stevenh;	state Exp;
+branches;
+next	1.297;
+
+1.297
+date	2014.07.06.17.54.55;	author stevenh;	state Exp;
+branches;
+next	1.296;
+
+1.296
+date	2014.07.06.17.54.41;	author stevenh;	state Exp;
+branches;
+next	1.295;
+
+1.295
+date	2014.07.06.17.53.20;	author stevenh;	state Exp;
+branches;
+next	1.294;
+
+1.294
+date	2014.07.06.17.53.01;	author stevenh;	state Exp;
+branches;
+next	1.293;
+
+1.293
+date	2014.07.06.17.49.01;	author stevenh;	state Exp;
+branches;
+next	1.292;
+
+1.292
+date	2014.07.06.17.43.07;	author stevenh;	state Exp;
+branches;
+next	1.291;
+
+1.291
+date	2014.07.06.17.41.38;	author stevenh;	state Exp;
+branches;
+next	1.290;
+
+1.290
+date	2014.07.06.17.41.13;	author stevenh;	state Exp;
+branches;
+next	1.289;
+
+1.289
+date	2014.07.06.17.40.14;	author stevenh;	state Exp;
+branches;
+next	1.288;
+
+1.288
+date	2014.07.06.17.33.18;	author stevenh;	state Exp;
+branches;
+next	1.287;
+
+1.287
+date	2014.07.06.17.33.02;	author stevenh;	state Exp;
+branches;
+next	1.286;
+
+1.286
+date	2014.07.06.17.30.30;	author stevenh;	state Exp;
+branches;
+next	1.285;
+
+1.285
+date	2014.07.06.17.29.56;	author stevenh;	state Exp;
+branches;
+next	1.284;
+
+1.284
+date	2014.07.06.17.29.41;	author stevenh;	state Exp;
+branches;
+next	1.283;
+
+1.283
+date	2014.07.06.17.27.38;	author stevenh;	state Exp;
+branches;
+next	1.282;
+
+1.282
+date	2014.07.06.01.02.32;	author stevenh;	state Exp;
+branches;
+next	1.281;
+
+1.281
+date	2014.07.06.01.01.15;	author stevenh;	state Exp;
+branches;
+next	1.280;
+
+1.280
+date	2014.07.06.00.55.58;	author stevenh;	state Exp;
+branches;
+next	1.279;
+
+1.279
+date	2014.07.06.00.55.25;	author stevenh;	state Exp;
+branches;
+next	1.278;
+
+1.278
+date	2014.07.06.00.53.30;	author stevenh;	state Exp;
+branches;
+next	1.277;
+
+1.277
+date	2014.07.06.00.52.15;	author stevenh;	state Exp;
+branches;
+next	1.276;
+
+1.276
+date	2014.07.06.00.43.48;	author stevenh;	state Exp;
+branches;
+next	1.275;
+
+1.275
+date	2014.07.06.00.43.36;	author stevenh;	state Exp;
+branches;
+next	1.274;
+
+1.274
+date	2014.07.06.00.42.36;	author stevenh;	state Exp;
+branches;
+next	1.273;
+
+1.273
+date	2014.07.06.00.42.17;	author stevenh;	state Exp;
+branches;
+next	1.272;
+
+1.272
+date	2014.07.06.00.41.10;	author stevenh;	state Exp;
+branches;
+next	1.271;
+
+1.271
+date	2014.07.06.00.40.43;	author stevenh;	state Exp;
+branches;
+next	1.270;
+
+1.270
+date	2014.07.06.00.40.12;	author stevenh;	state Exp;
+branches;
+next	1.269;
+
+1.269
+date	2014.07.06.00.39.34;	author stevenh;	state Exp;
+branches;
+next	1.268;
+
+1.268
+date	2014.07.06.00.39.11;	author stevenh;	state Exp;
+branches;
+next	1.267;
+
+1.267
+date	2014.07.06.00.38.46;	author stevenh;	state Exp;
+branches;
+next	1.266;
+
+1.266
+date	2014.07.06.00.38.25;	author stevenh;	state Exp;
+branches;
+next	1.265;
+
+1.265
+date	2014.07.06.00.35.22;	author stevenh;	state Exp;
+branches;
+next	1.264;
+
+1.264
+date	2014.07.06.00.32.42;	author stevenh;	state Exp;
+branches;
+next	1.263;
+
+1.263
+date	2014.07.06.00.32.22;	author stevenh;	state Exp;
+branches;
+next	1.262;
+
+1.262
+date	2014.07.06.00.30.37;	author stevenh;	state Exp;
+branches;
+next	1.261;
+
+1.261
+date	2014.07.06.00.29.12;	author stevenh;	state Exp;
+branches;
+next	1.260;
+
+1.260
+date	2014.07.06.00.28.30;	author stevenh;	state Exp;
+branches;
+next	1.259;
+
+1.259
+date	2014.07.05.23.25.56;	author stevenh;	state Exp;
+branches;
+next	1.258;
+
+1.258
+date	2014.07.05.23.25.14;	author stevenh;	state Exp;
+branches;
+next	1.257;
+
+1.257
+date	2014.07.05.23.17.24;	author stevenh;	state Exp;
+branches;
+next	1.256;
+
+1.256
+date	2014.07.05.23.16.04;	author stevenh;	state Exp;
+branches;
+next	1.255;
+
+1.255
+date	2014.07.05.23.15.46;	author stevenh;	state Exp;
+branches;
+next	1.254;
+
+1.254
+date	2014.07.05.23.15.10;	author stevenh;	state Exp;
+branches;
+next	1.253;
+
+1.253
+date	2014.07.05.23.15.03;	author stevenh;	state Exp;
+branches;
+next	1.252;
+
+1.252
+date	2014.07.05.23.14.49;	author stevenh;	state Exp;
+branches;
+next	1.251;
+
+1.251
+date	2014.07.05.23.14.34;	author stevenh;	state Exp;
+branches;
+next	1.250;
+
+1.250
+date	2014.07.05.23.14.26;	author stevenh;	state Exp;
+branches;
+next	1.249;
+
+1.249
+date	2014.07.05.23.13.50;	author stevenh;	state Exp;
+branches;
+next	1.248;
+
+1.248
+date	2014.07.05.23.11.25;	author stevenh;	state Exp;
+branches;
+next	1.247;
+
+1.247
+date	2014.07.05.23.10.22;	author stevenh;	state Exp;
+branches;
+next	1.246;
+
+1.246
+date	2014.07.05.23.09.51;	author stevenh;	state Exp;
+branches;
+next	1.245;
+
+1.245
+date	2014.07.05.23.09.33;	author stevenh;	state Exp;
+branches;
+next	1.244;
+
+1.244
+date	2014.07.05.23.08.33;	author stevenh;	state Exp;
+branches;
+next	1.243;
+
+1.243
+date	2014.07.05.23.08.17;	author stevenh;	state Exp;
+branches;
+next	1.242;
+
+1.242
+date	2014.07.05.23.08.05;	author stevenh;	state Exp;
+branches;
+next	1.241;
+
+1.241
+date	2014.07.05.23.05.51;	author stevenh;	state Exp;
+branches;
+next	1.240;
+
+1.240
+date	2014.07.05.23.03.46;	author stevenh;	state Exp;
+branches;
+next	1.239;
+
+1.239
+date	2014.07.05.20.27.45;	author stevenh;	state Exp;
+branches;
+next	1.238;
+
+1.238
+date	2014.07.05.20.27.02;	author stevenh;	state Exp;
+branches;
+next	1.237;
+
+1.237
+date	2014.07.05.20.26.30;	author stevenh;	state Exp;
+branches;
+next	1.236;
+
+1.236
+date	2014.07.05.20.26.06;	author stevenh;	state Exp;
+branches;
+next	1.235;
+
+1.235
+date	2014.07.05.20.24.18;	author stevenh;	state Exp;
+branches;
+next	1.234;
+
+1.234
+date	2014.07.05.20.23.37;	author stevenh;	state Exp;
+branches;
+next	1.233;
+
+1.233
+date	2014.07.05.20.21.57;	author stevenh;	state Exp;
+branches;
+next	1.232;
+
+1.232
+date	2014.07.05.20.21.28;	author stevenh;	state Exp;
+branches;
+next	1.231;
+
+1.231
+date	2014.07.05.20.20.30;	author stevenh;	state Exp;
+branches;
+next	1.230;
+
+1.230
+date	2014.07.05.20.19.30;	author stevenh;	state Exp;
+branches;
+next	1.229;
+
+1.229
+date	2014.07.05.20.18.46;	author stevenh;	state Exp;
+branches;
+next	1.228;
+
+1.228
+date	2014.07.05.20.13.39;	author stevenh;	state Exp;
+branches;
+next	1.227;
+
+1.227
+date	2014.07.05.20.08.23;	author stevenh;	state Exp;
+branches;
+next	1.226;
+
+1.226
+date	2014.07.05.20.06.48;	author stevenh;	state Exp;
+branches;
+next	1.225;
+
+1.225
+date	2014.07.05.20.05.06;	author stevenh;	state Exp;
+branches;
+next	1.224;
+
+1.224
+date	2014.07.05.20.00.13;	author stevenh;	state Exp;
+branches;
+next	1.223;
+
+1.223
+date	2014.07.05.19.06.39;	author stevenh;	state Exp;
+branches;
+next	1.222;
+
+1.222
+date	2014.07.05.19.06.02;	author stevenh;	state Exp;
+branches;
+next	1.221;
+
+1.221
+date	2014.07.05.19.02.46;	author stevenh;	state Exp;
+branches;
+next	1.220;
+
+1.220
+date	2014.07.05.18.53.03;	author stevenh;	state Exp;
+branches;
+next	1.219;
+
+1.219
+date	2014.07.05.18.43.30;	author stevenh;	state Exp;
+branches;
+next	1.218;
+
+1.218
+date	2014.07.05.18.35.23;	author stevenh;	state Exp;
+branches;
+next	1.217;
+
+1.217
+date	2014.07.05.18.34.23;	author stevenh;	state Exp;
+branches;
+next	1.216;
+
+1.216
+date	2014.07.05.18.32.51;	author stevenh;	state Exp;
+branches;
+next	1.215;
+
+1.215
+date	2014.07.05.18.23.31;	author stevenh;	state Exp;
+branches;
+next	1.214;
+
+1.214
+date	2014.07.05.18.19.33;	author stevenh;	state Exp;
+branches;
+next	1.213;
+
+1.213
+date	2014.07.05.18.19.19;	author stevenh;	state Exp;
+branches;
+next	1.212;
+
+1.212
+date	2014.07.05.18.15.29;	author stevenh;	state Exp;
+branches;
+next	1.211;
+
+1.211
+date	2014.07.05.18.11.58;	author stevenh;	state Exp;
+branches;
+next	1.210;
+
+1.210
+date	2014.07.05.18.11.49;	author stevenh;	state Exp;
+branches;
+next	1.209;
+
+1.209
+date	2014.07.05.18.08.34;	author stevenh;	state Exp;
+branches;
+next	1.208;
+
+1.208
+date	2014.07.05.18.06.32;	author stevenh;	state Exp;
+branches;
+next	1.207;
+
+1.207
+date	2014.07.05.18.05.39;	author stevenh;	state Exp;
+branches;
+next	1.206;
+
+1.206
+date	2014.07.05.18.05.02;	author stevenh;	state Exp;
+branches;
+next	1.205;
+
+1.205
+date	2014.07.05.18.03.54;	author stevenh;	state Exp;
+branches;
+next	1.204;
+
+1.204
+date	2014.07.05.18.02.47;	author stevenh;	state Exp;
+branches;
+next	1.203;
+
+1.203
+date	2014.07.05.18.02.36;	author stevenh;	state Exp;
+branches;
+next	1.202;
+
+1.202
+date	2014.07.05.18.01.53;	author stevenh;	state Exp;
+branches;
+next	1.201;
+
+1.201
+date	2014.07.05.18.01.18;	author stevenh;	state Exp;
+branches;
+next	1.200;
+
+1.200
+date	2014.07.05.18.00.13;	author stevenh;	state Exp;
+branches;
+next	1.199;
+
+1.199
+date	2014.07.05.17.59.56;	author stevenh;	state Exp;
+branches;
+next	1.198;
+
+1.198
+date	2014.07.05.17.59.37;	author stevenh;	state Exp;
+branches;
+next	1.197;
+
+1.197
+date	2014.07.05.17.58.22;	author stevenh;	state Exp;
+branches;
+next	1.196;
+
+1.196
+date	2014.07.05.17.57.53;	author stevenh;	state Exp;
+branches;
+next	1.195;
+
+1.195
+date	2014.07.05.17.57.30;	author stevenh;	state Exp;
+branches;
+next	1.194;
+
+1.194
+date	2014.07.05.17.56.28;	author stevenh;	state Exp;
+branches;
+next	1.193;
+
+1.193
+date	2014.07.05.17.55.17;	author stevenh;	state Exp;
+branches;
+next	1.192;
+
+1.192
+date	2014.07.05.17.50.08;	author stevenh;	state Exp;
+branches;
+next	1.191;
+
+1.191
+date	2014.07.05.17.45.52;	author stevenh;	state Exp;
+branches;
+next	1.190;
+
+1.190
+date	2014.07.05.17.41.12;	author stevenh;	state Exp;
+branches;
+next	1.189;
+
+1.189
+date	2014.07.05.17.40.44;	author stevenh;	state Exp;
+branches;
+next	1.188;
+
+1.188
+date	2014.07.05.17.40.21;	author stevenh;	state Exp;
+branches;
+next	1.187;
+
+1.187
+date	2014.07.05.17.38.39;	author stevenh;	state Exp;
+branches;
+next	1.186;
+
+1.186
+date	2014.07.05.17.37.44;	author stevenh;	state Exp;
+branches;
+next	1.185;
+
+1.185
+date	2014.07.05.17.32.52;	author stevenh;	state Exp;
+branches;
+next	1.184;
+
+1.184
+date	2014.07.05.17.31.41;	author stevenh;	state Exp;
+branches;
+next	1.183;
+
+1.183
+date	2014.07.05.17.11.26;	author stevenh;	state Exp;
+branches;
+next	1.182;
+
+1.182
+date	2014.07.05.17.08.05;	author stevenh;	state Exp;
+branches;
+next	1.181;
+
+1.181
+date	2014.07.05.17.07.43;	author stevenh;	state Exp;
+branches;
+next	1.180;
+
+1.180
+date	2014.07.05.17.07.30;	author stevenh;	state Exp;
+branches;
+next	1.179;
+
+1.179
+date	2014.07.05.17.07.20;	author stevenh;	state Exp;
+branches;
+next	1.178;
+
+1.178
+date	2014.07.05.17.06.30;	author stevenh;	state Exp;
+branches;
+next	1.177;
+
+1.177
+date	2014.07.05.17.02.45;	author stevenh;	state Exp;
+branches;
+next	1.176;
+
+1.176
+date	2014.07.05.16.55.40;	author stevenh;	state Exp;
+branches;
+next	1.175;
+
+1.175
+date	2014.07.05.16.53.14;	author stevenh;	state Exp;
+branches;
+next	1.174;
+
+1.174
+date	2014.07.05.16.53.05;	author stevenh;	state Exp;
+branches;
+next	1.173;
+
+1.173
+date	2014.07.05.16.52.45;	author stevenh;	state Exp;
+branches;
+next	1.172;
+
+1.172
+date	2014.07.05.16.47.34;	author stevenh;	state Exp;
+branches;
+next	1.171;
+
+1.171
+date	2014.07.05.16.47.16;	author stevenh;	state Exp;
+branches;
+next	1.170;
+
+1.170
+date	2014.07.05.16.36.23;	author stevenh;	state Exp;
+branches;
+next	1.169;
+
+1.169
+date	2014.07.05.16.35.43;	author stevenh;	state Exp;
+branches;
+next	1.168;
+
+1.168
+date	2014.07.05.16.35.26;	author stevenh;	state Exp;
+branches;
+next	1.167;
+
+1.167
+date	2014.07.05.16.35.14;	author stevenh;	state Exp;
+branches;
+next	1.166;
+
+1.166
+date	2014.07.05.16.34.01;	author stevenh;	state Exp;
+branches;
+next	1.165;
+
+1.165
+date	2014.07.05.16.33.43;	author stevenh;	state Exp;
+branches;
+next	1.164;
+
+1.164
+date	2014.07.05.16.29.25;	author stevenh;	state Exp;
+branches;
+next	1.163;
+
+1.163
+date	2014.07.05.16.29.05;	author stevenh;	state Exp;
+branches;
+next	1.162;
+
+1.162
+date	2014.07.05.16.28.51;	author stevenh;	state Exp;
+branches;
+next	1.161;
+
+1.161
+date	2014.07.05.16.27.54;	author stevenh;	state Exp;
+branches;
+next	1.160;
+
+1.160
+date	2014.07.05.16.25.39;	author stevenh;	state Exp;
+branches;
+next	1.159;
+
+1.159
+date	2014.07.05.16.22.58;	author stevenh;	state Exp;
+branches;
+next	1.158;
+
+1.158
+date	2014.07.05.16.13.51;	author stevenh;	state Exp;
+branches;
+next	1.157;
+
+1.157
+date	2014.07.05.16.10.40;	author stevenh;	state Exp;
+branches;
+next	1.156;
+
+1.156
+date	2014.07.05.16.04.20;	author stevenh;	state Exp;
+branches;
+next	1.155;
+
+1.155
+date	2014.07.05.15.58.23;	author stevenh;	state Exp;
+branches;
+next	1.154;
+
+1.154
+date	2014.07.05.15.57.14;	author stevenh;	state Exp;
+branches;
+next	1.153;
+
+1.153
+date	2014.07.05.15.54.42;	author stevenh;	state Exp;
+branches;
+next	1.152;
+
+1.152
+date	2014.07.05.15.51.28;	author stevenh;	state Exp;
+branches;
+next	1.151;
+
+1.151
+date	2014.07.05.15.49.10;	author stevenh;	state Exp;
+branches;
+next	1.150;
+
+1.150
+date	2014.07.05.15.40.36;	author stevenh;	state Exp;
+branches;
+next	1.149;
+
+1.149
+date	2014.07.05.15.39.41;	author stevenh;	state Exp;
+branches;
+next	1.148;
+
+1.148
+date	2014.07.05.15.30.20;	author stevenh;	state Exp;
+branches;
+next	1.147;
+
+1.147
+date	2014.07.05.15.22.59;	author stevenh;	state Exp;
+branches;
+next	1.146;
+
+1.146
+date	2014.07.05.15.22.43;	author stevenh;	state Exp;
+branches;
+next	1.145;
+
+1.145
+date	2014.07.05.15.21.51;	author stevenh;	state Exp;
+branches;
+next	1.144;
+
+1.144
+date	2014.07.05.15.21.07;	author stevenh;	state Exp;
+branches;
+next	1.143;
+
+1.143
+date	2014.07.05.15.20.52;	author stevenh;	state Exp;
+branches;
+next	1.142;
+
+1.142
+date	2014.07.05.15.20.38;	author stevenh;	state Exp;
+branches;
+next	1.141;
+
+1.141
+date	2014.07.05.15.19.05;	author stevenh;	state Exp;
+branches;
+next	1.140;
+
+1.140
+date	2014.07.05.15.18.49;	author stevenh;	state Exp;
+branches;
+next	1.139;
+
+1.139
+date	2014.07.05.15.18.14;	author stevenh;	state Exp;
+branches;
+next	1.138;
+
+1.138
+date	2014.07.05.15.17.55;	author stevenh;	state Exp;
+branches;
+next	1.137;
+
+1.137
+date	2014.07.05.14.13.53;	author stevenh;	state Exp;
+branches;
+next	1.136;
+
+1.136
+date	2014.07.05.14.13.03;	author stevenh;	state Exp;
+branches;
+next	1.135;
+
+1.135
+date	2014.07.05.14.12.20;	author stevenh;	state Exp;
+branches;
+next	1.134;
+
+1.134
+date	2014.07.05.14.11.31;	author stevenh;	state Exp;
+branches;
+next	1.133;
+
+1.133
+date	2014.07.05.14.10.51;	author stevenh;	state Exp;
+branches;
+next	1.132;
+
+1.132
+date	2014.07.05.14.10.32;	author stevenh;	state Exp;
+branches;
+next	1.131;
+
+1.131
+date	2014.07.05.14.10.04;	author stevenh;	state Exp;
+branches;
+next	1.130;
+
+1.130
+date	2014.07.05.14.09.37;	author stevenh;	state Exp;
+branches;
+next	1.129;
+
+1.129
+date	2014.07.05.14.08.39;	author stevenh;	state Exp;
+branches;
+next	1.128;
+
+1.128
+date	2014.07.05.14.08.26;	author stevenh;	state Exp;
+branches;
+next	1.127;
+
+1.127
+date	2014.07.05.14.07.48;	author stevenh;	state Exp;
+branches;
+next	1.126;
+
+1.126
+date	2014.07.05.14.07.22;	author stevenh;	state Exp;
+branches;
+next	1.125;
+
+1.125
+date	2014.07.05.14.06.22;	author stevenh;	state Exp;
+branches;
+next	1.124;
+
+1.124
+date	2014.07.05.14.05.50;	author stevenh;	state Exp;
+branches;
+next	1.123;
+
+1.123
+date	2014.07.05.14.05.32;	author stevenh;	state Exp;
+branches;
+next	1.122;
+
+1.122
+date	2014.07.05.14.01.39;	author stevenh;	state Exp;
+branches;
+next	1.121;
+
+1.121
+date	2014.07.05.13.59.20;	author stevenh;	state Exp;
+branches;
+next	1.120;
+
+1.120
+date	2014.07.05.13.58.29;	author stevenh;	state Exp;
+branches;
+next	1.119;
+
+1.119
+date	2014.07.05.13.57.07;	author stevenh;	state Exp;
+branches;
+next	1.118;
+
+1.118
+date	2014.07.05.13.53.39;	author stevenh;	state Exp;
+branches;
+next	1.117;
+
+1.117
+date	2014.07.05.13.50.35;	author stevenh;	state Exp;
+branches;
+next	1.116;
+
+1.116
+date	2014.07.05.13.46.23;	author stevenh;	state Exp;
+branches;
+next	1.115;
+
+1.115
+date	2014.07.04.21.44.07;	author stevenh;	state Exp;
+branches;
+next	1.114;
+
+1.114
+date	2014.07.04.02.47.45;	author stevenh;	state Exp;
+branches;
+next	1.113;
+
+1.113
+date	2014.07.03.05.00.22;	author stevenh;	state Exp;
+branches;
+next	1.112;
+
+1.112
+date	2014.07.03.04.58.03;	author stevenh;	state Exp;
+branches;
+next	1.111;
+
+1.111
+date	2014.07.03.01.53.08;	author stevenh;	state Exp;
+branches;
+next	1.110;
+
+1.110
+date	2014.07.03.01.52.47;	author stevenh;	state Exp;
+branches;
+next	1.109;
+
+1.109
+date	2014.07.03.01.25.06;	author stevenh;	state Exp;
+branches;
+next	1.108;
+
+1.108
+date	2014.07.03.01.25.00;	author stevenh;	state Exp;
+branches;
+next	1.107;
+
+1.107
+date	2014.07.03.01.24.45;	author stevenh;	state Exp;
+branches;
+next	1.106;
+
+1.106
+date	2014.07.03.01.15.58;	author stevenh;	state Exp;
+branches;
+next	1.105;
+
+1.105
+date	2014.07.03.00.54.45;	author stevenh;	state Exp;
+branches;
+next	1.104;
+
+1.104
+date	2014.07.03.00.45.11;	author stevenh;	state Exp;
+branches;
+next	1.103;
+
+1.103
+date	2014.07.02.21.17.25;	author stevenh;	state Exp;
+branches;
+next	1.102;
+
+1.102
+date	2014.07.02.21.16.39;	author stevenh;	state Exp;
+branches;
+next	1.101;
+
+1.101
+date	2014.07.02.21.13.18;	author stevenh;	state Exp;
+branches;
+next	1.100;
+
+1.100
+date	2014.07.02.21.10.40;	author stevenh;	state Exp;
+branches;
+next	1.99;
+
+1.99
+date	2014.07.02.21.10.12;	author stevenh;	state Exp;
+branches;
+next	1.98;
+
+1.98
+date	2014.07.02.21.06.48;	author stevenh;	state Exp;
+branches;
+next	1.97;
+
+1.97
+date	2014.07.02.21.04.03;	author stevenh;	state Exp;
+branches;
+next	1.96;
+
+1.96
+date	2014.07.02.21.03.38;	author stevenh;	state Exp;
+branches;
+next	1.95;
+
+1.95
+date	2014.07.02.21.03.12;	author stevenh;	state Exp;
+branches;
+next	1.94;
+
+1.94
+date	2014.07.02.21.02.44;	author stevenh;	state Exp;
+branches;
+next	1.93;
+
+1.93
+date	2014.07.02.21.00.57;	author stevenh;	state Exp;
+branches;
+next	1.92;
+
+1.92
+date	2014.07.02.20.54.47;	author stevenh;	state Exp;
+branches;
+next	1.91;
+
+1.91
+date	2014.07.02.20.54.24;	author stevenh;	state Exp;
+branches;
+next	1.90;
+
+1.90
+date	2014.07.02.20.52.16;	author stevenh;	state Exp;
+branches;
+next	1.89;
+
+1.89
+date	2014.07.02.20.51.47;	author stevenh;	state Exp;
+branches;
+next	1.88;
+
+1.88
+date	2014.07.02.20.48.43;	author stevenh;	state Exp;
+branches;
+next	1.87;
+
+1.87
+date	2014.07.02.20.41.23;	author stevenh;	state Exp;
+branches;
+next	1.86;
+
+1.86
+date	2014.07.02.20.31.28;	author stevenh;	state Exp;
+branches;
+next	1.85;
+
+1.85
+date	2014.07.02.20.19.02;	author stevenh;	state Exp;
+branches;
+next	1.84;
+
+1.84
+date	2014.07.02.20.13.57;	author stevenh;	state Exp;
+branches;
+next	1.83;
+
+1.83
+date	2014.07.02.20.11.33;	author stevenh;	state Exp;
+branches;
+next	1.82;
+
+1.82
+date	2014.07.02.14.44.45;	author stevenh;	state Exp;
+branches;
+next	1.81;
+
+1.81
+date	2014.07.01.15.28.42;	author stevenh;	state Exp;
+branches;
+next	1.80;
+
+1.80
+date	2014.07.01.15.28.37;	author stevenh;	state Exp;
+branches;
+next	1.79;
+
+1.79
+date	2014.07.01.15.28.23;	author stevenh;	state Exp;
+branches;
+next	1.78;
+
+1.78
+date	2014.07.01.15.27.43;	author stevenh;	state Exp;
+branches;
+next	1.77;
+
+1.77
+date	2014.07.01.15.27.33;	author stevenh;	state Exp;
+branches;
+next	1.76;
+
+1.76
+date	2014.07.01.15.25.09;	author stevenh;	state Exp;
+branches;
+next	1.75;
+
+1.75
+date	2014.07.01.15.21.26;	author stevenh;	state Exp;
+branches;
+next	1.74;
+
+1.74
+date	2014.07.01.15.17.48;	author stevenh;	state Exp;
+branches;
+next	1.73;
+
+1.73
+date	2014.07.01.15.17.41;	author stevenh;	state Exp;
+branches;
+next	1.72;
+
+1.72
+date	2014.07.01.15.17.37;	author stevenh;	state Exp;
+branches;
+next	1.71;
+
+1.71
+date	2014.07.01.15.17.31;	author stevenh;	state Exp;
+branches;
+next	1.70;
+
+1.70
+date	2014.07.01.15.17.25;	author stevenh;	state Exp;
+branches;
+next	1.69;
+
+1.69
+date	2014.07.01.15.17.07;	author stevenh;	state Exp;
+branches;
+next	1.68;
+
+1.68
+date	2014.07.01.15.16.58;	author stevenh;	state Exp;
+branches;
+next	1.67;
+
+1.67
+date	2014.07.01.15.16.20;	author stevenh;	state Exp;
+branches;
+next	1.66;
+
+1.66
+date	2014.07.01.15.15.58;	author stevenh;	state Exp;
+branches;
+next	1.65;
+
+1.65
+date	2014.07.01.15.15.06;	author stevenh;	state Exp;
+branches;
+next	1.64;
+
+1.64
+date	2014.07.01.15.12.59;	author stevenh;	state Exp;
+branches;
+next	1.63;
+
+1.63
+date	2014.07.01.15.05.50;	author stevenh;	state Exp;
+branches;
+next	1.62;
+
+1.62
+date	2014.07.01.15.04.17;	author stevenh;	state Exp;
+branches;
+next	1.61;
+
+1.61
+date	2014.07.01.15.04.07;	author stevenh;	state Exp;
+branches;
+next	1.60;
+
+1.60
+date	2014.07.01.15.03.53;	author stevenh;	state Exp;
+branches;
+next	1.59;
+
+1.59
+date	2014.07.01.15.01.54;	author stevenh;	state Exp;
+branches;
+next	1.58;
+
+1.58
+date	2014.06.30.21.28.12;	author stevenh;	state Exp;
+branches;
+next	1.57;
+
+1.57
+date	2014.06.30.20.41.58;	author stevenh;	state Exp;
+branches;
+next	1.56;
+
+1.56
+date	2014.06.30.19.39.45;	author stevenh;	state Exp;
+branches;
+next	1.55;
+
+1.55
+date	2014.06.30.19.39.33;	author stevenh;	state Exp;
+branches;
+next	1.54;
+
+1.54
+date	2014.06.30.19.36.50;	author stevenh;	state Exp;
+branches;
+next	1.53;
+
+1.53
+date	2014.06.30.19.34.30;	author stevenh;	state Exp;
+branches;
+next	1.52;
+
+1.52
+date	2014.06.30.19.34.13;	author stevenh;	state Exp;
+branches;
+next	1.51;
+
+1.51
+date	2014.06.30.19.26.31;	author stevenh;	state Exp;
+branches;
+next	1.50;
+
+1.50
+date	2014.06.30.19.24.53;	author stevenh;	state Exp;
+branches;
+next	1.49;
+
+1.49
+date	2014.06.30.19.24.45;	author stevenh;	state Exp;
+branches;
+next	1.48;
+
+1.48
+date	2014.06.30.19.24.05;	author stevenh;	state Exp;
+branches;
+next	1.47;
+
+1.47
+date	2014.06.30.19.23.54;	author stevenh;	state Exp;
+branches;
+next	1.46;
+
+1.46
+date	2014.06.30.19.22.36;	author stevenh;	state Exp;
+branches;
+next	1.45;
+
+1.45
+date	2014.06.30.19.21.09;	author stevenh;	state Exp;
+branches;
+next	1.44;
+
+1.44
+date	2014.06.30.19.21.02;	author stevenh;	state Exp;
+branches;
+next	1.43;
+
+1.43
+date	2014.06.30.19.20.45;	author stevenh;	state Exp;
+branches;
+next	1.42;
+
+1.42
+date	2014.06.30.19.20.24;	author stevenh;	state Exp;
+branches;
+next	1.41;
+
+1.41
+date	2014.06.30.19.20.12;	author stevenh;	state Exp;
+branches;
+next	1.40;
+
+1.40
+date	2014.06.30.19.19.25;	author stevenh;	state Exp;
+branches;
+next	1.39;
+
+1.39
+date	2014.06.30.19.19.08;	author stevenh;	state Exp;
+branches;
+next	1.38;
+
+1.38
+date	2014.06.30.19.18.49;	author stevenh;	state Exp;
+branches;
+next	1.37;
+
+1.37
+date	2014.06.30.19.11.12;	author stevenh;	state Exp;
+branches;
+next	1.36;
+
+1.36
+date	2014.06.30.19.10.34;	author stevenh;	state Exp;
+branches;
+next	1.35;
+
+1.35
+date	2014.06.30.19.10.20;	author stevenh;	state Exp;
+branches;
+next	1.34;
+
+1.34
+date	2014.06.30.19.07.44;	author stevenh;	state Exp;
+branches;
+next	1.33;
+
+1.33
+date	2014.06.30.19.07.23;	author stevenh;	state Exp;
+branches;
+next	1.32;
+
+1.32
+date	2014.06.30.19.06.53;	author stevenh;	state Exp;
+branches;
+next	1.31;
+
+1.31
+date	2014.06.30.19.06.47;	author stevenh;	state Exp;
+branches;
+next	1.30;
+
+1.30
+date	2014.06.30.19.05.34;	author stevenh;	state Exp;
+branches;
+next	1.29;
+
+1.29
+date	2014.06.30.19.05.21;	author stevenh;	state Exp;
+branches;
+next	1.28;
+
+1.28
+date	2014.06.30.19.05.05;	author stevenh;	state Exp;
+branches;
+next	1.27;
+
+1.27
+date	2014.06.30.19.04.47;	author stevenh;	state Exp;
+branches;
+next	1.26;
+
+1.26
+date	2014.06.30.19.04.41;	author stevenh;	state Exp;
+branches;
+next	1.25;
+
+1.25
+date	2014.06.30.19.04.14;	author stevenh;	state Exp;
+branches;
+next	1.24;
+
+1.24
+date	2014.06.30.19.03.50;	author stevenh;	state Exp;
+branches;
+next	1.23;
+
+1.23
+date	2014.06.30.19.03.18;	author stevenh;	state Exp;
+branches;
+next	1.22;
+
+1.22
+date	2014.06.30.19.03.02;	author stevenh;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	2014.06.30.19.02.47;	author stevenh;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2014.06.30.19.02.04;	author stevenh;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2014.06.30.19.01.47;	author stevenh;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2014.06.30.19.01.26;	author stevenh;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2014.06.30.19.01.04;	author stevenh;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2014.06.30.19.00.51;	author stevenh;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2014.06.30.19.00.44;	author stevenh;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2014.06.30.19.00.33;	author stevenh;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2014.06.30.18.58.50;	author stevenh;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2014.06.30.18.53.22;	author stevenh;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2014.06.30.18.48.16;	author stevenh;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2014.06.30.18.46.17;	author stevenh;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2014.06.30.18.46.12;	author stevenh;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2014.06.30.18.46.00;	author stevenh;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2014.06.30.18.45.53;	author stevenh;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2014.06.30.18.43.46;	author stevenh;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2014.06.30.18.43.12;	author stevenh;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2014.06.30.18.42.59;	author stevenh;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2014.06.30.18.40.50;	author stevenh;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2014.06.30.18.40.18;	author stevenh;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.06.30.18.39.16;	author stevenh;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.587
+log
+@*** empty log message ***
+@
+text
+@import java.util.Arrays;
+import java.util.Random;
+
+///////////////////////////////////////////////////////////
+// Name: Steven Hollingsworth
+// Date: 2014-07-02
+// Description:
+//    Class made to setup the 2048 Game Board and corresponding 
+//    Tiles and methods associated with it
+///////////////////////////////////////////////////////////
+
+public class Board2048  {
+   /* These do not change */
+   static private final int percDist = 50; //percentage of twos to "randomly" generate
+   static boolean DEBUG = false; //in case of testing
+
+   /* new instance variable types */
+   private int boardSize; //e.g 4=4x4 , 5=5x5
+   private int [] board ; //array holding playing board
+   private int[][] rows ; //row list and order
+   private int[][] cols ; //column list and order
+   private int score = 0; //score
+
+
+   /**
+   Main Class, nothing special here
+   @@param args Command line arguments
+   */
+
+
+
+   public static void main(String[] args) {
+      Board2048 b = new Board2048(4);
+      /*
+       Sample Boards
+       */
+      b.board = 
+       new int[] {
+          2, 4, 16, 32
+         ,4, 16, 32,2 
+         ,16, 32, 2,4 
+         ,32, 2, 4, 4
+      } ;
+
+      //b.printBoard();
+      b.moveTiles("DOWN");
+      //System.out.print("Score:" + b.score + "\n");
+      //System.out.println( "all moves:" + b.getAllMoves() );
+      //b.printBoard();
+      /*
+      */
+   }
+
+   /* Constructors  */
+   public Board2048() { //new object DEFAULT
+      boardSize = 4;
+      score = 0;
+      init_board();
+   }
+
+   public Board2048( int bs) { //new object create with boardsize passed as arg
+      boardSize = bs;
+      init_board();
+   }
+
+   public int getScore() {
+      return score;
+   }
+
+   private static enum Direction {
+      UP("cols","reverse","UP (cols)")
+      ,DOWN("cols","forward","DOWN (cols)")
+      ,LEFT("rows","reverse","LEFT (rows)")
+      ,RIGHT("rows","forward","RIGHT (rows)")
+      ;
+
+      String direction;
+      String description;
+      String arr;
+      private Direction (String arr ,String direction, String description) {
+         this.arr = arr;
+         this.direction = direction;
+         this.description = description;
+      }
+   }   
+
+   public boolean moveTiles (String this_dir) {
+      if(DEBUG) System.out.println("-----------------------------------");
+      if(DEBUG) System.out.println(Direction.valueOf(this_dir).description + "/" + Direction.valueOf(this_dir).direction);
+      if (getPossibleMoves(this_dir) > 0) { //If we can move in that direction go for it
+         setMove(this_dir);
+         if(DEBUG) printBoard();
+         if(spawnTile()) { if(DEBUG) System.out.println("Tile Spawned"); }
+         return true;
+      } else {
+         return false;
+      }
+   }
+
+   /* This is a reference shim for the Direction Enum above */
+   private int[][] getSortArray (String arr_name) {
+      if (arr_name == "rows") {
+            return rows;
+      } else {
+            return cols;
+      }
+   }
+
+
+
+   /* Actually Set the Board */
+   private void setMove(String direction) {
+      board = shiftTiles(getSortArray(Direction.valueOf(direction).arr),Direction.valueOf(direction).direction); //first shift to line up
+      board = combineTiles(getSortArray(Direction.valueOf(direction).arr),true); //then combine similar tiles (2,2,2,2) will turn into 0,0,4,4 NOT 0,0,0,8
+      board = shiftTiles(getSortArray(Direction.valueOf(direction).arr),Direction.valueOf(direction).direction); //then shift tiles again for final rest
+   }
+
+   public int[] getBoard() {
+      return this.board;
+   }
+
+   public int getAllMoves () {
+      int all_moves = 0;
+      all_moves += getPossibleMoves("UP");
+      all_moves += getPossibleMoves("LEFT");
+      return all_moves;
+   }
+
+
+   /* Get Possible Moves/tile combines in that direction (if zero, we're not moving) */
+   private int getPossibleMoves(String direction) {
+      int bdiff = 0; //differences
+      int [] arr1; //array 1 (original board)
+      int [] arr2; //array 2 (combine board)
+      int [] arr3; //array 3 (shifted board)
+
+      arr1 = Arrays.copyOf(board, board.length);
+      arr2 = combineTiles(getSortArray(Direction.valueOf(direction).arr),false);
+      arr3 = shiftTiles(getSortArray(Direction.valueOf(direction).arr),Direction.valueOf(direction).direction);
+
+      for (int i = 0; i < arr1.length; i++) {
+         if( arr1[i] != arr2[i]) { bdiff++; }
+      }
+
+      for (int i = 0; i < arr1.length; i++) {
+         if( arr1[i] != arr3[i]) { bdiff++; }
+      }
+      if(DEBUG) System.out.println("tile_diff:" + bdiff);
+      return bdiff;
+   }
+
+   /** Print Board for debugging */
+   private void printBoard() {
+      for(int x = 0; x < board.length; x++) {
+         int mod = (x % boardSize) ;
+         String s = "\t";
+         s +=  "sq{" + x + "}";
+         s +=  "val{" + board[x] + "}";
+         if(mod == (boardSize - 1)) { s += "\n"; }
+         System.out.print(s); //don't if debug this statement i call it explicitly
+      }
+      System.out.println("--------------------------------------------");
+   }
+
+   /* Pass an array and direction, return the shifted tile layout */
+   private int [] shiftTiles (int [][] arr, String direction) {
+      int [] board_copy = Arrays.copyOf(board, board.length); //copy the current board into the temporary board
+      int [] new_board = new int [board.length];
+
+      String debug_string = "";
+
+      for (int i = 0; i < arr.length; i++) { 
+         debug_string = " i:" + i;
+         if(DEBUG) System.out.println(debug_string);
+
+         int [] tmparr = new int [arr.length];
+         int tmparr_e = 0;
+
+         //Do the shifting ... direction doesn't matter at this point
+         int skip_place = 0;
+         for (int z = 0 ; z < arr[i].length; z++) {  
+            int val = board_copy[arr[i][z]];
+            if(val == 0) { skip_place++; continue; }
+            tmparr[tmparr_e] = val;
+            tmparr_e++;
+         }
+
+         if(DEBUG) System.out.println("skip_place:" + skip_place);
+
+         int s_place = 0;
+         int place = 0;
+         for (int z = skip_place; z < tmparr.length && s_place < tmparr.length + skip_place; z++) {
+            place = z - skip_place;
+            s_place = z;
+            int val = tmparr[place];
+            if(direction == "forward") {
+               new_board[arr[i][s_place]] = val;
+            } else {
+               new_board[arr[i][place]] = val;
+            }
+            if(DEBUG) System.out.print(" place:" + place);
+            if(DEBUG) System.out.print(" s_place:" + s_place);
+            if(DEBUG) System.out.print(" val:" + val);
+            if(DEBUG) System.out.println("");
+         }
+      }
+      if(DEBUG) System.out.println("returning:"  + " " + Arrays.toString(new_board));
+      return new_board;
+   }
+
+   private int [] combineTiles (int [][] arr, boolean keep_score ) //WE don't really need direction here
+   {
+      int [] board_copy = Arrays.copyOf(board, board.length);
+      for (int i = 0; i < arr.length; i++)
+      {
+         for (int z = arr[i].length - 1; z >= 0; z--) 
+         {
+            int current = z;
+            int next ;
+            if((z + 1) == arr[i].length) { continue; } //avoid array out of bounds
+
+            next = z + 1;
+            int a1 = arr[i][current];
+            int a2 = arr[i][next];
+            int v1 = board_copy[a1];
+            int v2 = board_copy[a2];
+            if(v1 == v2) {
+               if(v1 == 0) continue;
+               int newval ;
+               //newval = v1 * 2;
+               newval = v1 + 1;
+               if(keep_score) score += Math.pow(2,newval);
+               board_copy[a2] = newval;
+               board_copy[a1] = 0;
+               z--;
+            }
+         }  
+      }
+      return board_copy;
+   }
+
+   private int getTile() {
+      int rnum = new Random().nextInt(100);
+      if(rnum <= percDist) {
+         return 1;
+      } else {
+         return 2;
+      }
+   }
+
+   private boolean spawnTile () {
+      if(getFree() >= 1) {
+         int tile = getTile();
+         while(true) {
+            int rnum = new Random().nextInt(board.length);
+            if(board[rnum] == 0 ) {
+               board[rnum] = tile;
+               return true;
+            }
+         }
+      } 
+      return false; //if we get here we didn't find a free tile
+   }
+
+
+   /**
+   Get Number of Free/null/0 Board spaces
+   @@return number of free tiles in board object
+   */
+   public int getFree() { //Get Blank / Free Tiles
+      int free = 0;
+      for (int i = 0; i < board.length; i++) { if(board[i] == 0 ) { free ++; } }
+      return free;
+   }
+
+   private int [] getGroup (int row,String type) {
+      int [] arr = new int [this.boardSize];
+      int el = 0; //element number
+      int rnum = -1;
+      for(int x = 0; x < board.length; x++) {
+         int mod = (x % boardSize) ;
+         if(mod == 0) { rnum++; }
+         if(type == "row") {
+            if(rnum == row) { arr[el++] = x; }
+         } else {
+            if(mod == row) { arr[el++] = x; }
+         }
+      }
+      return arr;
+   }
+
+   /* Initialize board  */
+   private void init_board() {
+      rows = new int[boardSize][boardSize];
+      cols = new int[boardSize][boardSize];
+      int blen = boardSize * boardSize;
+      board = new int [blen]; //active board .. will initialize with zero values
+      for(int v = 0; v < boardSize; v++) {
+         rows[v] = getGroup(v,"row");
+         cols[v] = getGroup(v,"col");
+      }
+      //spawn two tiles
+      spawnTile();
+      spawnTile();
+   }
+}
+@
+
+
+1.586
+log
+@*** empty log message ***
+@
+text
+@d14 2
+a15 2
+   static final int percDist = 50; //percentage of twos to "randomly" generate
+   static boolean DEBUG = true; //in case of testing
+d24 1
+a99 1
+
+a290 1
+
+@
+
+
+1.585
+log
+@*** empty log message ***
+@
+text
+@d14 2
+a15 2
+   static final int percOfTwo = 50; //percentage of twos to "randomly" generate
+   static boolean DEBUG = false; //in case of testing
+d30 1
+d46 1
+a46 1
+      System.out.print("Score:" + b.score + "\n");
+d228 5
+a232 2
+               int newval = v1 * 2;
+               if(keep_score) score += newval;
+d244 3
+a246 1
+      if(rnum <= percOfTwo) {
+a247 2
+      } else {
+         return 4;
+@
+
+
+1.584
+log
+@*** empty log message ***
+@
+text
+@d15 1
+a15 1
+   static boolean DEBUG = true; //in case of testing
+a51 1
+
+d62 4
+@
+
+
+1.583
+log
+@*** empty log message ***
+@
+text
+@d22 1
+a22 1
+   int score = 0; //score
+@
+
+
+1.582
+log
+@*** empty log message ***
+@
+text
+@d22 1
+a22 1
+   private int score = 0; //score
+d45 1
+a108 7
+      int tmp_score1 = 0;
+      int tmp_score2 = 0;
+
+      //get total tile score as of now
+      for (int i = 0; i < board.length; i++) { tmp_score1 += board[i]; } 
+      if(DEBUG) System.out.println("tmp_score1:" + tmp_score1);
+
+d110 1
+a110 1
+      board = combineTiles(getSortArray(Direction.valueOf(direction).arr)); //then combine similar tiles (2,2,2,2) will turn into 0,0,4,4 NOT 0,0,0,8
+a111 4
+
+      //after combine/shift, get the board score
+      for (int i = 0; i < board.length; i++) { tmp_score2 += board[i]; } 
+      if(DEBUG) System.out.println("tmp_score2:" + tmp_score2);
+d134 1
+a134 1
+      arr2 = combineTiles(getSortArray(Direction.valueOf(direction).arr));
+d207 1
+a207 1
+   private int [] combineTiles (int [][] arr ) //WE don't really need direction here
+d225 1
+@
+
+
+1.581
+log
+@*** empty log message ***
+@
+text
+@a107 1
+      int[] current_board ;
+a109 1
+      current_board = Arrays.copyOf(board, board.length);
+d112 1
+a112 1
+      for (int i = 0; i < current_board.length; i++) { tmp_score1 += current_board[i]; } 
+a114 1
+
+a121 1
+
+@
+
+
+1.580
+log
+@*** empty log message ***
+@
+text
+@d115 2
+a117 1
+      if(DEBUG) System.out.println("tmp_score1:" + tmp_score1);
+d119 2
+d122 1
+a122 1
+      board = combineTiles(getSortArray(Direction.valueOf(direction).arr)); //then combine similar tiles (2,2,2,2) will turn into 0,0,4,4 NOT 0,0,0,8
+a124 1
+      //after combine, get the board score
+a125 1
+      board = shiftTiles(getSortArray(Direction.valueOf(direction).arr),Direction.valueOf(direction).direction); //then shift tiles again for final rest
+@
+
+
+1.579
+log
+@*** empty log message ***
+@
+text
+@d43 1
+a43 1
+      b.printBoard();
+d45 2
+a46 2
+      System.out.println( "all moves:" + b.getAllMoves() );
+      b.printBoard();
+@
+
+
+1.578
+log
+@*** empty log message ***
+@
+text
+@d15 1
+a15 1
+   static boolean DEBUG = false; //in case of testing
+@
+
+
+1.577
+log
+@*** empty log message ***
+@
+text
+@d108 9
+d118 1
+d120 4
+@
+
+
+1.576
+log
+@*** empty log message ***
+@
+text
+@d40 1
+a40 1
+         ,32, 2, 4, 8
+@
+
+
+1.575
+log
+@*** empty log message ***
+@
+text
+@d39 1
+a39 1
+         ,16, 32, 2,8 
+@
+
+
+1.574
+log
+@*** empty log message ***
+@
+text
+@d39 2
+a40 2
+         ,16, 32, 2,4 
+         ,32, 2, 4, 4
+@
+
+
+1.573
+log
+@*** empty log message ***
+@
+text
+@d40 1
+a40 1
+         ,32, 2, 4, 8
+@
+
+
+1.572
+log
+@*** empty log message ***
+@
+text
+@d45 1
+@
+
+
+1.571
+log
+@*** empty log message ***
+@
+text
+@d18 5
+a22 5
+   int boardSize; //e.g 4=4x4 , 5=5x5
+   int [] board ; //array holding playing board
+   int[][] rows ; //row list and order
+   int[][] cols ; //column list and order
+   int score;
+d37 4
+a40 4
+          2, 0, 0, 0
+         ,0, 0, 0, 0
+         ,0, 0, 0, 0
+         ,2, 0, 0, 0
+d54 1
+d114 7
+@
+
+
+1.570
+log
+@*** empty log message ***
+@
+text
+@d106 3
+a108 3
+      //board = shiftTiles(getSortArray(Direction.valueOf(direction).arr),Direction.valueOf(direction).direction);
+      board = combineTiles(getSortArray(Direction.valueOf(direction).arr));
+      board = shiftTiles(getSortArray(Direction.valueOf(direction).arr),Direction.valueOf(direction).direction);
+@
+
+
+1.569
+log
+@*** empty log message ***
+@
+text
+@d106 1
+a106 1
+      board = shiftTiles(getSortArray(Direction.valueOf(direction).arr),Direction.valueOf(direction).direction);
+@
+
+
+1.568
+log
+@*** empty log message ***
+@
+text
+@a146 1
+         System.out.println("--------------------------------------------");
+d148 1
+@
+
+
+1.567
+log
+@*** empty log message ***
+@
+text
+@d147 1
+@
+
+
+1.566
+log
+@*** empty log message ***
+@
+text
+@d45 1
+@
+
+
+1.565
+log
+@*** empty log message ***
+@
+text
+@d34 1
+d37 4
+a40 4
+          4, 0, 2, 0
+         ,16, 0, 4,2 
+         ,8, 2, 0, 0
+         ,2, 4, 0, 4
+a41 1
+       */
+d44 1
+a44 1
+      b.moveTiles("RIGHT");
+d105 1
+@
+
+
+1.564
+log
+@*** empty log message ***
+@
+text
+@d282 1
+@
+
+
+1.563
+log
+@*** empty log message ***
+@
+text
+@a48 12
+   public boolean moveTiles (String this_dir) {
+      if(DEBUG) System.out.println("-----------------------------------");
+      if(DEBUG) System.out.println(Direction.valueOf(this_dir).description + "/" + Direction.valueOf(this_dir).direction);
+      if (getPossibleMoves(this_dir) > 0) { //If we can move in that direction go for it
+         setMove(this_dir);
+         if(DEBUG) printBoard();
+         if(spawnTile()) { if(DEBUG) System.out.println("Tile Spawned"); }
+         return true;
+      } else {
+         return false;
+      }
+   }
+d78 13
+d282 2
+a283 7
+      
+
+      if (DEBUG == true) {
+         for (int i = 0; i < board.length; i++) {
+            board[i] = 2;
+         }
+      }
+@
+
+
+1.562
+log
+@*** empty log message ***
+@
+text
+@a31 8
+      b.board = 
+       new int[] {
+          4, 32, 2, 4
+         ,16, 8, 16,2 
+         ,8, 32, 8, 4
+         ,2, 4, 2, 8
+      } ;
+
+d143 1
+a143 1
+         if(DEBUG) System.out.print(s);
+@
+
+
+1.561
+log
+@*** empty log message ***
+@
+text
+@d164 1
+a164 1
+         System.out.println(debug_string);
+@
+
+
+1.560
+log
+@*** empty log message ***
+@
+text
+@d151 1
+a151 1
+         System.out.print(s);
+d178 1
+a178 1
+         System.out.println("skip_place:" + skip_place);
+d191 4
+a194 4
+            System.out.print(" place:" + place);
+            System.out.print(" s_place:" + s_place);
+            System.out.print(" val:" + val);
+            System.out.println("");
+@
+
+
+1.559
+log
+@*** empty log message ***
+@
+text
+@d15 1
+a15 1
+   static boolean DEBUG = true; //in case of testing
+@
+
+
+1.558
+log
+@*** empty log message ***
+@
+text
+@d52 1
+a52 1
+      b.moveTiles("LEFT");
+@
+
+
+1.557
+log
+@*** empty log message ***
+@
+text
+@d52 1
+a52 1
+      b.moveTiles("DOWN");
+@
+
+
+1.556
+log
+@*** empty log message ***
+@
+text
+@d52 1
+a52 1
+      b.moveTiles("UP");
+@
+
+
+1.555
+log
+@*** empty log message ***
+@
+text
+@d40 2
+d49 1
+@
+
+
+1.554
+log
+@*** empty log message ***
+@
+text
+@d49 1
+a49 1
+      b.moveTiles("DOWN");
+@
+
+
+1.553
+log
+@*** empty log message ***
+@
+text
+@d184 2
+a186 2
+            } else {
+               new_board[arr[i][s_place]] = val;
+@
+
+
+1.552
+log
+@*** empty log message ***
+@
+text
+@a192 1
+         if(DEBUG) System.out.println("tmparr:" + i + " " + Arrays.toString(tmparr));
+d194 1
+a194 1
+
+@
+
+
+1.551
+log
+@*** empty log message ***
+@
+text
+@d155 1
+a155 2
+      //int [] forward_arr = new int [board.length];
+      //int [] reverse_arr = new int [board.length];
+d178 1
+d180 1
+a180 1
+            int place = z - skip_place;
+d183 5
+a191 15
+
+            /*
+         int z_rev = tmparr.length - 1 ;
+            int place = arr[i][z];
+            int s_place = arr[i][z+skip_place];
+            //board_copy[arr[i][z]] = val;
+            System.out.print(" place:" + place);
+            System.out.print(" skip_place:" + skip_place);
+            System.out.print(" val:" + val);
+            System.out.print(" z:" + z);
+            System.out.print(" z+skip_place:" + (z + skip_place));
+            System.out.print(" z_rev:" + z_rev);
+            System.out.println("");
+            z_rev--;
+            */
+a192 4
+
+         /*
+         */
+
+d196 1
+a196 40
+      return board_copy;
+
+         
+
+         /*
+         
+         //now lets make forward and reverse arrays with the above tmparr
+         debug_string = "";
+         int n = tmparr.length - 1;
+         for (int z = 0; z < tmparr.length; z++) {
+            debug_string += " z:" + z;
+            debug_string += " board_z:" + board[arr[i][z]];
+            debug_string += "\n";
+            debug_string += " n:" + n;
+            debug_string += " board_n:" + board[arr[i][n]];
+            /*
+            debug_string += "\n";
+            debug_string += " bc_e:" + bc_e;
+            debug_string += " board_bc_e:" + board[bc_e];
+            debug_string += "\n" ;
+            bc_e++;
+            n--;
+         }
+         System.out.println(debug_string);
+         int n = 0;
+         for (int z = tmparr.length - 1; z >= 0; z--) { 
+            forward_arr[arr[i][z]] = tmparr[z];
+            reverse_arr[arr[i][z]] = tmparr[n];
+            n++; //increment opposite order
+         }
+      if(direction == "forward" ) {
+         if(DEBUG) System.out.println("returning-forward_arr: " +  " " + Arrays.toString(forward_arr));
+         return forward_arr;
+      } else {
+         if(DEBUG) System.out.println("returning-reverse_arr: " +  " " + Arrays.toString(reverse_arr));
+         return reverse_arr;
+      }
+          */
+
+
+@
+
+
+1.550
+log
+@*** empty log message ***
+@
+text
+@d178 2
+a179 1
+         for (int z = skip_place; z < tmparr.length + skip_place; z++) {
+d181 1
+a181 1
+            int s_place = z;
+@
+
+
+1.549
+log
+@*** empty log message ***
+@
+text
+@a178 1
+            int val = tmparr[z];
+d181 1
+d184 1
+a184 1
+            System.out.print(" val:" + s_place);
+@
+
+
+1.548
+log
+@*** empty log message ***
+@
+text
+@d179 1
+d184 1
+a188 1
+            int val = tmparr[z];
+@
+
+
+1.547
+log
+@*** empty log message ***
+@
+text
+@d180 1
+a180 1
+            int s_place = skip_place;
+@
+
+
+1.546
+log
+@*** empty log message ***
+@
+text
+@d178 8
+a186 1
+         for (int z = 0; z < tmparr.length; z++) {
+d189 1
+d199 1
+@
+
+
+1.545
+log
+@*** empty log message ***
+@
+text
+@d181 3
+a183 3
+            board_copy[arr[i][z]] = val;
+
+            System.out.print(" place:" + arr[i][z]);
+@
+
+
+1.544
+log
+@*** empty log message ***
+@
+text
+@a188 1
+            System.out.print(" z_rev+skip_place:" + (z_rev + skip_place));
+@
+
+
+1.543
+log
+@*** empty log message ***
+@
+text
+@d187 1
+@
+
+
+1.542
+log
+@*** empty log message ***
+@
+text
+@d188 1
+@
+
+
+1.541
+log
+@*** empty log message ***
+@
+text
+@d182 1
+d184 2
+@
+
+
+1.540
+log
+@*** empty log message ***
+@
+text
+@d180 2
+a181 1
+            board_copy[arr[i][z]] = tmparr[z];
+@
+
+
+1.539
+log
+@*** empty log message ***
+@
+text
+@a183 2
+            System.out.print(" skip_num: " + (z - skip_place));
+            System.out.print(" skip_num_rev: " + (z_rev - skip_place + skip_place));
+@
+
+
+1.538
+log
+@*** empty log message ***
+@
+text
+@d185 1
+a185 1
+            System.out.print(" skip_num_rev: " + (z_rev - skip_place + 1));
+@
+
+
+1.537
+log
+@*** empty log message ***
+@
+text
+@d178 1
+a178 1
+         int z_rev = tmparr.length ;
+d185 1
+a185 1
+            System.out.print(" skip_num_rev: " + (z_rev - skip_place));
+@
+
+
+1.536
+log
+@*** empty log message ***
+@
+text
+@d185 1
+a185 1
+            System.out.print(" skip_num_rev: " + (z_rev + skip_place));
+@
+
+
+1.535
+log
+@*** empty log message ***
+@
+text
+@d178 1
+a178 1
+         int z_rev = tmparr.length - 1;
+@
+
+
+1.534
+log
+@*** empty log message ***
+@
+text
+@d185 1
+a185 1
+            System.out.print(" skip_num_rev: " + (z_rev - skip_place));
+@
+
+
+1.533
+log
+@*** empty log message ***
+@
+text
+@d185 1
+@
+
+
+1.532
+log
+@*** empty log message ***
+@
+text
+@d181 3
+a183 3
+            System.out.print("place: " + arr[i][z]);
+            System.out.print(" z: " + z);
+            System.out.print(" z_rev: " + z_rev);
+@
+
+
+1.531
+log
+@*** empty log message ***
+@
+text
+@d182 3
+a184 3
+            System.out.print(" z : " + z);
+            System.out.print(" z_rev : " + z_rev);
+            System.out.print(" skip_num : " + (z - skip_place));
+@
+
+
+1.530
+log
+@*** empty log message ***
+@
+text
+@d178 1
+d183 1
+d186 1
+@
+
+
+1.529
+log
+@*** empty log message ***
+@
+text
+@d182 1
+@
+
+
+1.528
+log
+@*** empty log message ***
+@
+text
+@d179 4
+a182 5
+            if(skip_place > z) {
+               board_copy[arr[i][z]] = tmparr[z-skip_place];
+            } else {
+               board_copy[arr[i][z]] = tmparr[z];
+            }
+@
+
+
+1.527
+log
+@*** empty log message ***
+@
+text
+@d179 5
+a183 1
+            board_copy[arr[i][z]] = tmparr[z];
+@
+
+
+1.526
+log
+@*** empty log message ***
+@
+text
+@d178 1
+a178 1
+         for (int z = skip_place; z < tmparr.length; z++) {
+@
+
+
+1.525
+log
+@*** empty log message ***
+@
+text
+@d179 1
+a179 1
+            board_copy[arr[i][z]] = tmparr[z-skip_place];
+@
+
+
+1.524
+log
+@*** empty log message ***
+@
+text
+@d179 1
+a179 1
+            board_copy[arr[i][z+skip_place]] = tmparr[z-skip_place];
+@
+
+
+1.523
+log
+@*** empty log message ***
+@
+text
+@d178 2
+a179 2
+         for (int z = 0; z < tmparr.length; z++) {
+            board_copy[arr[i][z]] = tmparr[z];
+@
+
+
+1.522
+log
+@*** empty log message ***
+@
+text
+@d178 1
+a178 2
+         int z_start = skip_place;
+         for (int z = z_start; z < tmparr.length; z++) {
+@
+
+
+1.521
+log
+@*** empty log message ***
+@
+text
+@d178 2
+a179 1
+         for (int z = 0; z < tmparr.length; z++) {
+@
+
+
+1.520
+log
+@*** empty log message ***
+@
+text
+@d178 1
+a178 1
+         for (int z = skip_place; z < tmparr.length; z++) {
+@
+
+
+1.519
+log
+@*** empty log message ***
+@
+text
+@d178 1
+a178 1
+         for (int z = 0; z < tmparr.length; z++) {
+@
+
+
+1.518
+log
+@*** empty log message ***
+@
+text
+@d49 1
+a49 1
+      b.moveTiles("UP");
+@
+
+
+1.517
+log
+@*** empty log message ***
+@
+text
+@d168 1
+d171 1
+a171 1
+            if(val == 0) { continue; }
+d176 2
+d179 1
+a179 1
+            
+d181 1
+@
+
+
+1.516
+log
+@*** empty log message ***
+@
+text
+@d178 2
+@
+
+
+1.515
+log
+@*** empty log message ***
+@
+text
+@d175 4
+@
+
+
+1.514
+log
+@*** empty log message ***
+@
+text
+@a159 1
+      int i_rev = arr.length - 1;
+a161 1
+         debug_string = " i_rev:" + i_rev;
+d163 1
+a164 1
+         int [] tmparr_rev = new int [arr.length];
+a167 1
+         int z_rev = arr[i].length - 1;
+a171 1
+            tmparr_rev[z_rev] = val;
+a172 1
+            z_rev--;
+a174 1
+
+a175 2
+         if(DEBUG) System.out.println("tmparr_rev:" + i + " " + Arrays.toString(tmparr_rev));
+         i_rev--;
+@
+
+
+1.513
+log
+@*** empty log message ***
+@
+text
+@d49 1
+a49 1
+      b.moveTiles("DOWN");
+@
+
+
+1.512
+log
+@*** empty log message ***
+@
+text
+@d40 8
+d179 1
+@
+
+
+1.511
+log
+@*** empty log message ***
+@
+text
+@d147 2
+a148 2
+      int [] forward_arr = new int [board.length];
+      int [] reverse_arr = new int [board.length];
+a151 1
+      int bc_e = 0;
+d158 1
+d160 1
+d162 1
+d167 1
+d169 1
+d171 1
+d173 1
+@
+
+
+1.510
+log
+@*** empty log message ***
+@
+text
+@a166 2
+
+
+d168 1
+@
+
+
+1.509
+log
+@*** empty log message ***
+@
+text
+@d155 2
+a156 1
+         debug_string = "i:" + i;
+@
+
+
+1.508
+log
+@*** empty log message ***
+@
+text
+@a189 1
+            */
+@
+
+
+1.507
+log
+@*** empty log message ***
+@
+text
+@d153 1
+d167 10
+a195 7
+
+         if(DEBUG) System.out.println("tmparr:" + i + " " + Arrays.toString(tmparr));
+      }
+
+         
+
+         /*
+a210 1
+      return board_copy;
+@
+
+
+1.506
+log
+@*** empty log message ***
+@
+text
+@d168 1
+a172 9
+            bc_e++;
+         }
+         System.out.println(debug_string);
+
+
+
+         int n = tmparr.length - 1;
+         n--;
+            /*
+d175 2
+d179 1
+d181 4
+a184 1
+            */
+@
+
+
+1.505
+log
+@*** empty log message ***
+@
+text
+@a167 1
+         int n = tmparr.length - 1;
+d172 9
+a182 2
+            /*
+            debug_string += "\n";
+d185 1
+a186 5
+            debug_string += "\n" ;
+            bc_e++;
+            n--;
+         }
+         System.out.println(debug_string);
+@
+
+
+1.504
+log
+@*** empty log message ***
+@
+text
+@a171 1
+            /*
+d175 1
+@
+
+
+1.503
+log
+@*** empty log message ***
+@
+text
+@d172 1
+d179 1
+@
+
+
+1.502
+log
+@*** empty log message ***
+@
+text
+@d172 1
+d175 1
+@
+
+
+1.501
+log
+@*** empty log message ***
+@
+text
+@d171 1
+d173 1
+d175 1
+@
+
+
+1.500
+log
+@*** empty log message ***
+@
+text
+@d178 1
+@
+
+
+1.499
+log
+@*** empty log message ***
+@
+text
+@d41 1
+a41 1
+      b.moveTiles("UP");
+@
+
+
+1.498
+log
+@*** empty log message ***
+@
+text
+@d168 1
+a168 1
+         int n = tmparr.length;
+@
+
+
+1.497
+log
+@*** empty log message ***
+@
+text
+@d168 1
+d171 1
+d175 1
+@
+
+
+1.496
+log
+@*** empty log message ***
+@
+text
+@d167 1
+@
+
+
+1.495
+log
+@*** empty log message ***
+@
+text
+@d155 1
+d170 1
+a170 1
+            System.out.println(debug_string);
+d173 1
+@
+
+
+1.494
+log
+@*** empty log message ***
+@
+text
+@d154 1
+a165 1
+         debug_string = "";
+d167 1
+a168 2
+            debug_string += " i:" + i;
+            debug_string += " z:" + z;
+@
+
+
+1.493
+log
+@*** empty log message ***
+@
+text
+@d165 1
+@
+
+
+1.492
+log
+@*** empty log message ***
+@
+text
+@d150 3
+d156 1
+a156 1
+
+d162 9
+@
+
+
+1.491
+log
+@*** empty log message ***
+@
+text
+@d41 1
+a41 1
+      b.moveTiles("DOWN");
+@
+
+
+1.490
+log
+@*** empty log message ***
+@
+text
+@d160 2
+d163 1
+a163 1
+         if(DEBUG) System.out.println("tmparr:" + i + " " + Arrays.toString(tmparr));
+d165 1
+a171 2
+      }
+
+d179 4
+@
+
+
+1.489
+log
+@*** empty log message ***
+@
+text
+@d41 1
+a41 1
+      b.moveTiles("UP");
+@
+
+
+1.488
+log
+@*** empty log message ***
+@
+text
+@d41 1
+a41 1
+      b.moveTiles("DOWN");
+@
+
+
+1.487
+log
+@*** empty log message ***
+@
+text
+@d41 1
+a41 1
+      b.moveTiles("UP");
+@
+
+
+1.486
+log
+@*** empty log message ***
+@
+text
+@d171 1
+a171 1
+      if(direction == "forward" && ( Arrays.toString(forward_arr) == Arrays.toString(board_copy))) {
+@
+
+
+1.485
+log
+@*** empty log message ***
+@
+text
+@d171 1
+a171 1
+      if(direction == "forward" && ( Arrays.toString(forward_arr) != Arrays.toString(board_copy))) {
+@
+
+
+1.484
+log
+@*** empty log message ***
+@
+text
+@d171 1
+a171 1
+      if(direction == "forward") {
+@
+
+
+1.483
+log
+@*** empty log message ***
+@
+text
+@d171 7
+a177 4
+      if(DEBUG) System.out.println("forward_arr: " +  " " + Arrays.toString(forward_arr));
+      if(DEBUG) System.out.println("reverse_arr: " +  " " + Arrays.toString(reverse_arr));
+      if(DEBUG) System.out.println("returning: " +  " " + Arrays.toString(board_copy));
+      return board_copy;
+@
+
+
+1.482
+log
+@*** empty log message ***
+@
+text
+@d41 1
+a41 1
+      b.moveTiles("DOWN");
+@
+
+
+1.481
+log
+@*** empty log message ***
+@
+text
+@d165 2
+a166 2
+            forward_arr[arr[i][z]] = tmparr[n];
+            reverse_arr[arr[i][z]] = tmparr[z];
+@
+
+
+1.480
+log
+@*** empty log message ***
+@
+text
+@d147 2
+a162 1
+
+d164 3
+a166 8
+         for (int z = tmparr.length - 1; z >= 0; z--) { //forward has reverse increment
+            int place;
+            if(direction == "forward") { place = n; } else { place = z; } //depending on order, shift forward or reverse
+
+            if(DEBUG) System.out.println("\tboardcopy: " + board_copy[arr[i][z]] + "tmparr_n: " + tmparr[n] + "tmparr_z:" + tmparr[z] );
+
+            board_copy[arr[i][z]] = tmparr[place]; //replace tile
+            board_copy[arr[i][z]] = tmparr[place]; //replace tile
+d170 3
+@
+
+
+1.479
+log
+@*** empty log message ***
+@
+text
+@d41 1
+a41 1
+      b.moveTiles("UP");
+d167 1
+a167 1
+            if(DEBUG) System.out.println("\tboardcopy: " + board_copy[arr[i][z]] + "tmparr: " + tmparr[place]);
+@
+
+
+1.478
+log
+@*** empty log message ***
+@
+text
+@d41 1
+a41 1
+      b.moveTiles("DOWN");
+d167 1
+a167 1
+            if(DEBUG) System.out.println("boardcopy: " + board_copy[arr[i][z]] + "tmparr: " + tmparr[place]);
+@
+
+
+1.477
+log
+@*** empty log message ***
+@
+text
+@d166 4
+@
+
+
+1.476
+log
+@*** empty log message ***
+@
+text
+@d41 1
+a41 1
+      b.moveTiles("UP");
+@
+
+
+1.475
+log
+@*** empty log message ***
+@
+text
+@d170 1
+@
+
+
+1.474
+log
+@*** empty log message ***
+@
+text
+@d41 1
+a41 1
+      b.moveTiles("DOWN");
+@
+
+
+1.473
+log
+@*** empty log message ***
+@
+text
+@a158 1
+         if(DEBUG) System.out.println("tmparr_length: " + tmparr.length);
+@
+
+
+1.472
+log
+@*** empty log message ***
+@
+text
+@d149 1
+a150 1
+         int [] tmparr = new int [arr.length];
+d160 1
+a160 3
+
+
+         if(DEBUG) System.out.println("tmparr: " + Arrays.toString(tmparr));
+@
+
+
+1.471
+log
+@*** empty log message ***
+@
+text
+@a146 1
+      int [] tmparr = new int [arr.length];
+d150 1
+d159 1
+d161 2
+a162 1
+         if(DEBUG) System.out.println("tmparr:" + Arrays.toString(tmparr));
+d173 1
+a173 5
+      if(direction == "forward") {
+         return tmparr;
+      } else {
+         return board_copy;
+      }
+@
+
+
+1.470
+log
+@*** empty log message ***
+@
+text
+@d147 2
+a149 1
+         int [] tmparr = new int [arr.length];
+d159 1
+a160 1
+         if(direction == "forward") return tmparr;
+d171 5
+a175 1
+      return board_copy;
+@
+
+
+1.469
+log
+@*** empty log message ***
+@
+text
+@a161 1
+
+@
+
+
+1.468
+log
+@*** empty log message ***
+@
+text
+@d159 3
+@
+
+
+1.467
+log
+@*** empty log message ***
+@
+text
+@d41 1
+a41 1
+      b.moveTiles("UP");
+@
+
+
+1.466
+log
+@*** empty log message ***
+@
+text
+@d41 1
+a41 1
+      b.moveTiles("DOWN");
+@
+
+
+1.465
+log
+@*** empty log message ***
+@
+text
+@d41 1
+a41 1
+      b.moveTiles("UP");
+@
+
+
+1.464
+log
+@*** empty log message ***
+@
+text
+@a41 3
+      b.moveTiles("DOWN");
+      b.moveTiles("LEFT");
+      b.moveTiles("RIGHT");
+@
+
+
+1.463
+log
+@*** empty log message ***
+@
+text
+@d161 1
+a161 1
+         if(DEBUG) System.out.println(Arrays.toString(tmparr));
+a166 4
+
+            int val = tmparr[place];
+            if(val == 0) { continue; }
+
+@
+
+
+1.462
+log
+@*** empty log message ***
+@
+text
+@d131 1
+@
+
+
+1.461
+log
+@*** empty log message ***
+@
+text
+@a145 1
+
+@
+
+
+1.460
+log
+@*** empty log message ***
+@
+text
+@d161 2
+@
+
+
+1.459
+log
+@*** empty log message ***
+@
+text
+@d165 4
+@
+
+
+1.458
+log
+@*** empty log message ***
+@
+text
+@d32 8
+a45 7
+      board = 
+       new int[] {
+          2, 0, 0, 0
+         ,2, 0, 0, 0
+         ,2, 0, 0, 0
+         ,2, 0, 0, 0
+      } ;
+@
+
+
+1.457
+log
+@*** empty log message ***
+@
+text
+@d48 2
+a49 1
+   public void moveTiles (String this_dir) {
+d51 8
+a58 3
+      if ( getPossibleMoves(this_dir) > 0) { setMove(this_dir); } //If we can move in that direction go for it
+      if(DEBUG) System.out.println("-----------------------------------");
+      if(DEBUG) printBoard();
+@
+
+
+1.456
+log
+@*** empty log message ***
+@
+text
+@d32 1
+@
+
+
+1.455
+log
+@*** empty log message ***
+@
+text
+@d35 1
+@
+
+
+1.454
+log
+@*** empty log message ***
+@
+text
+@d34 1
+@
+
+
+1.453
+log
+@*** empty log message ***
+@
+text
+@d33 1
+@
+
+
+1.452
+log
+@*** empty log message ***
+@
+text
+@d32 1
+a32 4
+      String this_dir = "UP";
+      b.printBoard();
+      b.moveTiles(this_dir);
+      b.printBoard();
+d48 1
+@
+
+
+1.451
+log
+@*** empty log message ***
+@
+text
+@d15 1
+a15 1
+   static boolean DEBUG = false; //in case of testing
+d50 1
+a50 1
+      System.out.println("-----------------------------------");
+@
+
+
+1.450
+log
+@*** empty log message ***
+@
+text
+@d47 3
+a49 3
+   public void moveTiles (String direction) {
+      if(DEBUG) System.out.println(Direction.valueOf(direction).description + "/" + Direction.valueOf(direction).direction);
+      if ( getPossibleMoves(direction) > 0) { setMove(direction); } //If we can move in that direction go for it
+@
+
+
+1.449
+log
+@*** empty log message ***
+@
+text
+@d34 1
+a34 3
+      if(DEBUG) System.out.println(Direction.valueOf(this_dir).description + "/" + Direction.valueOf(this_dir).direction);
+      if ( b.getPossibleMoves(this_dir) > 0) { b.setMove(this_dir); } //If we can move in that direction go for it
+      System.out.println("-----------------------------------");
+d45 6
+@
+
+
+1.448
+log
+@*** empty log message ***
+@
+text
+@d34 1
+a34 1
+      if(DEBUG) System.out.println(Direction.valueOf(this_dir).description + "/" + Direction.valueOf(this_dir).dir);
+d67 1
+a67 1
+      String dir;
+d70 1
+a70 1
+      private Direction (String arr ,String dir, String description) {
+d72 1
+a72 1
+         this.dir = dir;
+d92 1
+a92 1
+      board = shiftTiles(getSortArray(Direction.valueOf(direction).arr),Direction.valueOf(direction).dir);
+d109 1
+a109 1
+      arr3 = shiftTiles(getSortArray(Direction.valueOf(direction).arr),Direction.valueOf(direction).dir);
+@
+
+
+1.447
+log
+@*** empty log message ***
+@
+text
+@d15 1
+a15 1
+   static boolean DEBUG = true; //in case of testing
+a47 1
+
+@
+
+
+1.446
+log
+@*** empty log message ***
+@
+text
+@d96 4
+@
+
+
+1.445
+log
+@*** empty log message ***
+@
+text
+@a37 1
+
+@
+
+
+1.444
+log
+@*** empty log message ***
+@
+text
+@a3 1
+
+d13 3
+a15 3
+      /* These do not change */
+      static final int percOfTwo = 50; //percentage of twos to "randomly" generate
+      static boolean DEBUG = true; //in case of testing
+d17 6
+a22 6
+      /* new instance variable types */
+      int boardSize; //e.g 4=4x4 , 5=5x5
+      int [] board ; //array holding playing board
+      int[][] rows ; //row list and order
+      int[][] cols ; //column list and order
+      int score;
+@
+
+
+1.443
+log
+@*** empty log message ***
+@
+text
+@d23 1
+a23 1
+
+a30 1
+   
+d51 5
+a55 6
+   private int[][] getSortArray (String arr_name) {
+      if (arr_name == "rows") {
+            return rows;
+      } else {
+            return cols;
+      }
+d58 4
+d63 1
+a63 1
+   private enum Direction {
+d78 1
+a78 1
+   };   
+d81 12
+d99 1
+a119 11
+   /* Constructors  */
+   public Board2048() { //new object DEFAULT
+      boardSize = 4;
+      init_board();
+   }
+
+   public Board2048( int bs) { //new object create with boardsize passed as arg
+      boardSize = bs;
+      init_board();
+   }
+
+d132 2
+d135 2
+a136 2
+      int [] board_copy = Arrays.copyOf(board, board.length);
+      for (int i = 0; i < arr.length; i++) {
+d140 1
+a140 1
+         for (int z = 0 ; z < arr[i].length; z++) { 
+d246 1
+@
+
+
+1.442
+log
+@*** empty log message ***
+@
+text
+@d36 1
+a36 1
+      System.out.println(Direction.valueOf(this_dir).description + "/" + Direction.valueOf(this_dir).dir);
+@
+
+
+1.441
+log
+@*** empty log message ***
+@
+text
+@d34 1
+a34 1
+      String this_dir = "DOWN";
+@
+
+
+1.440
+log
+@*** empty log message ***
+@
+text
+@d53 1
+a53 6
+      switch(arr_name) {
+         case "rows":
+            return rows;
+         case "cols":
+            return rows;
+         default :
+d55 2
+@
+
+
+1.439
+log
+@*** empty log message ***
+@
+text
+@d34 1
+a34 1
+      String this_dir = "UP";
+@
+
+
+1.438
+log
+@*** empty log message ***
+@
+text
+@d34 1
+a34 1
+      String this_dir = "LEFT";
+@
+
+
+1.437
+log
+@*** empty log message ***
+@
+text
+@d34 1
+a34 1
+      String this_dir = "RIGHT";
+@
+
+
+1.436
+log
+@*** empty log message ***
+@
+text
+@d34 1
+a34 1
+      String this_dir = "LEFT";
+@
+
+
+1.435
+log
+@*** empty log message ***
+@
+text
+@a104 2
+
+      System.out.println("bdiff:" + bdiff);
+@
+
+
+1.434
+log
+@*** empty log message ***
+@
+text
+@a33 2
+
+
+a34 1
+
+a35 1
+      System.out.println(b.getPossibleMoves(this_dir));
+d37 1
+d82 4
+@
+
+
+1.433
+log
+@*** empty log message ***
+@
+text
+@d39 1
+a39 1
+      System.out.println(b.compareToBoard(this_dir));
+d87 1
+a87 1
+   private int compareToBoard (String direction) {
+@
+
+
+1.432
+log
+@*** empty log message ***
+@
+text
+@d30 1
+d35 9
+a52 8
+
+      String this_dir = "LEFT";
+
+      b.printBoard();
+      System.out.println(b.compareToBoard(this_dir));
+      System.out.println(Direction.valueOf(this_dir).description + "/" + Direction.valueOf(this_dir).dir);
+      System.out.println("-----------------------------------");
+      b.printBoard();
+@
+
+
+1.431
+log
+@*** empty log message ***
+@
+text
+@d44 1
+a44 1
+      String this_dir = "UP";
+@
+
+
+1.430
+log
+@*** empty log message ***
+@
+text
+@d44 1
+a44 1
+      String this_dir = "DOWN";
+@
+
+
+1.429
+log
+@*** empty log message ***
+@
+text
+@d44 2
+d47 2
+a48 2
+      System.out.println(b.compareToBoard("DOWN"));
+      System.out.println(Direction.valueOf("DOWN").description + "/" + Direction.valueOf("DOWN").dir);
+@
+
+
+1.428
+log
+@*** empty log message ***
+@
+text
+@d46 1
+a46 1
+      System.out.println(Direction.valueOf("DOWN").description);
+@
+
+
+1.427
+log
+@*** empty log message ***
+@
+text
+@d46 1
+@
+
+
+1.426
+log
+@*** empty log message ***
+@
+text
+@a33 2
+
+
+d56 2
+d89 2
+a90 2
+      arr2 = combineTiles(Direction.valueOf(direction).arr);
+      arr3 = shiftTiles(Direction.valueOf(direction).arr,Direction.valueOf(direction).dir);
+@
+
+
+1.425
+log
+@*** empty log message ***
+@
+text
+@a0 1
+import java.lang.reflect.Field;
+a34 1
+      printClassName(b);
+d52 8
+a59 5
+
+   public static void printClassName(Object obj) {
+      System.out.println("The class of " + obj + " is " + obj.getClass().getName());
+   };
+
+d80 2
+d89 2
+a90 4
+      arr2 = Arrays.copyOf(board, board.length);
+      arr3 = Arrays.copyOf(board, board.length);
+      //arr2 = combineTiles(Direction.valueOf(direction).arr);
+      //arr3 = shiftTiles(Direction.valueOf(direction).arr,Direction.valueOf(direction).dir);
+a227 3
+   private void initTestBoard (int[] arr) {
+      board = arr;
+   }
+@
+
+
+1.424
+log
+@*** empty log message ***
+@
+text
+@a30 3
+   public static void printClassName(Object obj) {
+      System.out.println("The class of " + obj + " is " + obj.getClass().getName());
+   };
+d53 5
+@
+
+
+1.423
+log
+@*** empty log message ***
+@
+text
+@d31 1
+a31 1
+   void printClassName(Object obj) {
+d39 1
+a39 1
+      printClassName(this);
+@
+
+
+1.422
+log
+@*** empty log message ***
+@
+text
+@d35 1
+a35 1
+   public void main(String[] args) {
+@
+
+
+1.421
+log
+@*** empty log message ***
+@
+text
+@d84 4
+a87 2
+      arr2 = combineTiles(Direction.valueOf(direction).arr);
+      arr3 = shiftTiles(Direction.valueOf(direction).arr,Direction.valueOf(direction).dir);
+@
+
+
+1.420
+log
+@*** empty log message ***
+@
+text
+@d1 1
+d25 1
+d30 4
+d38 2
+@
+
+
+1.419
+log
+@*** empty log message ***
+@
+text
+@d32 1
+d34 2
+a35 1
+      b.initTestBoard( new int[] {
+d40 2
+a41 2
+      } );
+       */
+d49 7
+a55 5
+   public enum Direction {
+      UP(cols,"reverse","UP (cols)")
+      ,DOWN(cols,"forward","DOWN (cols)")
+      ,LEFT(rows,"reverse","LEFT (rows)")
+      ,RIGHT(rows,"forward","RIGHT (rows)")
+d60 2
+a61 2
+      int[][] arr;
+      private Direction (int[][] arr ,String dir, String description) {
+@
+
+
+1.418
+log
+@*** empty log message ***
+@
+text
+@d14 2
+a15 5
+      static int boardSize; //e.g 4=4x4 , 5=5x5
+      static int [] board ; //array holding playing board
+      static int[][] rows ; //row list and order
+      static int[][] cols ; //column list and order
+      static int percOfTwo = 50; //percentage of twos to "randomly" generate
+d18 6
+d29 1
+a29 1
+   public static void main(String[] args) {
+d47 1
+a47 1
+   public static enum Direction {
+d195 2
+a196 2
+   private static int [] getGroup (int row,String type) {
+      int [] arr = new int [boardSize];
+d216 1
+a216 1
+   private static void init_board() {
+@
+
+
+1.417
+log
+@*** empty log message ***
+@
+text
+@d29 1
+d36 1
+@
+
+
+1.416
+log
+@*** empty log message ***
+@
+text
+@d29 1
+a29 2
+      b.initTestBoard(
+      new int[] {
+@
+
+
+1.415
+log
+@*** empty log message ***
+@
+text
+@d29 2
+a30 1
+      int[] tmparr = new int[] {
+d35 1
+a35 2
+      };
+      b.initTestBoard(tmparr);
+@
+
+
+1.414
+log
+@*** empty log message ***
+@
+text
+@d38 1
+a38 1
+      System.out.println(b.compareToBoard("UP"));
+@
+
+
+1.413
+log
+@*** empty log message ***
+@
+text
+@d38 1
+a38 1
+      System.out.println(b.compareToBoard("LEFT"));
+@
+
+
+1.412
+log
+@*** empty log message ***
+@
+text
+@d38 1
+a38 1
+      System.out.println(b.compareToBoard("RIGHT"));
+@
+
+
+1.411
+log
+@*** empty log message ***
+@
+text
+@d38 1
+a38 1
+      System.out.println(b.compareToBoard("LEFT"));
+@
+
+
+1.410
+log
+@*** empty log message ***
+@
+text
+@d38 1
+a38 1
+      System.out.println(b.compareToBoard("RIGHT"));
+@
+
+
+1.409
+log
+@*** empty log message ***
+@
+text
+@d30 4
+a33 4
+          2, 2, 0, 0
+         ,0, 0, 0, 0
+         ,0, 0, 0, 0
+         ,0, 0, 0, 0
+@
+
+
+1.408
+log
+@*** empty log message ***
+@
+text
+@d30 1
+a30 1
+          2, 0, 0, 0
+@
+
+
+1.407
+log
+@*** empty log message ***
+@
+text
+@d30 1
+a30 1
+          0, 0, 0, 0
+@
+
+
+1.406
+log
+@*** empty log message ***
+@
+text
+@d33 1
+@
+
+
+1.405
+log
+@*** empty log message ***
+@
+text
+@d28 8
+d204 4
+@
+
+
+1.404
+log
+@*** empty log message ***
+@
+text
+@d29 1
+a29 4
+
+      b.getBoardFree("RIGHT")
+      ;
+
+a33 13
+   public int getBoardFree (String direction) {
+      int moves = 0;
+      System.out.println(Direction.valueOf(direction).description + "/" + Direction.valueOf(direction).dir);
+
+      moves = compareToBoard("RIGHT");
+
+      //newarr = shiftTiles(Direction.valueOf(direction).arr,Direction.valueOf(direction).dir);
+      //   moves += compareToBoard(newarr);
+      return moves;
+   }
+
+
+
+d54 3
+a56 2
+      int [] arr1; //array 1 for diff
+      int [] arr2; //array 2 for diff
+d59 2
+a60 1
+      arr2 = combineTiles(combineTiles(Direction.valueOf(direction).arr));
+d62 3
+a64 2
+      //newarr = shiftTiles(Direction.valueOf(direction).arr,Direction.valueOf(direction).dir);
+      //   moves += compareToBoard(newarr);
+d66 2
+a67 2
+      for (int i = 0; i < arr.length; i++) {
+         if( board[i] != adiff[i]) { bdiff++; }
+@
+
+
+1.403
+log
+@*** empty log message ***
+@
+text
+@d30 2
+a31 1
+      System.out.println(b.getBoardFree("RIGHT"));
+a38 1
+      int [] newarr;
+d41 1
+a41 4
+      newarr = combineTiles(Direction.valueOf(direction).arr);
+         moves += compareToBoard(newarr);
+      newarr = shiftTiles(Direction.valueOf(direction).arr,Direction.valueOf(direction).dir);
+         moves += compareToBoard(newarr);
+d43 2
+d68 1
+a68 1
+   private int compareToBoard (int [] arr) {
+d70 8
+a77 2
+      int [] adiff; //array to check differences
+      adiff = Arrays.copyOf(arr, arr.length);
+d82 1
+@
+
+
+1.402
+log
+@*** empty log message ***
+@
+text
+@d30 8
+d39 1
+d41 4
+a44 1
+      String myval = "RIGHT";
+d46 1
+a46 9
+      System.out.println(Direction.valueOf(myval).description + "/" + Direction.valueOf(myval).dir);
+      newarr = b.combineTiles(Direction.valueOf(myval).arr);
+      b.compareToBoard(newarr);
+      board = newarr;
+      newarr = b.shiftTiles(Direction.valueOf(myval).arr,Direction.valueOf(myval).dir);
+      b.compareToBoard(newarr);
+      board = newarr;
+      System.out.println("-----------------------------------");
+      b.printBoard();
+@
+
+
+1.401
+log
+@*** empty log message ***
+@
+text
+@a34 1
+
+a37 1
+
+a40 1
+
+@
+
+
+1.400
+log
+@*** empty log message ***
+@
+text
+@d32 1
+a32 1
+      String myval = "LEFT";
+@
+
+
+1.399
+log
+@*** empty log message ***
+@
+text
+@d32 1
+a32 1
+      String myval = "UP";
+@
+
+
+1.398
+log
+@*** empty log message ***
+@
+text
+@d51 4
+a54 4
+      UP(cols,"reverse","UP")
+      ,DOWN(cols,"forward","DOWN")
+      ,LEFT(rows,"reverse","LEFT")
+      ,RIGHT(rows,"forward","RIGHT")
+@
+
+
+1.397
+log
+@*** empty log message ***
+@
+text
+@d34 1
+a34 1
+      System.out.println(Direction.DOWN.description + "/" + Direction.valueOf(myval).dir);
+@
+
+
+1.396
+log
+@*** empty log message ***
+@
+text
+@d32 1
+a32 1
+      String myval = "DOWN";
+@
+
+
+1.395
+log
+@*** empty log message ***
+@
+text
+@d32 1
+a32 1
+      System.out.println(Direction.DOWN.description + "/" + Direction.DOWN.dir);
+d34 3
+a36 1
+      newarr = b.combineTiles(Direction.DOWN.arr);
+d40 1
+a40 1
+      newarr = b.shiftTiles(Direction.DOWN.arr,Direction.DOWN.dir);
+@
+
+
+1.394
+log
+@*** empty log message ***
+@
+text
+@d32 1
+a32 1
+      System.out.println(Direction.DOWN.description);
+a73 1
+
+a74 1
+
+a102 1
+      System.out.println(direction);
+@
+
+
+1.393
+log
+@*** empty log message ***
+@
+text
+@d32 2
+d49 4
+a52 4
+      UP(cols,"reverse")
+      ,DOWN(cols,"forward")
+      ,LEFT(rows,"reverse")
+      ,RIGHT(rows,"forward")
+d56 1
+d58 1
+a58 1
+      private Direction (int[][] arr ,String dir) {
+d61 1
+@
+
+
+1.392
+log
+@*** empty log message ***
+@
+text
+@d47 4
+a50 4
+      UP(rows,"reverse")
+      ,DOWN(rows,"forward")
+      ,LEFT(cols,"reverse")
+      ,RIGHT(cols,"forward")
+@
+
+
+1.391
+log
+@*** empty log message ***
+@
+text
+@d47 4
+a50 4
+      UP(rows,"forward")
+      ,DOWN(rows,"reverse")
+      ,LEFT(cols,"forward")
+      ,RIGHT(cols,"reverse")
+@
+
+
+1.390
+log
+@*** empty log message ***
+@
+text
+@d32 1
+a32 1
+      newarr = b.combineTiles(rows);
+d36 1
+a36 3
+      System.out.println( Direction.DOWN.dir );
+
+      newarr = b.shiftTiles(rows,"forward");
+@
+
+
+1.389
+log
+@*** empty log message ***
+@
+text
+@d36 2
+a45 1
+   public enum Direction {
+d47 15
+a61 1
+   }
+@
+
+
+1.388
+log
+@*** empty log message ***
+@
+text
+@d44 5
+@
+
+
+1.387
+log
+@*** empty log message ***
+@
+text
+@d37 1
+@
+
+
+1.386
+log
+@*** empty log message ***
+@
+text
+@d30 14
+d46 1
+a46 2
+      adiff = Arrays.copyOf(board, board.length);
+      adiff = b.combineTiles(rows);
+d48 1
+a48 1
+      for (int i = 0; i < board.length; i++) {
+d51 1
+d54 1
+a54 5
+      board = b.combineTiles(rows);
+      board = b.shiftTiles(rows,"forward");
+
+      System.out.println("-----------------------------------");
+      b.printBoard();
+@
+
+
+1.385
+log
+@*** empty log message ***
+@
+text
+@d87 3
+a89 3
+            if(direction == "forward") { place = n; } else { place = z; }
+            board_copy[arr[i][z]] = tmparr[place];
+            n++;
+@
+
+
+1.384
+log
+@*** empty log message ***
+@
+text
+@d86 3
+a88 5
+            if(direction == "forward") {
+               board_copy[arr[i][z]] = tmparr[n];
+            } else {
+               board_copy[arr[i][z]] = tmparr[z];
+            }
+@
+
+
+1.383
+log
+@*** empty log message ***
+@
+text
+@d41 1
+a41 1
+      board = b.shiftTiles(rows,"rev");
+@
+
+
+1.382
+log
+@*** empty log message ***
+@
+text
+@d40 2
+a41 1
+     board = b.shiftTiles(rows,"rev");
+@
+
+
+1.381
+log
+@*** empty log message ***
+@
+text
+@a37 1
+
+d40 1
+a40 2
+
+      b.shiftTiles(rows,"rev");
+@
+
+
+1.380
+log
+@*** empty log message ***
+@
+text
+@d85 3
+a87 3
+         if(direction == "forward") {
+            int n = 0;
+            for (int z = tmparr.length - 1; z >= 0; z--) { //forward has reverse increment
+d89 1
+a89 4
+               n++;
+            }
+         } else {
+            for (int z = 0 ; z < tmparr.length; z++) { 
+d92 1
+@
+
+
+1.379
+log
+@*** empty log message ***
+@
+text
+@d30 2
+a31 3
+      //boolean areEqual = Arrays.equals(Arrays.sort(board), Arrays.sort(arr2));
+      int bdiff = 0;
+      int [] adiff;
+@
+
+
+1.378
+log
+@*** empty log message ***
+@
+text
+@d33 1
+a34 1
+      adiff = Arrays.copyOf(board, board.length);
+@
+
+
+1.377
+log
+@*** empty log message ***
+@
+text
+@d32 3
+a34 2
+      //int [] adiff = b.combineTiles(rows);
+      int [] adiff = Arrays.copyOf(board, board.length);
+@
+
+
+1.376
+log
+@*** empty log message ***
+@
+text
+@a31 1
+      int [] adiff;
+d33 1
+a33 1
+      int [] addiff = Arrays.copyOf(board, board.length);
+@
+
+
+1.375
+log
+@*** empty log message ***
+@
+text
+@d32 2
+a33 1
+      int [] adiff = b.combineTiles(rows);
+@
+
+
+1.374
+log
+@*** empty log message ***
+@
+text
+@d33 2
+@
+
+
+1.373
+log
+@*** empty log message ***
+@
+text
+@d29 13
+a41 2
+      board = b.combineTiles(rows);
+      board = b.shiftTiles(rows,"rev");
+a44 1
+
+@
+
+
+1.372
+log
+@*** empty log message ***
+@
+text
+@d29 2
+a30 2
+      b.combineTiles(rows);
+      b.shiftTiles(rows,"rev");
+@
+
+
+1.371
+log
+@*** empty log message ***
+@
+text
+@d59 2
+a60 1
+   private void shiftTiles (int [][] arr, String direction) {
+d67 1
+a67 1
+            int val = board[arr[i][z]];
+d76 1
+a76 1
+               board[arr[i][z]] = tmparr[n];
+d81 1
+a81 1
+               board[arr[i][z]] = tmparr[z];
+d85 1
+d88 1
+a88 1
+   private void combineTiles (int [][] arr ) //WE don't really need direction here
+d90 1
+d102 2
+a103 2
+            int v1 = board[a1];
+            int v2 = board[a2];
+d106 2
+a107 2
+               board[a2] = newval;
+               board[a1] = 0;
+d112 1
+a148 1
+   //private static ArrayList<Integer> getGroup (int row,String type) {
+@
+
+
+1.370
+log
+@*** empty log message ***
+@
+text
+@d141 1
+a141 3
+      for(int i : board) {
+         if( i == 0) free++;
+      }
+@
+
+
+1.369
+log
+@*** empty log message ***
+@
+text
+@d30 1
+a30 1
+      b.shiftTiles(rows,"forward");
+@
+
+
+1.368
+log
+@*** empty log message ***
+@
+text
+@d29 1
+a29 1
+      b.combineTiles(cols);
+d90 1
+a90 1
+         for (int z = arr[i].length - 1; z >= 0; z--) //forward has reverse increment
+@
+
+
+1.367
+log
+@*** empty log message ***
+@
+text
+@d30 1
+a30 1
+      b.shiftTiles(cols,"forward");
+@
+
+
+1.366
+log
+@*** empty log message ***
+@
+text
+@d30 1
+a30 1
+      b.shiftTiles(rows,"forward");
+@
+
+
+1.365
+log
+@*** empty log message ***
+@
+text
+@d30 1
+a30 1
+      b.shiftTiles(cols,"forward");
+@
+
+
+1.364
+log
+@*** empty log message ***
+@
+text
+@d30 1
+a30 1
+      b.shiftTiles(cols,"rev");
+@
+
+
+1.363
+log
+@*** empty log message ***
+@
+text
+@a74 2
+               //System.out.println("tmparr:" + z + " " + "i:" + arr[i][z]);
+               //System.out.println("\tval1:" + tmparr[n] + " " + "i:" + board[arr[i][z]]);
+a79 1
+               System.out.println("tmparr:" + tmparr[z] + " " + "i:" + board[arr[i][z]]);
+@
+
+
+1.362
+log
+@*** empty log message ***
+@
+text
+@d30 1
+a30 1
+      b.shiftTiles(cols,"forward");
+@
+
+
+1.361
+log
+@*** empty log message ***
+@
+text
+@a72 5
+            for (int z = 0 ; z < tmparr.length; z++) { 
+               System.out.println("tmparr:" + tmparr[z] + " " + "i:" + board[arr[i][z]]);
+               board[arr[i][z]] = tmparr[z];
+            }
+         } else {
+d80 4
+a83 37
+         }
+         //System.out.println(Arrays.toString(tmparr));
+      }
+
+      /*
+      for (int i = 0; i < arr.length; i++) {
+         if(direction == "forward") {
+            for (int z = arr[i].length - 1; z >= 0; z--) { //forward has reverse increment
+               int current = z;
+               int next ;
+               if((z + 1) == arr[i].length) { continue; } //avoid array out of bounds
+               next = z + 1;
+               int a1 = arr[i][current];
+               int a2 = arr[i][next];
+               int v1 = board[a1];
+               int v2 = board[a2];
+               System.out.println(a1 + "->" + a2 + " " + v1 + "->" + v2);
+               if(v2 == 0) {
+                  board[a1] = 0;
+                  board[a2] = v1;
+               }
+            }
+         }  else {
+            for (int z = 0 ; z < arr[i].length; z++) { //reverse has positive increment
+               int current = z;
+               int next ;
+               if((z + 1) == arr[i].length) { continue; } //avoid array out of bounds
+               next = z + 1;
+               int a1 = arr[i][current];
+               int a2 = arr[i][next];
+               int v1 = board[a1];
+               int v2 = board[a2];
+               System.out.println(a2 + "->" + a1 + " " + v2 + "->" + v1);
+               if(v1 == 0) {
+                  board[a2] = 0;
+                  board[a1] = v2;
+               }
+a86 1
+       */
+@
+
+
+1.360
+log
+@*** empty log message ***
+@
+text
+@d30 1
+a30 1
+      b.shiftTiles(cols,"rev");
+@
+
+
+1.359
+log
+@*** empty log message ***
+@
+text
+@d80 2
+a81 2
+               System.out.println("tmparr:" + z + " " + "i:" + arr[i][z]);
+               System.out.println("\tval1:" + tmparr[n] + " " + "i:" + board[arr[i][z]]);
+@
+
+
+1.358
+log
+@*** empty log message ***
+@
+text
+@d82 1
+a82 1
+               board[arr[i][z]] = tmparr[z];
+@
+
+
+1.357
+log
+@*** empty log message ***
+@
+text
+@d78 1
+d81 1
+a81 1
+               System.out.println("\tval1:" + tmparr[z] + " " + "i:" + board[arr[i][z]]);
+d83 1
+@
+
+
+1.356
+log
+@*** empty log message ***
+@
+text
+@d80 1
+@
+
+
+1.355
+log
+@*** empty log message ***
+@
+text
+@d30 1
+a30 1
+      b.shiftTiles(cols,"forward");
+@
+
+
+1.354
+log
+@*** empty log message ***
+@
+text
+@d79 1
+a79 1
+               System.out.println("tmparr:" + tmparr[z] + " " + "i:" + board[arr[i][z]]);
+@
+
+
+1.353
+log
+@*** empty log message ***
+@
+text
+@d30 1
+a30 1
+      b.shiftTiles(cols,"rev");
+@
+
+
+1.352
+log
+@*** empty log message ***
+@
+text
+@d72 10
+a81 3
+         for (int z = 0 ; z < tmparr.length; z++) { 
+            System.out.println("tmparr:" + tmparr[z] + " " + "i:" + board[arr[i][z]]);
+            board[arr[i][z]] = tmparr[z];
+@
+
+
+1.351
+log
+@*** empty log message ***
+@
+text
+@d74 1
+d76 1
+a76 3
+
+
+         System.out.println(Arrays.toString(tmparr));
+@
+
+
+1.350
+log
+@*** empty log message ***
+@
+text
+@d73 1
+a73 1
+            System.out.println("tmparr:" + z + " " + "i:" + arr[i][z]);
+@
+
+
+1.349
+log
+@*** empty log message ***
+@
+text
+@d73 1
+a73 1
+            System.out.println("tmparr:" + z + " " + "i:" + arr[i]);
+@
+
+
+1.348
+log
+@*** empty log message ***
+@
+text
+@d73 1
+a73 1
+            System.out.println("tmparr:" + z + " " + "i:" + i);
+@
+
+
+1.347
+log
+@*** empty log message ***
+@
+text
+@d71 6
+@
+
+
+1.346
+log
+@*** empty log message ***
+@
+text
+@d71 1
+a72 1
+      System.out.println(Arrays.toString(tmparr));
+@
+
+
+1.345
+log
+@*** empty log message ***
+@
+text
+@d65 1
+a65 1
+         for (int z = 0 ; z < arr[i].length; z++) { //reverse has positive increment
+d71 1
+a72 1
+      }
+@
+
+
+1.344
+log
+@*** empty log message ***
+@
+text
+@a65 1
+            //if((z + 1) == arr[i].length) { continue; } //avoid array out of bounds
+a66 1
+            System.out.println(val);
+@
+
+
+1.343
+log
+@*** empty log message ***
+@
+text
+@d66 1
+a66 1
+            if((z + 1) == arr[i].length) { continue; } //avoid array out of bounds
+@
+
+
+1.342
+log
+@*** empty log message ***
+@
+text
+@d70 1
+a70 1
+            tmparr[tmparr_e] = board[z];
+@
+
+
+1.341
+log
+@*** empty log message ***
+@
+text
+@d69 3
+a71 4
+            if(val != 0) {
+               tmparr[tmparr_e] = board[z];
+               tmparr_e++;
+            }
+@
+
+
+1.340
+log
+@*** empty log message ***
+@
+text
+@d68 1
+@
+
+
+1.339
+log
+@*** empty log message ***
+@
+text
+@d67 2
+a68 2
+            System.out.println(board[arr[i][z]]);
+            if(board[z] != 0) {
+@
+
+
+1.338
+log
+@*** empty log message ***
+@
+text
+@d67 1
+a67 1
+            System.out.println(arr[i][z]);
+@
+
+
+1.337
+log
+@*** empty log message ***
+@
+text
+@d67 1
+a67 1
+            System.out.println(z);
+@
+
+
+1.336
+log
+@*** empty log message ***
+@
+text
+@d67 1
+a67 1
+            System.out.println(board[z]);
+@
+
+
+1.335
+log
+@*** empty log message ***
+@
+text
+@d64 1
+@
+
+
+1.334
+log
+@*** empty log message ***
+@
+text
+@d66 1
+a69 1
+               System.out.println(board[z]);
+@
+
+
+1.333
+log
+@*** empty log message ***
+@
+text
+@d69 1
+@
+
+
+1.332
+log
+@*** empty log message ***
+@
+text
+@a60 1
+      int [] tmparr = new int [arr.length];
+d62 1
+d71 1
+a73 1
+      System.out.println(Arrays.toString(tmparr));
+@
+
+
+1.331
+log
+@*** empty log message ***
+@
+text
+@d61 1
+d63 1
+a63 2
+         int [] tmparr = new int [arr.length];
+         int tmparr_el = 0;
+d67 2
+a68 2
+               tmparr[tmparr_el] = board[z];
+               tmparr_el++;
+d72 2
+@
+
+
+1.330
+log
+@*** empty log message ***
+@
+text
+@d1 1
+d3 2
+a70 1
+         System.out.println(tmparr.toString());
+@
+
+
+1.329
+log
+@*** empty log message ***
+@
+text
+@d68 1
+a68 1
+         System.out.println(tmparr);
+@
+
+
+1.328
+log
+@*** empty log message ***
+@
+text
+@d59 13
+d106 1
+@
+
+
+1.327
+log
+@*** empty log message ***
+@
+text
+@d71 2
+a72 3
+                  //System.out.println(a1 + "->" + a2 + " " + v1 + "->" + v2);
+                  //board[a1] = 0;
+                  //board[a2] = v1;
+d87 2
+a88 2
+                  //board[a2] = 0;
+                  //board[a1] = v2;
+@
+
+
+1.326
+log
+@*** empty log message ***
+@
+text
+@d87 1
+a87 1
+               if(v2 == 0) {
+@
+
+
+1.325
+log
+@*** empty log message ***
+@
+text
+@d27 1
+a27 1
+      b.shiftTiles(cols,"forward");
+@
+
+
+1.324
+log
+@*** empty log message ***
+@
+text
+@d86 1
+a86 1
+               System.out.println(a1 + "->" + a2 + " " + v1 + "->" + v2);
+@
+
+
+1.323
+log
+@*** empty log message ***
+@
+text
+@d27 1
+a27 1
+      b.shiftTiles(cols,"rev");
+@
+
+
+1.322
+log
+@*** empty log message ***
+@
+text
+@d57 1
+@
+
+
+1.321
+log
+@*** empty log message ***
+@
+text
+@d68 1
+d71 2
+a72 2
+                  board[a1] = 0;
+                  board[a2] = v1;
+@
+
+
+1.320
+log
+@*** empty log message ***
+@
+text
+@d84 1
+a85 1
+                  System.out.println(a1 + "->" + a2 + " " + v1 + "->" + v2);
+@
+
+
+1.319
+log
+@*** empty log message ***
+@
+text
+@d86 2
+a87 2
+                  board[a2] = 0;
+                  board[a1] = v2;
+@
+
+
+1.318
+log
+@*** empty log message ***
+@
+text
+@d84 1
+a84 1
+               if(v1 == 0) {
+@
+
+
+1.317
+log
+@*** empty log message ***
+@
+text
+@d85 1
+a85 1
+                  //System.out.println(a1 + "->" + a2 + " " + v1 + "->" + v2);
+@
+
+
+1.316
+log
+@*** empty log message ***
+@
+text
+@d84 1
+a84 1
+               if(v2 == 0) {
+d86 2
+a87 2
+                  board[a1] = 0;
+                  board[a2] = v1;
+@
+
+
+1.315
+log
+@*** empty log message ***
+@
+text
+@d27 1
+a27 1
+      b.shiftTiles(cols,"forward");
+@
+
+
+1.314
+log
+@*** empty log message ***
+@
+text
+@d26 2
+a27 1
+      b.combineTiles(cols,"rev");
+d94 1
+a94 1
+   private void combineTiles (int [][] arr, String direction) //WE don't really need direction here
+a116 1
+      shiftTiles(arr,direction);
+@
+
+
+1.313
+log
+@*** empty log message ***
+@
+text
+@d116 1
+a116 1
+      shifTiles(arr,direction);
+@
+
+
+1.312
+log
+@*** empty log message ***
+@
+text
+@d116 1
+a116 1
+      //shiftTiles(arr,direction);
+@
+
+
+1.311
+log
+@*** empty log message ***
+@
+text
+@a46 1
+
+a49 1
+
+a50 1
+
+d93 22
+a114 39
+   private void combineTiles (int [][] arr, String direction) {
+      for (int i = 0; i < arr.length; i++) {
+         if(direction == "forward") {
+            for (int z = arr[i].length - 1; z >= 0; z--) { //forward has reverse increment
+               int current = z;
+               int next ;
+               if((z + 1) == arr[i].length) { continue; } //avoid array out of bounds
+   
+               next = z + 1;
+               int a1 = arr[i][current];
+               int a2 = arr[i][next];
+               int v1 = board[a1];
+               int v2 = board[a2];
+               if(v1 == v2) {
+                  int newval = v1 * 2;
+                  board[a2] = newval;
+                  board[a1] = 0;
+                  z--;
+               }
+            }  
+         } else {
+            for (int z = 0 ; z < arr[i].length; z++) { //reverse has positive increment
+               int current = z;
+               int next ;
+               if((z + 1) == arr[i].length) { continue; } //avoid array out of bounds
+   
+               next = z + 1;
+               int a1 = arr[i][current];
+               int a2 = arr[i][next];
+               int v1 = board[a1];
+               int v2 = board[a2];
+               if(v1 == v2) {
+                  int newval = v1 * 2;
+                  board[a2] = newval;
+                  board[a1] = 0;
+                  z++;
+               }
+            }  
+         }
+d116 1
+a116 1
+      shiftTiles(arr,direction);
+@
+
+
+1.310
+log
+@*** empty log message ***
+@
+text
+@d26 1
+a26 1
+      b.combineTiles(cols,"forward");
+@
+
+
+1.309
+log
+@*** empty log message ***
+@
+text
+@d26 1
+a26 1
+      b.combineTiles(cols,"rev");
+@
+
+
+1.308
+log
+@*** empty log message ***
+@
+text
+@d76 17
+a92 1
+         } 
+@
+
+
+1.307
+log
+@*** empty log message ***
+@
+text
+@d26 1
+a26 1
+      b.combineTiles(cols,"forward");
+@
+
+
+1.306
+log
+@*** empty log message ***
+@
+text
+@d26 1
+a26 1
+      b.combineTiles(rows,"forward");
+@
+
+
+1.305
+log
+@*** empty log message ***
+@
+text
+@a26 1
+      b.shiftTiles(rows,"forward");
+d120 1
+@
+
+
+1.304
+log
+@*** empty log message ***
+@
+text
+@d72 1
+a72 1
+                  System.out.println(a1 + "->" + a2 + " " + v1 + "->" + v2);
+@
+
+
+1.303
+log
+@*** empty log message ***
+@
+text
+@d50 1
+a50 1
+         s +=  "anum{" + x + "}";
+@
+
+
+1.302
+log
+@*** empty log message ***
+@
+text
+@d73 2
+a74 1
+                  //board[a2] = v1;
+@
+
+
+1.301
+log
+@*** empty log message ***
+@
+text
+@d73 1
+@
+
+
+1.300
+log
+@*** empty log message ***
+@
+text
+@d71 1
+a71 1
+               if(v1 == 0) {
+@
+
+
+1.299
+log
+@*** empty log message ***
+@
+text
+@d27 1
+d56 20
+@
+
+
+1.298
+log
+@*** empty log message ***
+@
+text
+@d26 1
+a26 1
+      b.combineTiles(rows,"rev");
+@
+
+
+1.297
+log
+@*** empty log message ***
+@
+text
+@d26 1
+a26 1
+      b.combineTiles(cols,"rev");
+@
+
+
+1.296
+log
+@*** empty log message ***
+@
+text
+@d26 1
+a26 1
+      b.combineTiles(cols,"forward");
+@
+
+
+1.295
+log
+@*** empty log message ***
+@
+text
+@d26 1
+a26 1
+      b.combineTiles(rows,"forward");
+@
+
+
+1.294
+log
+@*** empty log message ***
+@
+text
+@d27 1
+@
+
+
+1.293
+log
+@*** empty log message ***
+@
+text
+@d57 1
+a57 1
+   private void combineTiles (int [][] arr, String direction){
+d59 37
+a95 19
+         //for (int z = 0 ; z < arr[i].length; z++) { //forward
+         for (int z = arr[i].length - 1; z >= 0; z--) { //rev
+            int current = z;
+            int next ;
+            if((z + 1) == arr[i].length) { continue; } //avoid array out of bounds
+
+            next = z + 1;
+            int a1 = arr[i][current];
+            int a2 = arr[i][next];
+            int v1 = board[a1];
+            int v2 = board[a2];
+            if(v1 == v2) {
+               int newval = v1 * 2;
+               board[a2] = newval;
+               board[a1] = 0;
+               z--;
+               System.out.print("c:" + current + " v:" + v1 + "->" + "n:" + next + " v:" + v2 + "newval: " + newval + "\n");
+            }
+         }  
+@
+
+
+1.292
+log
+@*** empty log message ***
+@
+text
+@d26 1
+a26 1
+      b.combineTiles();
+d57 4
+a60 5
+   private void combineTiles (){
+      for (int i = 0; i < rows.length; i++) {
+         //for (int z = 0 ; z < rows[i].length; z++) { //forward
+         for (int z = rows[i].length - 1; z >= 0; z--) { //rev
+            //System.out.println("\tFORWARD:"  + rows[i][z]);
+d63 1
+a63 1
+            if((z + 1) == rows[i].length) { continue; } //avoid array out of bounds
+d66 2
+a67 2
+            int a1 = rows[i][current];
+            int a2 = rows[i][next];
+@
+
+
+1.291
+log
+@*** empty log message ***
+@
+text
+@a43 1
+      int rnum = -1;
+a45 1
+         if(mod == 0) { rnum++; }
+a49 4
+         /*
+         s +=  "col{" + mod + "}";
+         s +=  "row{" + rnum + "}";
+          */
+@
+
+
+1.290
+log
+@*** empty log message ***
+@
+text
+@d26 1
+@
+
+
+1.289
+log
+@*** empty log message ***
+@
+text
+@d62 1
+a62 1
+   private void combineTiles {
+@
+
+
+1.288
+log
+@*** empty log message ***
+@
+text
+@a25 24
+
+      for (int i = 0; i < rows.length; i++) {
+         System.out.println("COL:" + i);
+         //for (int z = 0 ; z < rows[i].length; z++) { //forward
+         for (int z = rows[i].length - 1; z >= 0; z--) { //rev
+            //System.out.println("\tFORWARD:"  + rows[i][z]);
+            int current = z;
+            int next ;
+            if((z + 1) != rows[i].length) {
+               next = z + 1;
+               int a1 = rows[i][current];
+               int a2 = rows[i][next];
+               int v1 = board[a1];
+               int v2 = board[a2];
+               if(v1 == v2) {
+                  int newval = v1 * 2;
+                  board[a2] = newval;
+                  board[a1] = 0;
+                  z--;
+                  System.out.print("c:" + current + " v:" + v1 + "->" + "n:" + next + " v:" + v2 + "newval: " + newval + "\n");
+               }
+            }  
+         }
+      }
+a26 1
+      // while(b.spawnTile()) { System.out.println("----------------------------------------"); b.printBoard(); } 
+d29 1
+d59 25
+@
+
+
+1.287
+log
+@*** empty log message ***
+@
+text
+@d50 1
+@
+
+
+1.286
+log
+@*** empty log message ***
+@
+text
+@d42 2
+@
+
+
+1.285
+log
+@*** empty log message ***
+@
+text
+@d42 1
+a42 1
+                  z++;
+@
+
+
+1.284
+log
+@*** empty log message ***
+@
+text
+@d42 1
+@
+
+
+1.283
+log
+@*** empty log message ***
+@
+text
+@d40 4
+a43 1
+               System.out.print("c:" + current + " v:" + v1 + "->" + "n:" + next + " v:" + v2 + "\n");
+@
+
+
+1.282
+log
+@*** empty log message ***
+@
+text
+@a39 2
+
+
+@
+
+
+1.281
+log
+@*** empty log message ***
+@
+text
+@d38 2
+d41 2
+a42 1
+               System.out.print("c:" + current + " v:" + board[a1] + "->" + "n:" + next + " v:" + board[a2] + "\n");
+@
+
+
+1.280
+log
+@*** empty log message ***
+@
+text
+@d36 4
+a39 1
+               System.out.print("c:" + current + " v:" + rows[i][current] + "->" + "n:" + next + " v:" + rows[i][next] + "\n");
+@
+
+
+1.279
+log
+@*** empty log message ***
+@
+text
+@d36 1
+a36 1
+               System.out.print("c:" + current + "v:" + rows[i][current] + " " + "n:" + next + "v:" + rows[i][next] + "\n");
+@
+
+
+1.278
+log
+@*** empty log message ***
+@
+text
+@d36 1
+a36 1
+               System.out.print("c:" + current + " " + "n:" + next + "\n");
+@
+
+
+1.277
+log
+@*** empty log message ***
+@
+text
+@d36 2
+a37 4
+            }   else {
+               next = 99;
+            }
+            System.out.print("c:" + current + " " + "n:" + next + "\n");
+@
+
+
+1.276
+log
+@*** empty log message ***
+@
+text
+@d29 2
+a30 2
+         //for (int z = rows[i].length - 1; z >= 0; z--) { //rev
+         for (int z = 0 ; z < rows[i].length; z++) { //forward
+@
+
+
+1.275
+log
+@*** empty log message ***
+@
+text
+@d39 1
+a39 1
+            System.out.print("row_length:" + rows[i].length + "c:" + current + " " + "n:" + next + "\n");
+@
+
+
+1.274
+log
+@*** empty log message ***
+@
+text
+@d36 3
+a38 1
+            } 
+@
+
+
+1.273
+log
+@*** empty log message ***
+@
+text
+@d36 1
+a36 3
+            } else {
+               next = 99;
+            }
+@
+
+
+1.272
+log
+@*** empty log message ***
+@
+text
+@d34 3
+a36 1
+            if((z + 1) == rows[i].length) {
+a37 2
+            } else {
+               next = z + 1;
+@
+
+
+1.271
+log
+@*** empty log message ***
+@
+text
+@d34 1
+a34 1
+            if(z == rows[i].length) {
+@
+
+
+1.270
+log
+@*** empty log message ***
+@
+text
+@d39 1
+a39 1
+            System.out.print("c:" + current + " " + "n:" + next + "\n");
+@
+
+
+1.269
+log
+@*** empty log message ***
+@
+text
+@a38 1
+
+@
+
+
+1.268
+log
+@*** empty log message ***
+@
+text
+@d34 3
+a36 1
+            if(z < rows[i].length) {
+a37 2
+            } else {
+               next = 99;
+@
+
+
+1.267
+log
+@*** empty log message ***
+@
+text
+@d33 1
+d35 1
+a35 1
+               int next = z + 1;
+d37 1
+a37 1
+               int next = 99;
+@
+
+
+1.266
+log
+@*** empty log message ***
+@
+text
+@d36 1
+@
+
+
+1.265
+log
+@*** empty log message ***
+@
+text
+@d33 4
+a36 1
+            int next = z + 1;
+@
+
+
+1.264
+log
+@*** empty log message ***
+@
+text
+@d31 5
+a35 1
+            System.out.println("\tFORWARD:"  + rows[i][z]);
+@
+
+
+1.263
+log
+@*** empty log message ***
+@
+text
+@d31 1
+a31 2
+            String pref = "FORWARD" ;
+            System.out.println("\t" + pref + ":" + rows[i][z]);
+@
+
+
+1.262
+log
+@*** empty log message ***
+@
+text
+@d29 1
+d31 1
+a31 2
+         //for (int z = rows[i].length - 1; z >= 0; z--) { //rev
+         String pref = "FORWARD" ;
+@
+
+
+1.261
+log
+@*** empty log message ***
+@
+text
+@d35 1
+a35 6
+      /*
+      while(b.spawnTile()) {
+         System.out.println("----------------------------------------");
+         b.printBoard();
+      }
+       */
+a36 1
+
+@
+
+
+1.260
+log
+@*** empty log message ***
+@
+text
+@d30 1
+a31 1
+         //for (int z = rows[i].length - 1; z >= 0; z--) { //rev
+@
+
+
+1.259
+log
+@*** empty log message ***
+@
+text
+@d29 4
+a32 7
+         //rev
+         for (int z = rows[i].length - 1; z >= 0; z--) {
+            System.out.println("\tREV:" + rows[i][z]);
+         }
+         //forward
+         for (int z = 0 ; z < rows[i].length; z++) {
+            System.out.println("\tFORWARD:" + rows[i][z]);
+@
+
+
+1.258
+log
+@*** empty log message ***
+@
+text
+@d31 1
+a31 1
+            System.out.println("\tREV:" + rows[z]);
+d35 1
+a35 1
+            System.out.println("\tFORWARD:" + rows[z]);
+@
+
+
+1.257
+log
+@*** empty log message ***
+@
+text
+@d30 2
+a31 2
+         for (int z = rows.length - 1; z >= 0; z--) {
+            System.out.println("\tREV:" + z);
+d34 2
+a35 2
+         for (int z = 0 ; z < rows.length; z++) {
+            System.out.println("\tFORWARD:" + z);
+@
+
+
+1.256
+log
+@*** empty log message ***
+@
+text
+@d28 1
+a28 1
+         System.out.println(i);
+@
+
+
+1.255
+log
+@*** empty log message ***
+@
+text
+@d31 1
+a31 1
+            System.out.println("\t" + z);
+d35 1
+a35 1
+            System.out.println("\t" + z);
+@
+
+
+1.254
+log
+@*** empty log message ***
+@
+text
+@d29 1
+d31 4
+@
+
+
+1.253
+log
+@*** empty log message ***
+@
+text
+@d29 1
+a29 1
+         for (int z = rows.length - 1; z > 0; z--) {
+@
+
+
+1.252
+log
+@*** empty log message ***
+@
+text
+@d29 1
+a29 1
+         for (int z = rows.length; z > 0; z--) {
+@
+
+
+1.251
+log
+@*** empty log message ***
+@
+text
+@d29 1
+a29 1
+         for (int z = rows.length; z >= 0; z--) {
+@
+
+
+1.250
+log
+@*** empty log message ***
+@
+text
+@d29 1
+a29 1
+         for (int z = rows.length; z > 0; z--) {
+@
+
+
+1.249
+log
+@*** empty log message ***
+@
+text
+@d29 1
+a29 1
+         for (int z = 0; z < rows.length; z++) {
+@
+
+
+1.248
+log
+@*** empty log message ***
+@
+text
+@d29 3
+@
+
+
+1.247
+log
+@*** empty log message ***
+@
+text
+@d26 4
+@
+
+
+1.246
+log
+@*** empty log message ***
+@
+text
+@d56 1
+d59 1
+@
+
+
+1.245
+log
+@*** empty log message ***
+@
+text
+@d25 1
+@
+
+
+1.244
+log
+@*** empty log message ***
+@
+text
+@d15 2
+a16 2
+      static int percOfTwo = 50;
+      static boolean DEBUG = true;
+d25 1
+a25 1
+      System.out.print("BoardSize:" + boardSize + "\n" );
+a29 1
+      /*
+@
+
+
+1.243
+log
+@*** empty log message ***
+@
+text
+@d130 1
+a130 1
+         for (int i = 1; i < board.length; i++) {
+@
+
+
+1.242
+log
+@*** empty log message ***
+@
+text
+@d130 1
+a130 1
+         for (int i = 0; i < board.length; i++) {
+@
+
+
+1.241
+log
+@*** empty log message ***
+@
+text
+@a121 1
+
+d127 6
+@
+
+
+1.240
+log
+@*** empty log message ***
+@
+text
+@d16 1
+d124 1
+a124 5
+      board = new int [blen]; //active board
+      for(int x = 0; x < board.length; x++ ) {
+         board[x] = 0;
+      }
+
+@
+
+
+1.239
+log
+@*** empty log message ***
+@
+text
+@a1 2
+
+
+@
+
+
+1.238
+log
+@*** empty log message ***
+@
+text
+@a26 1
+      /*
+d31 1
+d48 1
+a48 1
+   public void printBoard() {
+@
+
+
+1.237
+log
+@*** empty log message ***
+@
+text
+@d27 1
+d32 1
+@
+
+
+1.236
+log
+@*** empty log message ***
+@
+text
+@a0 1
+import java.util.Arrays;
+a131 4
+      System.out.println(Arrays.deepToString(cols));
+      System.out.println(Arrays.deepToString(rows));
+      /*
+       */
+@
+
+
+1.235
+log
+@*** empty log message ***
+@
+text
+@d16 2
+a17 2
+      static int[][] rows = new int[boardSize][boardSize]; //row list and order
+      static int[][] cols = new int[boardSize][boardSize]; //column list and order
+d120 2
+@
+
+
+1.234
+log
+@*** empty log message ***
+@
+text
+@d1 1
+a130 1
+      /*
+d133 1
+@
+
+
+1.233
+log
+@*** empty log message ***
+@
+text
+@a1 1
+import java.util.Arrays;
+d15 2
+a119 3
+      int[][] rows = new int[boardSize][boardSize];
+      int[][] cols = new int[boardSize][boardSize];
+
+d130 1
+a130 1
+
+d133 1
+@
+
+
+1.232
+log
+@*** empty log message ***
+@
+text
+@d133 2
+a134 2
+      System.out.println(Arrays.toString(rows));
+      System.out.println(Arrays.toString(rows));
+@
+
+
+1.231
+log
+@*** empty log message ***
+@
+text
+@d133 2
+a134 2
+      System.out.println(rows.toString());
+      System.out.println(cols.toString());
+@
+
+
+1.230
+log
+@*** empty log message ***
+@
+text
+@d2 1
+@
+
+
+1.229
+log
+@*** empty log message ***
+@
+text
+@d132 2
+a133 2
+      System.out.println(rows);
+      System.out.println(cols);
+@
+
+
+1.228
+log
+@*** empty log message ***
+@
+text
+@d118 3
+d128 2
+a129 4
+         System.out.print("Row" + v + ":");
+         System.out.println(getGroup(v,"row").toString());
+         System.out.print("Col" + v + ":");
+         System.out.println(getGroup(v,"col").toString());
+d131 3
+@
+
+
+1.227
+log
+@*** empty log message ***
+@
+text
+@a1 1
+import java.util.ArrayList;
+d13 3
+a15 3
+   static int boardSize; //e.g 4=4x4 , 5=5x5
+   static int [] board ; //array holding playing board
+   static int percOfTwo = 50;
+a99 1
+      //int [] arr = new int [boardSize];
+a102 1
+      //ArrayList<int> arr = new ArrayList<int>();
+a111 7
+
+      System.out.println(arr.length);
+      for (int i = 0; i < arr.length; i++) {
+         System.out.println(arr[i]); 
+      }
+
+      
+d117 1
+d126 1
+a126 1
+         System.out.println(getGroup(v,"row"));
+d128 1
+a128 1
+         System.out.println(getGroup(v,"col"));
+@
+
+
+1.226
+log
+@*** empty log message ***
+@
+text
+@d101 1
+d117 3
+@
+
+
+1.225
+log
+@*** empty log message ***
+@
+text
+@d115 3
+@
+
+
+1.224
+log
+@*** empty log message ***
+@
+text
+@d100 3
+a102 1
+   private static Integer [] getGroup (int row,String type) {
+d104 1
+a104 1
+      ArrayList<Integer> arr = new ArrayList<Integer>();
+d109 1
+a109 1
+            if(rnum == row) { arr.add(x); }
+d111 1
+a111 1
+            if(mod == row) { arr.add(x); }
+d115 1
+a115 2
+      return arr.toArray(new Integer [] {});
+
+@
+
+
+1.223
+log
+@*** empty log message ***
+@
+text
+@d99 2
+a100 1
+   private static ArrayList<Integer> getGroup (int row,String type) {
+d112 3
+a114 1
+      return arr;
+@
+
+
+1.222
+log
+@*** empty log message ***
+@
+text
+@d123 1
+d125 2
+@
+
+
+1.221
+log
+@*** empty log message ***
+@
+text
+@d99 1
+a99 2
+   private static ArrayList<Integer> getRow  (int row) {
+      //ArrayList<Integer> rows = new ArrayList<Integer>(); //array holding references to rows
+d105 5
+a109 1
+         if(rnum == row) { arr.add(x); }
+d123 1
+a123 1
+         System.out.println(getRow(v));
+@
+
+
+1.220
+log
+@*** empty log message ***
+@
+text
+@a15 2
+   static ArrayList<Integer> rows = new ArrayList<Integer>(); //array holding references to rows
+   static ArrayList<Integer> cols = new ArrayList<Integer>(); //array holding references to cols
+a110 14
+   private static void addRowCol (ArrayList<Integer> arr,int v) {
+      int rnum = -1;
+      for(int x = 0; x < board.length; x++) {
+         int mod = (x % boardSize) ;
+         if(mod == 0) { rnum++; }
+
+         if ( arr.equals(cols)) {
+            if(mod == v) { arr.add(x); }
+         } else {
+            if(rnum == v) { arr.add(x); }
+         }
+      }
+   }
+
+a120 2
+         //addRowCol(rows,v);
+         //addRowCol(cols,v);
+a121 25
+
+
+      //Add columns list
+
+
+      System.out.print("ROW:");
+      System.out.println(rows);
+      System.out.print("COL:");
+      System.out.println(cols);
+
+      /*
+       */
+
+
+            /*
+            if(z == col) cols.add(x);
+            if(z == row) rows.add(x);
+            String s = "\t";
+            s += "z:" + z + " " ;
+            s += "bnum:" + x + " ";
+            s += "col:" + col + " " ;
+            s += "row:" + row + " ";
+            System.out.print(s + "\n");
+             */
+
+@
+
+
+1.219
+log
+@*** empty log message ***
+@
+text
+@d101 12
+d136 3
+a138 2
+         addRowCol(rows,v);
+         addRowCol(cols,v);
+@
+
+
+1.218
+log
+@*** empty log message ***
+@
+text
+@a103 2
+         //System.out.println("Is row:" + arr.equals(rows));
+         //System.out.println("Is Col:" + arr.equals(cols));
+@
+
+
+1.217
+log
+@*** empty log message ***
+@
+text
+@d109 1
+a109 1
+         if ( arr.equals(rows)) {
+@
+
+
+1.216
+log
+@*** empty log message ***
+@
+text
+@d104 2
+a105 2
+         System.out.println("Is row:" + arr.equals(rows));
+         System.out.println("Is Col:" + arr.equals(cols));
+d108 6
+a113 1
+         if(mod == v) { arr.add(x); }
+@
+
+
+1.215
+log
+@*** empty log message ***
+@
+text
+@d102 1
+d104 2
+d107 1
+a134 3
+      int rnum = -1;
+         if(mod == 0) { rnum++; }
+         int row = rnum;
+@
+
+
+1.214
+log
+@*** empty log message ***
+@
+text
+@d101 7
+d116 5
+a122 3
+      for(int x = 0; x < board.length; x++) {
+         int mod = (x % boardSize) ;
+         if(mod == 0) { cols.add(x); }
+a123 1
+      }
+@
+
+
+1.213
+log
+@*** empty log message ***
+@
+text
+@d113 1
+a113 1
+         if(mod == 0) { cols.add(mod); }
+@
+
+
+1.212
+log
+@*** empty log message ***
+@
+text
+@d109 2
+a110 1
+      int rnum = -1;
+d113 12
+a124 1
+         int col = mod ;
+d126 1
+a126 2
+         if(mod == 0) { rnum++; }
+
+a137 4
+      System.out.print("ROW:");
+      System.out.println(rows);
+      System.out.print("COL:");
+      System.out.println(cols);
+a139 1
+      }
+@
+
+
+1.211
+log
+@*** empty log message ***
+@
+text
+@a31 2
+      /*
+       */
+d114 2
+a116 1
+         if(mod == 0) { rnum++; }
+a117 1
+         for(int z = 0; z < boardSize; z++) {
+a131 1
+         }
+@
+
+
+1.210
+log
+@*** empty log message ***
+@
+text
+@a27 1
+      /*
+d32 1
+@
+
+
+1.209
+log
+@*** empty log message ***
+@
+text
+@d120 1
+d129 4
+a132 1
+            /*
+a136 4
+      System.out.print("ROW:");
+      System.out.println(rows);
+      System.out.print("COL:");
+      System.out.println(cols);
+@
+
+
+1.208
+log
+@*** empty log message ***
+@
+text
+@d120 2
+a121 2
+            if(z == col) cols.add(col);
+            if(z == row) rows.add(row);
+@
+
+
+1.207
+log
+@*** empty log message ***
+@
+text
+@d111 1
+a111 1
+      int rnum = 0;
+@
+
+
+1.206
+log
+@*** empty log message ***
+@
+text
+@d111 1
+a111 1
+      int rnum = -1;
+@
+
+
+1.205
+log
+@*** empty log message ***
+@
+text
+@d111 1
+a111 1
+      int rnum = 0;
+d117 1
+a130 1
+         if(mod == 0) { rnum++; }
+@
+
+
+1.204
+log
+@*** empty log message ***
+@
+text
+@d123 1
+a123 1
+            s += "x:" + x + " ";
+@
+
+
+1.203
+log
+@*** empty log message ***
+@
+text
+@a120 1
+            /*
+d127 1
+@
+
+
+1.202
+log
+@*** empty log message ***
+@
+text
+@d119 2
+a120 2
+            if(z == col) cols.add(x);
+            if(z == row) rows.add(x);
+@
+
+
+1.201
+log
+@*** empty log message ***
+@
+text
+@d119 2
+a120 2
+            if(z == col) cols.add(z);
+            if(z == row) rows.add(z);
+@
+
+
+1.200
+log
+@*** empty log message ***
+@
+text
+@d121 1
+d128 1
+@
+
+
+1.199
+log
+@*** empty log message ***
+@
+text
+@a126 2
+            /*
+            */
+@
+
+
+1.198
+log
+@*** empty log message ***
+@
+text
+@a120 1
+            /*
+d127 1
+@
+
+
+1.197
+log
+@*** empty log message ***
+@
+text
+@d119 2
+a120 2
+            if(z == col) cols.add(x);
+            if(z == row) rows.add(x);
+@
+
+
+1.196
+log
+@*** empty log message ***
+@
+text
+@a131 4
+         System.out.print("ROW:");
+         System.out.println(rows);
+         System.out.print("COL:");
+         System.out.println(cols);
+d133 4
+@
+
+
+1.195
+log
+@*** empty log message ***
+@
+text
+@d119 2
+a120 2
+            if(z == col) cols.add(col);
+            if(z == row) rows.add(col);
+@
+
+
+1.194
+log
+@*** empty log message ***
+@
+text
+@d121 1
+d128 1
+a128 1
+
+d131 5
+@
+
+
+1.193
+log
+@*** empty log message ***
+@
+text
+@d119 2
+@
+
+
+1.192
+log
+@*** empty log message ***
+@
+text
+@d2 1
+a2 1
+import java.util.*;
+d16 2
+a17 2
+   static int [] rows; //array holding references to rows
+   static int [] cols; //array holding references to cols
+a110 3
+      rows = new int [blen];
+      cols = new int [blen];
+
+d116 1
+a116 5
+         //ArrayList arrlist = new ArrayList<Integer>();
+         //arrlist.add(1);
+         //arrlist.add(2);
+         
+         ArrayList arrlist = new ArrayList();
+@
+
+
+1.191
+log
+@*** empty log message ***
+@
+text
+@d2 2
+d119 6
+a124 3
+         ArrayList arrlist = new ArrayList<Integer>();
+         arrlist.add(1);
+         arrlist.add(2);
+@
+
+
+1.190
+log
+@*** empty log message ***
+@
+text
+@d117 3
+@
+
+
+1.189
+log
+@*** empty log message ***
+@
+text
+@d119 4
+a122 4
+            s += "z:" + z ;
+            s += "x:" + x ;
+            s += "col:" + col ;
+            s += "row:" + row ;
+@
+
+
+1.188
+log
+@*** empty log message ***
+@
+text
+@d112 1
+a112 1
+      int rnum = -1;
+@
+
+
+1.187
+log
+@*** empty log message ***
+@
+text
+@d117 7
+a123 2
+         for(int z = 0; z <= boardSize; z++) {
+            System.out.print("z:" + z + " x:" + x + "\n");
+@
+
+
+1.186
+log
+@*** empty log message ***
+@
+text
+@d26 1
+d31 1
+d118 1
+@
+
+
+1.185
+log
+@*** empty log message ***
+@
+text
+@d115 3
+a119 5
+
+
+      /*
+      int rnum = -1;
+       */
+@
+
+
+1.184
+log
+@*** empty log message ***
+@
+text
+@a114 1
+
+a115 1
+         if(mod == (boardSize - 1)) { }
+@
+
+
+1.183
+log
+@*** empty log message ***
+@
+text
+@a109 2
+
+      /*
+d113 3
+d119 4
+@
+
+
+1.182
+log
+@*** empty log message ***
+@
+text
+@d15 1
+d106 13
+@
+
+
+1.181
+log
+@*** empty log message ***
+@
+text
+@d45 1
+a45 1
+      int rnum = 0;
+@
+
+
+1.180
+log
+@*** empty log message ***
+@
+text
+@d48 1
+a48 1
+         if(mod - 1 == boardSize) { rnum++; }
+@
+
+
+1.179
+log
+@*** empty log message ***
+@
+text
+@d48 1
+a48 1
+         if(mod + 1 == boardSize) { rnum++; }
+@
+
+
+1.178
+log
+@*** empty log message ***
+@
+text
+@d48 1
+a48 1
+         if(mod == boardSize) { rnum++; }
+@
+
+
+1.177
+log
+@*** empty log message ***
+@
+text
+@d45 1
+a45 1
+      int rnum = -1;
+d48 1
+a48 1
+         if(mod == 0) { rnum++; }
+@
+
+
+1.176
+log
+@*** empty log message ***
+@
+text
+@d14 1
+@
+
+
+1.175
+log
+@*** empty log message ***
+@
+text
+@d44 1
+a44 1
+      int rnum = 0;
+d47 1
+a47 1
+         if(mod == (boardSize - 1)) { rnum++; }
+@
+
+
+1.174
+log
+@*** empty log message ***
+@
+text
+@d47 1
+a47 1
+         if(mod == (boardSize - 0)) { rnum++; }
+@
+
+
+1.173
+log
+@*** empty log message ***
+@
+text
+@d47 1
+a47 1
+         if(mod == (boardSize - 1)) { rnum++; }
+@
+
+
+1.172
+log
+@*** empty log message ***
+@
+text
+@d47 1
+a47 1
+         if(mod == (boardSize)) { rnum++; }
+@
+
+
+1.171
+log
+@*** empty log message ***
+@
+text
+@d47 1
+a47 1
+         if(mod == (boardSize - 1)) { rnum++; }
+@
+
+
+1.170
+log
+@*** empty log message ***
+@
+text
+@d44 1
+d47 3
+a49 1
+         String s = "";
+d53 3
+d57 1
+a57 5
+         if(mod == (boardSize - 1)) {
+            System.out.print("\t" + s + "\n" );
+         } else {
+            System.out.print("\t" + s);
+         }
+@
+
+
+1.169
+log
+@*** empty log message ***
+@
+text
+@d49 1
+a49 1
+         s +=  "mod{" + mod + "}";
+@
+
+
+1.168
+log
+@*** empty log message ***
+@
+text
+@d49 1
+@
+
+
+1.167
+log
+@*** empty log message ***
+@
+text
+@d47 2
+a48 2
+         s +=  "x{" + x + "}";
+         s +=  "v{" + board[x] + "}";
+@
+
+
+1.166
+log
+@*** empty log message ***
+@
+text
+@a47 1
+         s += " ";
+@
+
+
+1.165
+log
+@*** empty log message ***
+@
+text
+@d48 1
+@
+
+
+1.164
+log
+@*** empty log message ***
+@
+text
+@d46 4
+a49 1
+         String s =  "x{" + x + "}==v{" + board[x] + "}";
+@
+
+
+1.163
+log
+@*** empty log message ***
+@
+text
+@d24 4
+a27 1
+      while(b.spawnTile()) { b.printBoard(); System.out.println("----------------------------------------");}
+@
+
+
+1.162
+log
+@*** empty log message ***
+@
+text
+@d24 1
+a24 1
+      while(b.spawnTile()) { b.printBoard(); System.out.println("");}
+@
+
+
+1.161
+log
+@*** empty log message ***
+@
+text
+@d24 1
+a24 1
+      while(b.spawnTile()) { b.printBoard(); }
+@
+
+
+1.160
+log
+@*** empty log message ***
+@
+text
+@d23 1
+a40 1
+      System.out.print(boardSize + "\n" );
+@
+
+
+1.159
+log
+@*** empty log message ***
+@
+text
+@d23 1
+a23 3
+      while(b.spawnTile()) {
+         b.printBoard();
+      }
+@
+
+
+1.158
+log
+@*** empty log message ***
+@
+text
+@d23 3
+a25 2
+      b.spawnTile();
+      b.printBoard();
+@
+
+
+1.157
+log
+@*** empty log message ***
+@
+text
+@d14 1
+d55 5
+a59 1
+      return rnum;
+@
+
+
+1.156
+log
+@*** empty log message ***
+@
+text
+@d52 5
+d59 1
+d63 1
+a63 1
+               board[rnum] = 2;
+@
+
+
+1.155
+log
+@*** empty log message ***
+@
+text
+@a52 6
+      //System.out.println( Math.random() );
+
+      int z = new Random().nextInt(board.length);
+      System.out.println("rand: " + z);
+
+
+d54 6
+a59 3
+         for(int i : board) {
+            if( i == 0) board[i] = 2;
+            return true;
+@
+
+
+1.154
+log
+@*** empty log message ***
+@
+text
+@d83 2
+a84 1
+      board = new int [board.length]; //active board
+@
+
+
+1.153
+log
+@*** empty log message ***
+@
+text
+@a12 1
+   static int b; //total array size boardSize * boardSize
+d55 1
+a55 1
+      int z = new Random().nextInt(boardSize);
+d83 2
+a84 3
+      b = boardSize * boardSize;
+      board = new int [b]; //active board
+      for(int x = 0; x < b; x++ ) {
+@
+
+
+1.152
+log
+@*** empty log message ***
+@
+text
+@d57 1
+a57 1
+      System.out.println(z);
+@
+
+
+1.151
+log
+@*** empty log message ***
+@
+text
+@d56 1
+a56 1
+      int z = new Random().nextInt();
+@
+
+
+1.150
+log
+@*** empty log message ***
+@
+text
+@d1 2
+d54 5
+a58 1
+      System.out.println( Math.random() );
+@
+
+
+1.149
+log
+@*** empty log message ***
+@
+text
+@d52 1
+a52 1
+      //System.out.println( Math.random() );
+@
+
+
+1.148
+log
+@*** empty log message ***
+@
+text
+@d52 2
+d62 1
+@
+
+
+1.147
+log
+@*** empty log message ***
+@
+text
+@d21 1
+d49 10
+@
+
+
+1.146
+log
+@*** empty log message ***
+@
+text
+@d41 1
+a41 1
+         String s =  "x{" + x + "}\t=v{" + board[x] + "}";
+@
+
+
+1.145
+log
+@*** empty log message ***
+@
+text
+@d41 1
+a41 1
+         String s =  "x{" + x + "}v{" + board[x] + "}";
+@
+
+
+1.144
+log
+@*** empty log message ***
+@
+text
+@d41 1
+a41 2
+         String s =  "x{" + x + "}mod{" + mod + "}";
+         //String s =  "x{" + x + "}mod{" + mod + "}v{" + board[x] + "}";
+@
+
+
+1.143
+log
+@*** empty log message ***
+@
+text
+@d20 1
+a20 1
+      Board2048 b = new Board2048(7);
+@
+
+
+1.142
+log
+@*** empty log message ***
+@
+text
+@d20 1
+a20 1
+      Board2048 b = new Board2048(6);
+@
+
+
+1.141
+log
+@*** empty log message ***
+@
+text
+@d44 1
+a44 1
+            System.out.print(s + "\n" );
+@
+
+
+1.140
+log
+@*** empty log message ***
+@
+text
+@d20 1
+a20 1
+      Board2048 b = new Board2048(5);
+@
+
+
+1.139
+log
+@*** empty log message ***
+@
+text
+@d40 1
+a40 3
+         System.out.println( (boardSize - 1) );
+         int mod = (x % 4) ;
+         /*
+d42 1
+a42 1
+         String s =  "x{" + x + "}mod{" + mod + "}v{" + board[x] + "}";
+a47 1
+          */
+@
+
+
+1.138
+log
+@*** empty log message ***
+@
+text
+@d40 1
+a41 1
+         System.out.println( (boardSize - 1) );
+@
+
+
+1.137
+log
+@*** empty log message ***
+@
+text
+@d41 2
+a42 2
+         System.out.println( (mod == (boardSize - 1)) );
+         //String s =  "x{" + x + "}mod{" + mod + "}v{" + board[x] + "}";
+d44 1
+d50 1
+@
+
+
+1.136
+log
+@*** empty log message ***
+@
+text
+@d41 1
+@
+
+
+1.135
+log
+@*** empty log message ***
+@
+text
+@d38 1
+a42 1
+         System.out.print(boardSize + "\n" );
+@
+
+
+1.134
+log
+@*** empty log message ***
+@
+text
+@d42 1
+@
+
+
+1.133
+log
+@*** empty log message ***
+@
+text
+@d42 1
+a42 1
+         if(mod == 3) {
+@
+
+
+1.132
+log
+@*** empty log message ***
+@
+text
+@d20 1
+a20 1
+      Board2048 b = new Board2048(4);
+@
+
+
+1.131
+log
+@*** empty log message ***
+@
+text
+@d42 2
+a43 2
+         if(mod == 1) {
+            System.out.print("\n" + s);
+@
+
+
+1.130
+log
+@*** empty log message ***
+@
+text
+@d40 2
+a41 1
+         String s =  "x{" + x + "}mod{" + mod + "}v{" + board[x] + "}";
+@
+
+
+1.129
+log
+@*** empty log message ***
+@
+text
+@d40 1
+a40 1
+         String s =  "x->" + x + " mod->" + mod + " v->" + board[x];
+@
+
+
+1.128
+log
+@*** empty log message ***
+@
+text
+@d39 1
+a39 1
+         int mod = (x % 4) + 1;
+d41 1
+a41 1
+         if(mod == 0) {
+@
+
+
+1.127
+log
+@*** empty log message ***
+@
+text
+@d39 1
+a39 1
+         int mod = (x % 4) ;
+d41 1
+a41 1
+         if(mod == 1) {
+@
+
+
+1.126
+log
+@*** empty log message ***
+@
+text
+@d40 1
+a40 1
+         String s =  "x:" + x + " mod:" + mod + " v:" + board[x];
+@
+
+
+1.125
+log
+@*** empty log message ***
+@
+text
+@d44 1
+a44 1
+            System.out.print(s);
+@
+
+
+1.124
+log
+@*** empty log message ***
+@
+text
+@d40 1
+a40 1
+         String s =  "x: " + x + " mod: " + mod + " " + board[x];
+@
+
+
+1.123
+log
+@*** empty log message ***
+@
+text
+@d40 1
+a40 1
+         String s =  "x: " + x + "mod: " + mod + " " + board[x];
+@
+
+
+1.122
+log
+@*** empty log message ***
+@
+text
+@d40 6
+a45 1
+         System.out.println("x:" + x + "mod: " + mod + " " + board[x]);
+@
+
+
+1.121
+log
+@*** empty log message ***
+@
+text
+@a20 1
+      System.out.println(b.getFree());
+d39 2
+a40 5
+         if((x % 4) == 0) {
+            System.out.println("x:" + x + " " + board[x]);
+         } else {
+            System.out.print("x:" + x + " " + board[x]);
+         }
+@
+
+
+1.120
+log
+@*** empty log message ***
+@
+text
+@d43 1
+a43 1
+            System.out.print("x:" + x " " + board[x]);
+@
+
+
+1.119
+log
+@*** empty log message ***
+@
+text
+@d42 2
+@
+
+
+1.118
+log
+@*** empty log message ***
+@
+text
+@d22 1
+@
+
+
+1.117
+log
+@*** empty log message ***
+@
+text
+@d24 1
+@
+
+
+1.116
+log
+@*** empty log message ***
+@
+text
+@a17 1
+
+d38 3
+a40 1
+         System.out.println("x:" + x + " " + board[x]);
+@
+
+
+1.115
+log
+@*** empty log message ***
+@
+text
+@d19 1
+a41 1
+
+@
+
+
+1.114
+log
+@*** empty log message ***
+@
+text
+@d5 2
+a6 2
+//		Class made to setup the 2048 Game Board and corresponding 
+//		Tiles and methods associated with it
+a12 1
+
+@
+
+
+1.113
+log
+@*** empty log message ***
+@
+text
+@d14 1
+@
+
+
+1.112
+log
+@*** empty log message ***
+@
+text
+@a8 1
+
+@
+
+
+1.111
+log
+@*** empty log message ***
+@
+text
+@d21 2
+a22 2
+      new Board2048(4);
+      System.out.println(getFree());
+d48 1
+a48 1
+   public static int getFree() { //Get Blank / Free Tiles
+@
+
+
+1.110
+log
+@*** empty log message ***
+@
+text
+@d15 1
+a15 1
+   /* 
+@
+
+
+1.109
+log
+@*** empty log message ***
+@
+text
+@d15 1
+a15 1
+   /** 
+@
+
+
+1.108
+log
+@*** empty log message ***
+@
+text
+@a18 1
+   blarg
+@
+
+
+1.107
+log
+@*** empty log message ***
+@
+text
+@d19 1
+@
+
+
+1.106
+log
+@*** empty log message ***
+@
+text
+@d21 1
+a21 1
+      new Board2048(20);
+@
+
+
+1.105
+log
+@*** empty log message ***
+@
+text
+@d43 1
+@
+
+
+1.104
+log
+@*** empty log message ***
+@
+text
+@d21 1
+a21 1
+      new Board2048(4);
+@
+
+
+1.103
+log
+@*** empty log message ***
+@
+text
+@d9 1
+d55 1
+@
+
+
+1.102
+log
+@*** empty log message ***
+@
+text
+@d15 3
+a17 3
+    * Main Class, nothing special here
+    * @@param args Command line arguments
+    * */
+d35 1
+a35 2
+
+   /* Print Board for debugging */
+@
+
+
+1.101
+log
+@*** empty log message ***
+@
+text
+@d44 1
+@
+
+
+1.100
+log
+@*** empty log message ***
+@
+text
+@d43 3
+a45 4
+   /* Get Free Tiles */
+   /** Get Free (null/0) tile count
+    * @@return int number of null/free tiles
+    * */
+@
+
+
+1.99
+log
+@*** empty log message ***
+@
+text
+@d45 1
+a45 1
+    * @@returns int number of null/free tiles
+@
+
+
+1.98
+log
+@*** empty log message ***
+@
+text
+@d10 2
+a11 3
+   
+   static int boardSize; //boardsize
+   static int b; //total array [0 to x]
+d18 1
+a18 1
+   
+d24 1
+d35 2
+d43 5
+a47 1
+   private static int getFree() { //Get Blank / Free Tiles
+@
+
+
+1.97
+log
+@*** empty log message ***
+@
+text
+@d16 2
+a17 4
+    * This is a test
+    * hahah no... but eriously what is this thing 
+    *
+    * @@param args something someting
+@
+
+
+1.96
+log
+@*** empty log message ***
+@
+text
+@d19 1
+a19 1
+    * To See blarg @@param args something someting
+@
+
+
+1.95
+log
+@*** empty log message ***
+@
+text
+@a16 1
+    * To See blarg @@param args
+d18 2
+@
+
+
+1.94
+log
+@*** empty log message ***
+@
+text
+@d17 1
+a17 1
+    * To See blarg @@blarg @@blarg
+@
+
+
+1.93
+log
+@*** empty log message ***
+@
+text
+@d15 5
+a19 3
+  /** @@param args command line arguments <br>
+   * Blarg
+   * */ 
+@
+
+
+1.92
+log
+@*** empty log message ***
+@
+text
+@d15 3
+a17 6
+   /** This is a document <br>
+    and another  <br>
+    and another <br>
+    and another <br>
+   and another <br>
+   */
+@
+
+
+1.91
+log
+@*** empty log message ***
+@
+text
+@d15 5
+a19 5
+   /** This is a document
+    and another 
+    and another
+    and another
+   and another
+@
+
+
+1.90
+log
+@*** empty log message ***
+@
+text
+@d10 5
+a20 4
+   
+   static int boardSize; //boardsize
+   static int b; //total array [0 to x]
+   static int [] board ; //array holding playing board
+@
+
+
+1.89
+log
+@*** empty log message ***
+@
+text
+@d11 5
+a15 4
+    * and another 
+    * and another
+    * and another
+    * and another */
+@
+
+
+1.88
+log
+@*** empty log message ***
+@
+text
+@d1 8
+d10 6
+a18 9
+   //up sort
+   //down sort
+   //left sort
+   //right sort
+   
+   /*
+      This is a test
+      And another
+   */
+@
+
+
+1.87
+log
+@*** empty log message ***
+@
+text
+@d10 3
+a12 6
+   ///////////////////////////////////////////////////////////
+   // This is a test
+   ///////////////////////////////////////////////////////////
+   
+   /**
+   This is a test
+@
+
+
+1.86
+log
+@*** empty log message ***
+@
+text
+@d10 3
+d14 3
+@
+
+
+1.85
+log
+@*** empty log message ***
+@
+text
+@d10 2
+a11 2
+
+
+@
+
+
+1.84
+log
+@*** empty log message ***
+@
+text
+@d9 2
+@
+
+
+1.83
+log
+@*** empty log message ***
+@
+text
+@a4 1
+
+@
+
+
+1.82
+log
+@*** empty log message ***
+@
+text
+@d5 1
+@
+
+
+1.81
+log
+@*** empty log message ***
+@
+text
+@d25 1
+a25 1
+   public static void printBoard() {
+@
+
+
+1.80
+log
+@*** empty log message ***
+@
+text
+@d11 1
+a11 1
+      new Board2048(5);
+@
+
+
+1.79
+log
+@*** empty log message ***
+@
+text
+@d11 1
+a11 1
+      new Board2048();
+@
+
+
+1.78
+log
+@*** empty log message ***
+@
+text
+@d31 1
+a31 1
+   private static int getFree() {
+@
+
+
+1.77
+log
+@*** empty log message ***
+@
+text
+@d33 1
+a33 1
+      for(i : board) {
+@
+
+
+1.76
+log
+@*** empty log message ***
+@
+text
+@d12 1
+a12 1
+      printBoard();
+d29 8
+@
+
+
+1.75
+log
+@*** empty log message ***
+@
+text
+@d20 1
+a20 1
+   public Board2048( int bs) { //new object create with boardsize
+@
+
+
+1.74
+log
+@*** empty log message ***
+@
+text
+@d2 3
+a4 3
+   static int boardSize;
+   static int b;
+   static int [] board ;
+d15 1
+a15 2
+
+   public Board2048() { //new object
+d20 1
+a20 1
+   public Board2048( int bs) { //new object
+a28 5
+      /*
+      for(int i : board) {
+         System.out.println("v:" + i );
+      }
+       */
+d31 1
+a31 1
+   public static void init_board() {
+@
+
+
+1.73
+log
+@*** empty log message ***
+@
+text
+@d11 1
+a11 1
+      new Board2048(7);
+@
+
+
+1.72
+log
+@*** empty log message ***
+@
+text
+@d11 1
+a11 1
+      new Board2048(6);
+@
+
+
+1.71
+log
+@,.
+@
+text
+@d11 1
+a11 1
+      new Board2048(5);
+@
+
+
+1.70
+log
+@*** empty log message ***
+@
+text
+@d11 1
+a11 1
+      new Board2048();
+@
+
+
+1.69
+log
+@*** empty log message ***
+@
+text
+@d11 1
+@
+
+
+1.68
+log
+@*** empty log message ***
+@
+text
+@d4 1
+a4 1
+   static int [] board 
+@
+
+
+1.67
+log
+@*** empty log message ***
+@
+text
+@d4 1
+a4 1
+   static int [] board = new int [b]; //active board
+a10 1
+      Board2048 tmp = new Board2048();
+d38 1
+@
+
+
+1.66
+log
+@*** empty log message ***
+@
+text
+@d11 1
+a11 1
+      new Board2048();
+@
+
+
+1.65
+log
+@*** empty log message ***
+@
+text
+@d11 1
+@
+
+
+1.64
+log
+@*** empty log message ***
+@
+text
+@d2 2
+a3 2
+   static int boardSize = 5;
+   static int b = boardSize * boardSize;
+d14 1
+d16 6
+d37 1
+@
+
+
+1.63
+log
+@*** empty log message ***
+@
+text
+@d19 4
+d26 1
+@
+
+
+1.62
+log
+@*** empty log message ***
+@
+text
+@d12 1
+d14 2
+a21 4
+   }
+
+   public Board2048() {
+      init_board();
+@
+
+
+1.61
+log
+@*** empty log message ***
+@
+text
+@d11 1
+@
+
+
+1.60
+log
+@*** empty log message ***
+@
+text
+@d14 1
+a14 1
+   public printBoard() {
+@
+
+
+1.59
+log
+@*** empty log message ***
+@
+text
+@d11 4
+@
+
+
+1.58
+log
+@*** empty log message ***
+@
+text
+@a10 1
+      init_board();
+d14 4
+@
+
+
+1.57
+log
+@*** empty log message ***
+@
+text
+@a0 2
+//package mytools.Board2048;
+
+@
+
+
+1.56
+log
+@*** empty log message ***
+@
+text
+@d1 1
+a1 1
+package mytools.Board2048;
+a12 4
+      Board2048();
+   }
+
+   public static void Board2048() {
+@
+
+
+1.55
+log
+@*** empty log message ***
+@
+text
+@a13 1
+      init_board();
+d17 1
+@
+
+
+1.54
+log
+@*** empty log message ***
+@
+text
+@d13 1
+d15 3
+@
+
+
+1.53
+log
+@*** empty log message ***
+@
+text
+@d1 1
+a1 1
+package mytools.Game2048;
+@
+
+
+1.52
+log
+@*** empty log message ***
+@
+text
+@d1 1
+a1 2
+
+package Game2048;
+@
+
+
+1.51
+log
+@*** empty log message ***
+@
+text
+@d1 3
+@
+
+
+1.50
+log
+@*** empty log message ***
+@
+text
+@d2 1
+a2 1
+   static int boardSize = 4;
+d4 5
+a8 1
+   static int [] board = new int [b];
+a14 2
+      /*
+       */
+@
+
+
+1.49
+log
+@*** empty log message ***
+@
+text
+@a7 1
+      /*
+d11 1
+@
+
+
+1.48
+log
+@*** empty log message ***
+@
+text
+@d4 1
+a4 1
+   static board [] = new int [b];
+@
+
+
+1.47
+log
+@*** empty log message ***
+@
+text
+@d4 1
+a4 1
+   static board = new int [b];
+@
+
+
+1.46
+log
+@*** empty log message ***
+@
+text
+@d4 1
+a4 1
+   static int [] board;
+@
+
+
+1.45
+log
+@*** empty log message ***
+@
+text
+@d4 1
+a4 1
+   static int [b] board;
+@
+
+
+1.44
+log
+@*** empty log message ***
+@
+text
+@d4 1
+a4 1
+   static int [] board;
+@
+
+
+1.43
+log
+@*** empty log message ***
+@
+text
+@d4 1
+a4 1
+   static int [b] board;
+@
+
+
+1.42
+log
+@*** empty log message ***
+@
+text
+@d8 1
+d12 1
+@
+
+
+1.41
+log
+@*** empty log message ***
+@
+text
+@d9 1
+a9 1
+         System.out.println("i:" + i );
+@
+
+
+1.40
+log
+@*** empty log message ***
+@
+text
+@d9 1
+a9 1
+         System.out.println("i:" + i + " b:" + board[i]);
+@
+
+
+1.39
+log
+@*** empty log message ***
+@
+text
+@d4 1
+a4 1
+   static int [b - 1] board;
+@
+
+
+1.38
+log
+@*** empty log message ***
+@
+text
+@d4 1
+a4 1
+   static int [] board;
+@
+
+
+1.37
+log
+@*** empty log message ***
+@
+text
+@d7 1
+a7 1
+      this.init_board();
+@
+
+
+1.36
+log
+@*** empty log message ***
+@
+text
+@d7 1
+a7 1
+      init_board();
+@
+
+
+1.35
+log
+@*** empty log message ***
+@
+text
+@d10 1
+@
+
+
+1.34
+log
+@*** empty log message ***
+@
+text
+@d7 4
+a10 2
+      System.out.println("Hello\n" + boardSize );
+      System.out.println(b);
+d12 1
+d14 1
+a14 1
+         System.out.println("n:" + x);
+a16 2
+
+
+@
+
+
+1.33
+log
+@*** empty log message ***
+@
+text
+@a5 6
+   for(int x = 0; x < b; x++ ) {
+      System.out.println("n:" + x);
+   }
+   /*
+    */
+
+d9 4
+@
+
+
+1.32
+log
+@*** empty log message ***
+@
+text
+@d7 2
+a8 2
+      System.out.println("n:" + x)
+   };
+@
+
+
+1.31
+log
+@*** empty log message ***
+@
+text
+@d7 1
+a7 1
+      System.out.println("n:" + x);
+@
+
+
+1.30
+log
+@*** empty log message ***
+@
+text
+@d8 1
+a8 1
+   }
+@
+
+
+1.29
+log
+@\.
+@
+text
+@d6 1
+a6 1
+   for(int x = 0; x < b; x++ ;) {
+@
+
+
+1.28
+log
+@*** empty log message ***
+@
+text
+@d6 1
+a6 1
+   for(int x = 0; x < b; x++) {
+@
+
+
+1.27
+log
+@*** empty log message ***
+@
+text
+@d6 1
+a6 1
+   for(int x = 0; x > b; x++) {
+@
+
+
+1.26
+log
+@*** empty log message ***
+@
+text
+@a5 1
+   /*
+d9 1
+@
+
+
+1.25
+log
+@*** empty log message ***
+@
+text
+@d4 3
+a6 1
+   static int [b] board;
+a9 1
+   /*
+@
+
+
+1.24
+log
+@*** empty log message ***
+@
+text
+@d6 1
+a6 1
+      board[x] = 0;
+@
+
+
+1.23
+log
+@*** empty log message ***
+@
+text
+@d5 1
+a5 2
+   int x = 0;
+   for(x = 0; x > b; x++) {
+@
+
+
+1.22
+log
+@*** empty log message ***
+@
+text
+@d4 1
+a4 1
+   static int [] board;
+@
+
+
+1.21
+log
+@*** empty log message ***
+@
+text
+@d6 1
+a6 2
+   /*
+   for(x = 0; x > (boardSize * boardSize); x++) {
+d9 1
+@
+
+
+1.20
+log
+@*** empty log message ***
+@
+text
+@d3 1
+d14 1
+a14 1
+      System.out.println(boardSize * boardSize );
+@
+
+
+1.19
+log
+@*** empty log message ***
+@
+text
+@d12 2
+a13 2
+      System.out.println("Hello\n" + boardSize + "\n");
+      System.out.println(boardSize * boardSize + "\n");
+@
+
+
+1.18
+log
+@*** empty log message ***
+@
+text
+@d5 1
+a8 1
+   /*
+d13 1
+@
+
+
+1.17
+log
+@*** empty log message ***
+@
+text
+@d4 1
+a4 1
+   int x;
+@
+
+
+1.16
+log
+@*** empty log message ***
+@
+text
+@d5 1
+a5 2
+   /*
+   for(x = 0; x > boardSize * boardSize; x++) {
+d8 1
+@
+
+
+1.15
+log
+@*** empty log message ***
+@
+text
+@d4 1
+a5 1
+   int x;
+@
+
+
+1.14
+log
+@*** empty log message ***
+@
+text
+@d4 1
+d9 1
+@
+
+
+1.13
+log
+@*** empty log message ***
+@
+text
+@a8 2
+
+
+@
+
+
+1.12
+log
+@*** empty log message ***
+@
+text
+@d3 7
+@
+
+
+1.11
+log
+@*** empty log message ***
+@
+text
+@d3 1
+d7 2
+@
+
+
+1.10
+log
+@*** empty log message ***
+@
+text
+@d2 1
+a2 1
+   static int boardSize;
+a5 6
+
+   public static void Board2048() {
+      boardSize = 4;
+   }
+
+
+@
+
+
+1.9
+log
+@*** empty log message ***
+@
+text
+@a10 3
+   public static void Board2048(int boardsize) {
+      boardSize = boardsize;
+   }
+@
+
+
+1.8
+log
+@*** empty log message ***
+@
+text
+@d7 4
+a14 3
+   public static void Board2048() {
+      boardSize = 4;
+   }
+@
+
+
+1.7
+log
+@*** empty log message ***
+@
+text
+@d2 1
+a2 1
+   int boardSize;
+@
+
+
+1.6
+log
+@*** empty log message ***
+@
+text
+@d2 1
+a2 1
+   static int boardSize;
+@
+
+
+1.5
+log
+@*** empty log message ***
+@
+text
+@d10 4
+@
+
+
+1.4
+log
+@*** empty log message ***
+@
+text
+@d2 1
+a2 1
+   static boardSize;
+@
+
+
+1.3
+log
+@*** empty log message ***
+@
+text
+@d2 1
+d4 5
+a8 1
+      System.out.println("Hello\n");
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@d3 1
+a3 1
+      System.println("Hello\n");
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 4
+a4 83
+import java.awt.BorderLayout;
+import java.awt.Container;
+import java.awt.Dimension;
+import java.awt.event.*;
+import javax.swing.*;
+
+public class Game extends JFrame implements KeyListener, ActionListener {
+    JTextArea displayArea;
+    JTextField typingArea;
+    int cnt = 0;
+
+    public static void main(String[] args) {
+        //Schedule a job for event dispatch thread: creating and showing this application's GUI.
+        javax.swing.SwingUtilities.invokeLater(new Runnable() {
+            public void run() {
+                createAndShowGUI();
+            }
+        });
+    }
+    
+    private static void createAndShowGUI() {
+        //Create and set up the window.
+        Game frame = new Game("Game 2048!");
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        
+        //Set up the content pane.
+        frame.addComponentsToPane();
+        
+        
+        //Display the window.
+        frame.pack();
+        frame.setVisible(true);
+    }
+    
+    private void addComponentsToPane() {
+        JButton button = new JButton("Clear");
+        button.addActionListener(this);
+        
+        typingArea = new JTextField(20);
+        typingArea.addKeyListener(this);
+        
+        displayArea = new JTextArea();
+        displayArea.setEditable(false);
+        JScrollPane scrollPane = new JScrollPane(displayArea);
+        scrollPane.setPreferredSize(new Dimension(400, 400));
+        
+        getContentPane().add(typingArea, BorderLayout.PAGE_START);
+        getContentPane().add(scrollPane, BorderLayout.CENTER);
+        getContentPane().add(button, BorderLayout.PAGE_END);
+    }
+    
+    public Game(String name) {
+        super(name);
+    }
+    
+    public void keyPressed(KeyEvent e) { } //don't care but required
+    public void keyReleased(KeyEvent e) { } //don't care but required
+    public void keyTyped(KeyEvent e) { 
+       String c = e.getKeyChar() + ""; 
+       switch(c.toLowerCase()) {
+          case "y":
+             displayArea.setText("-Y-" + cnt++);
+             break;
+          case "n":
+             displayArea.setText("-N-" + cnt++);
+             break;
+          case "q":
+             System.exit(0);
+             break;
+       }
+       typingArea.setText("");
+       typingArea.requestFocusInWindow();
+    }
+    
+    public void actionPerformed(ActionEvent e) {
+        //Clear the text components.
+        displayArea.setText("");
+        displayArea.append(e.getActionCommand() + "\n");
+        typingArea.setText("");
+        
+        //Return the focus to the typing area.
+        typingArea.requestFocusInWindow();
+    }
+@
