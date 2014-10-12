@@ -27,8 +27,6 @@ public class Board2048  {
    @param args Command line arguments
    */
 
-
-
    public static void main(String[] args) {
       Board2048 b = new Board2048(4);
       /*
@@ -105,8 +103,6 @@ public class Board2048  {
             return cols;
       }
    }
-
-
 
    /* Actually Set the Board */
    private void setMove(String direction) {
